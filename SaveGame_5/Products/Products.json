@@ -1,0 +1,259 @@
+{
+    "DataType": "ProductManagerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "DiscoveredProducts": [
+        "ogkush",
+        "sourdiesel",
+        "greencrack",
+        "granddaddypurple",
+        "aspendeath",
+        "bananaurkle",
+        "biomonkey",
+        "californiadurkle",
+        "darkpiss",
+        "dreamdiesel",
+        "extremepunch",
+        "extremerhino",
+        "fruityslime",
+        "girlscoutbud",
+        "granddaddydurkle",
+        "icecreamcake",
+        "icecreamhaze",
+        "icecreammonkey",
+        "megamclovin",
+        "miraclepuke",
+        "sexycake",
+        "shinyslime",
+        "stinkycrack",
+        "stinkysmegma",
+        "ultraslime",
+        "meth"
+    ],
+    "ListedProducts": [
+        "granddaddypurple"
+    ],
+    "ActiveMixOperation": {
+        "ProductID": "",
+        "IngredientID": ""
+    },
+    "IsMixComplete": false,
+    "MixRecipes": [
+        {
+            "Product": "paracetamol",
+            "Mixer": "sourdiesel",
+            "Output": "ultraslime"
+        },
+        {
+            "Product": "viagra",
+            "Mixer": "ultraslime",
+            "Output": "aspendeath"
+        },
+        {
+            "Product": "mouthwash",
+            "Mixer": "aspendeath",
+            "Output": "californiadurkle"
+        },
+        {
+            "Product": "cuke",
+            "Mixer": "californiadurkle",
+            "Output": "stinkycrack"
+        },
+        {
+            "Product": "donut",
+            "Mixer": "stinkycrack",
+            "Output": "icecreammonkey"
+        },
+        {
+            "Product": "banana",
+            "Mixer": "icecreammonkey",
+            "Output": "megamclovin"
+        },
+        {
+            "Product": "mouthwash",
+            "Mixer": "sourdiesel",
+            "Output": "extremepunch"
+        },
+        {
+            "Product": "cuke",
+            "Mixer": "extremepunch",
+            "Output": "extremerhino"
+        },
+        {
+            "Product": "paracetamol",
+            "Mixer": "extremerhino",
+            "Output": "granddaddydurkle"
+        },
+        {
+            "Product": "banana",
+            "Mixer": "granddaddydurkle",
+            "Output": "biomonkey"
+        },
+        {
+            "Product": "donut",
+            "Mixer": "biomonkey",
+            "Output": "darkpiss"
+        },
+        {
+            "Product": "viagra",
+            "Mixer": "darkpiss",
+            "Output": "icecreamcake"
+        },
+        {
+            "Product": "horsesemen",
+            "Mixer": "sourdiesel",
+            "Output": "girlscoutbud"
+        },
+        {
+            "Product": "viagra",
+            "Mixer": "girlscoutbud",
+            "Output": "stinkysmegma"
+        },
+        {
+            "Product": "paracetamol",
+            "Mixer": "meth",
+            "Output": "fruityslime"
+        },
+        {
+            "Product": "cuke",
+            "Mixer": "fruityslime",
+            "Output": "bananaurkle"
+        },
+        {
+            "Product": "banana",
+            "Mixer": "bananaurkle",
+            "Output": "dreamdiesel"
+        },
+        {
+            "Product": "mouthwash",
+            "Mixer": "dreamdiesel",
+            "Output": "icecreamhaze"
+        },
+        {
+            "Product": "donut",
+            "Mixer": "meth",
+            "Output": "shinyslime"
+        },
+        {
+            "Product": "viagra",
+            "Mixer": "shinyslime",
+            "Output": "miraclepuke"
+        },
+        {
+            "Product": "mouthwash",
+            "Mixer": "miraclepuke",
+            "Output": "sexycake"
+        }
+    ],
+    "ProductPrices": [
+        {
+            "String": "ogkush",
+            "Int": 38
+        },
+        {
+            "String": "sourdiesel",
+            "Int": 40
+        },
+        {
+            "String": "greencrack",
+            "Int": 43
+        },
+        {
+            "String": "granddaddypurple",
+            "Int": 44
+        },
+        {
+            "String": "meth",
+            "Int": 70
+        },
+        {
+            "String": "cocaine",
+            "Int": 150
+        },
+        {
+            "String": "aspendeath",
+            "Int": 64
+        },
+        {
+            "String": "bananaurkle",
+            "Int": 85
+        },
+        {
+            "String": "biomonkey",
+            "Int": 80
+        },
+        {
+            "String": "californiadurkle",
+            "Int": 75
+        },
+        {
+            "String": "darkpiss",
+            "Int": 90
+        },
+        {
+            "String": "dreamdiesel",
+            "Int": 144
+        },
+        {
+            "String": "extremepunch",
+            "Int": 50
+        },
+        {
+            "String": "extremerhino",
+            "Int": 58
+        },
+        {
+            "String": "fruityslime",
+            "Int": 87
+        },
+        {
+            "String": "girlscoutbud",
+            "Int": 58
+        },
+        {
+            "String": "granddaddydurkle",
+            "Int": 59
+        },
+        {
+            "String": "icecreamcake",
+            "Int": 106
+        },
+        {
+            "String": "icecreamhaze",
+            "Int": 165
+        },
+        {
+            "String": "icecreammonkey",
+            "Int": 82
+        },
+        {
+            "String": "megamclovin",
+            "Int": 111
+        },
+        {
+            "String": "miraclepuke",
+            "Int": 122
+        },
+        {
+            "String": "sexycake",
+            "Int": 140
+        },
+        {
+            "String": "shinyslime",
+            "Int": 90
+        },
+        {
+            "String": "stinkycrack",
+            "Int": 74
+        },
+        {
+            "String": "stinkysmegma",
+            "Int": 74
+        },
+        {
+            "String": "ultraslime",
+            "Int": 48
+        }
+    ],
+    "FavouritedProducts": []
+}

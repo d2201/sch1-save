@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "ConversationIndex": 7,
+    "Read": false,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": -822122081,
+            "Text": "Sweet as homie, I'll meet you <b>behind taco ticklers</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -2119737957,
+            "Text": "Ayo dawg, if you got 6x Granddaddy Purple I'll pay <color=#46CB4F>$320</color> for it. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 318211357,
+            "Text": "Sure thing",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1588452469,
+            "Text": "Cheers bro, I'll meet you <b>at the skatepark</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -435103324,
+            "Text": "Whats up bro, I'm after 6x Granddaddy Purple. I can pay <color=#46CB4F>$320</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1318001698,
+            "Text": "Deal",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1878392135,
+            "Text": "Hell yeah my friend, I'll meet you <b>at the skatepark</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1126968843,
+            "Text": "Whats up bro, I'm after 7x Granddaddy Purple. I can pay <color=#46CB4F>$375</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -975018500,
+            "Text": "Yep",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1969050511,
+            "Text": "Cheers bro, I'll meet you <b>next to the barbershop</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

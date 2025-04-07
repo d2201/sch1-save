@@ -1,0 +1,41 @@
+{
+    "DataType": "WeedProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "Name": "Stinky Crack",
+    "ID": "stinkycrack",
+    "DrugType": 0,
+    "Properties": [
+        "paranoia",
+        "refreshing",
+        "energizing",
+        "balding",
+        "tropicthunder"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 103,
+            "g": 123,
+            "b": 82,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 133,
+            "g": 131,
+            "b": 92,
+            "a": 255
+        },
+        "LeafColor": {
+            "r": 118,
+            "g": 127,
+            "b": 87,
+            "a": 255
+        },
+        "StemColor": {
+            "r": 82,
+            "g": 98,
+            "b": 65,
+            "a": 255
+        }
+    }
+}

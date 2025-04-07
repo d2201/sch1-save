@@ -1,0 +1,28 @@
+{
+    "DataType": "MethProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "Name": "Ice Cream Haze",
+    "ID": "icecreamhaze",
+    "DrugType": 1,
+    "Properties": [
+        "gingeritis",
+        "balding",
+        "jennerising",
+        "thoughtprovoking"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 255,
+            "g": 207,
+            "b": 169,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 238,
+            "g": 186,
+            "b": 129,
+            "a": 255
+        }
+    }
+}

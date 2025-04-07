@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "ConversationIndex": 1,
+    "Read": false,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": -1739663985,
+            "Text": "U got 1x Granddaddy Purple??? I'll pay <color=#46CB4F>-($2,147,483,648)</color> for it. DEAL?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1804371891,
+            "Text": "How about 1x Granddaddy Purple for $101?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 305235333,
+            "Text": "You insane?! No thanks",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 928349671,
+            "Text": "Need me 1x Granddaddy Purple! I'll pay <color=#46CB4F>-($2,147,483,648)</color> yeah??",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1573447560,
+            "Text": "How about 1x Granddaddy Purple for $51?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1543840721,
+            "Text": "NO!!! Nevermind",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1993482216,
+            "Text": "I'm after 1x Granddaddy Purple. I can pay <color=#46CB4F>-($2,147,483,648)</color> for it Deal??",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1955191834,
+            "Text": "Come on!!",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -720565940,
+            "Text": "I'm after 1x Granddaddy Purple. I can pay <color=#46CB4F>-($2,147,483,648)</color> for it Deal??",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 385900662,
+            "Text": "Come on!!",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

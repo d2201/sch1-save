@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "ConversationIndex": 21,
+    "Read": false,
+    "MessageHistory": [
+        {
+            "Sender": 0,
+            "MessageID": -697285388,
+            "Text": "Morning",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 538740248,
+            "Text": "Alright cool, I'll meet you <b>on the west wharf</b> between 6:00 AM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1831827646,
+            "Text": "You got 3x OG Kush? I'll pay <color=#46CB4F>$130</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 691427619,
+            "Text": "Yep",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1543256400,
+            "Text": "Alright cool, I'll meet you <b>next to the statue in the west park</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1509881091,
+            "Text": "Hey, I need 3x Granddaddy Purple. I'll pay <color=#46CB4F>$155</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -480838859,
+            "Text": "Yes",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1772218377,
+            "Text": "Ok, I'll meet you <b>behind the construction site</b> between 6:00 PM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -511493526,
+            "Text": "You got 4x Granddaddy Purple? I'll pay <color=#46CB4F>$210</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1021832382,
+            "Text": "Hello?? Nevermind then",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

@@ -1,0 +1,59 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "ConversationIndex": 28,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": -1700718865,
+            "Text": "Need me 6x OG Kush! I'll pay <color=#46CB4F>$365</color> yeah??",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1138356717,
+            "Text": "How about 6x OG Kush for $370?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -168427578,
+            "Text": "Arghh fine. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1923516571,
+            "Text": "Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -975683689,
+            "Text": "Good!! I'll see u <b>at the basketball court</b> between 6:00 PM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -227031243,
+            "Text": "You got 9x OG Kush? I'll pay <color=#46CB4F>$415</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1309579038,
+            "Text": "Yes",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1904533359,
+            "Text": "Good!! I'll see u <b>behind Thompson construction and demolition</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": true
+}

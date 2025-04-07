@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "ConversationIndex": 2,
+    "Read": false,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 1838027208,
+            "Text": "I've received $405 cash from you. Your debt is now paid off.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -957312140,
+            "Text": "You can pay off your debt by placing cash in my stash. It's behind Dan's Hardware.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1839299701,
+            "Text": "I need a dead drop:\n10x Granddaddy Purple Seed",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1235023985,
+            "Text": "Got it. I'll let you know when it's ready. Should be about 5 hours",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -680635648,
+            "Text": "Hey, that drop is ready at the skate park",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 2117331768,
+            "Text": "Just reminding you that you owe me <color=#46CB4F>$300</color>. Please deposit the amount into my stash box when you're ready.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1872916173,
+            "Text": "You can pay off your debt by placing cash in my stash. It's behind Dan's Hardware.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 528271122,
+            "Text": "Greetings. You can now get your supplies delivered directly to your properties. Use the deliveries app on your phone to place an order.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 376907248,
+            "Text": "I've received $450 cash from you. Your debt is now paid off.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 987283178,
+            "Text": "Agreed. I'll be under the north end of the overpass for the next 6 hours.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

@@ -1,0 +1,53 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "ConversationIndex": 17,
+    "Read": false,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 988375723,
+            "Text": "Heyo, I'm Shirley. I work in the pharmaceutical business, and heard you got a nasty cough...",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1758866308,
+            "Text": "If you're in need of some pseudo, I'm your gal. Send me a message and we'll figure something out",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1158977912,
+            "Text": "I need a dead drop:\n5x Low-Quality Pseudo",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1511199012,
+            "Text": "Got it. I'll let you know when it's ready. Should be about 2 hours 30 min",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -2023058986,
+            "Text": "The drop is ready. You can find it behind the motel office",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1649495972,
+            "Text": "Just reminding you that you owe me <color=#46CB4F>$300</color>. Please deposit the amount into my stash box when you're ready.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1929321795,
+            "Text": "I've received $300 cash from you. Your debt is now paid off.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}
