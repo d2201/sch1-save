@@ -2,27 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f15",
-    "ConversationIndex": 2,
-    "Read": false,
+    "ConversationIndex": 22,
+    "Read": true,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": 1838027208,
-            "Text": "I've received $405 cash from you. Your debt is now paid off.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -957312140,
-            "Text": "You can pay off your debt by placing cash in my stash. It's behind Dan's Hardware.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 1839299701,
-            "Text": "I need a dead drop:\n10x Granddaddy Purple Seed",
-            "EndOfChain": false
-        },
         {
             "Sender": 1,
             "MessageID": 1235023985,
@@ -63,6 +45,24 @@
             "Sender": 1,
             "MessageID": 987283178,
             "Text": "Agreed. I'll be under the north end of the overpass for the next 6 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 432861085,
+            "Text": "Agreed. I'll be under the west bridge for the next 6 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 80876382,
+            "Text": "Agreed. I'll be in the west construction site for the next 6 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -948004139,
+            "Text": "Agreed. I'll be under the west bridge for the next 6 hours.",
             "EndOfChain": true
         }
     ],

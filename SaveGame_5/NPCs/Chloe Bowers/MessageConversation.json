@@ -2,70 +2,70 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f15",
-    "ConversationIndex": 26,
+    "ConversationIndex": 12,
     "Read": true,
     "MessageHistory": [
         {
-            "Sender": 0,
-            "MessageID": 324141097,
-            "Text": "How about 2x OG Kush for $105?",
-            "EndOfChain": false
-        },
-        {
             "Sender": 1,
-            "MessageID": -703494812,
-            "Text": "Not gonna happen. I'll get it somewhere else",
+            "MessageID": 1165488535,
+            "Text": "Ok, I'll meet you <b>behind Thompson construction and demolition</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -303512357,
-            "Text": "Hey, I need 1x OG Kush. I'll pay <color=#46CB4F>$55</color>. Deal?",
+            "MessageID": -573250117,
+            "Text": "Hey, can I get 4x Granddaddy Purple? I'll pay <color=#46CB4F>$215</color>",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": -2118724800,
-            "Text": "How about 1x OG Kush for $65?",
-            "EndOfChain": false
+            "MessageID": 563414440,
+            "Text": "Sure thing",
+            "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 1308560421,
-            "Text": "I guess that's fine. When?",
+            "MessageID": -1007887116,
+            "Text": "Ok, I'll meet you <b>next to Bud's bar</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 714457735,
+            "Text": "Hello, I'm after 4x Granddaddy Purple. I can pay <color=#46CB4F>$215</color> for it.",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": 1309747941,
-            "Text": "Night",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 1820959879,
-            "Text": "Alright cool, I'll meet you <b>behind the shipping containers near Sauerkraut Supreme</b> between 6:00 PM and 12:00 PM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -7554587,
-            "Text": "Hey, can I get 2x OG Kush? I'll pay <color=#46CB4F>$85</color>",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": -744304095,
+            "MessageID": -1699094451,
             "Text": "Deal",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 1633379468,
-            "Text": "Alright cool, I'll meet you <b>behind Thompson construction and demolition</b> between 6:00 PM and 12:00 PM.",
+            "MessageID": -232866064,
+            "Text": "Ok, I'll meet you <b>behind Thompson construction and demolition</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -729854143,
+            "Text": "Hey, can I get 4x Granddaddy Purple? I'll pay <color=#46CB4F>$215</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -987340066,
+            "Text": "Deal",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1890207905,
+            "Text": "Alright cool, I'll meet you <b>behind Thompson construction and demolition</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         }
     ],
     "ActiveResponses": [],
-    "IsHidden": true
+    "IsHidden": false
 }

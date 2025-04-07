@@ -4,17 +4,9 @@
     "GameVersion": "0.3.3f15",
     "ID": "molly_presley",
     "Recruited": true,
-    "AssignedCustomerIDs": [
-        "sam_thompson",
-        "trent_sherman",
-        "beth_penn",
-        "joyce_ball",
-        "austin_steiner",
-        "doris_lubbin",
-        "kim_delaney"
-    ],
+    "AssignedCustomerIDs": [],
     "ActiveContractGUIDs": [],
-    "Cash": 1639.199951171875,
+    "Cash": 0.0,
     "OverflowItems": {
         "Items": [
             "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"\",\"Quantity\":0}",

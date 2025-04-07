@@ -2,7 +2,7 @@
     "DataType": "CustomerData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f15",
-    "Dependence": 0.13040000200271607,
+    "Dependence": 0.0,
     "PurchaseableProducts": [
         "granddaddypurple"
     ],
@@ -11,10 +11,10 @@
         -0.27379047870635989,
         0.25126001238822939
     ],
-    "TimeSinceLastDealCompleted": 495,
-    "TimeSinceLastDealOffered": 562,
-    "OfferedDeals": 13,
-    "CompletedDeals": 13,
+    "TimeSinceLastDealCompleted": 1892,
+    "TimeSinceLastDealOffered": 2078,
+    "OfferedDeals": 17,
+    "CompletedDeals": 17,
     "IsContractOffered": false,
     "OfferedContract": {
         "Payment": 0.0,
@@ -33,10 +33,10 @@
         "IsCounterOffer": false
     },
     "OfferedContractTime": {
-        "elapsedDays": 0,
-        "time": 0
+        "elapsedDays": 20,
+        "time": 2000
     },
-    "TimeSincePlayerApproached": 1020621,
-    "TimeSinceInstantDealOffered": 1020621,
+    "TimeSincePlayerApproached": 1034444,
+    "TimeSinceInstantDealOffered": 1034444,
     "HasBeenRecommended": false
 }

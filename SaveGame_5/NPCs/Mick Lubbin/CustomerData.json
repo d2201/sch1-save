@@ -7,14 +7,14 @@
         "granddaddypurple"
     ],
     "ProductAffinities": [
-        0.019999921321868898,
+        0.46999990940093996,
         0.8799999952316284,
         0.3700000047683716
     ],
-    "TimeSinceLastDealCompleted": 537,
-    "TimeSinceLastDealOffered": 592,
-    "OfferedDeals": 12,
-    "CompletedDeals": 10,
+    "TimeSinceLastDealCompleted": 258,
+    "TimeSinceLastDealOffered": 619,
+    "OfferedDeals": 18,
+    "CompletedDeals": 16,
     "IsContractOffered": false,
     "OfferedContract": {
         "Payment": 0.0,
@@ -33,10 +33,10 @@
         "IsCounterOffer": false
     },
     "OfferedContractTime": {
-        "elapsedDays": 0,
-        "time": 0
+        "elapsedDays": 21,
+        "time": 1930
     },
-    "TimeSincePlayerApproached": 20621,
-    "TimeSinceInstantDealOffered": 20621,
+    "TimeSincePlayerApproached": 34444,
+    "TimeSinceInstantDealOffered": 34444,
     "HasBeenRecommended": false
 }

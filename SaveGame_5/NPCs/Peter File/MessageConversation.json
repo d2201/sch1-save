@@ -2,67 +2,67 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f15",
-    "ConversationIndex": 8,
-    "Read": false,
+    "ConversationIndex": 23,
+    "Read": true,
     "MessageHistory": [
         {
-            "Sender": 0,
-            "MessageID": -117246165,
-            "Text": "How about 6x Granddaddy Purple for $320?",
-            "EndOfChain": false
-        },
-        {
             "Sender": 1,
-            "MessageID": -952388239,
-            "Text": "I guess that's fine. When?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 44271756,
-            "Text": "Afternoon",
+            "MessageID": 767521574,
+            "Text": "Great, I'll meet you <b>next to the barbershop</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 747023879,
-            "Text": "Great, I'll meet you <b>next to Bud's bar</b> between 12:00 PM and 6:00 PM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -1383390956,
-            "Text": "Hello, I'm after 6x Granddaddy Purple. I can pay <color=#46CB4F>$320</color> for it.",
+            "MessageID": 2034604456,
+            "Text": "Hey, have you got 6x Granddaddy Purple? I'll pay <color=#46CB4F>$320</color> for it",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": -245600288,
-            "Text": "Sure thing",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 886112226,
-            "Text": "Great, I'll meet you <b>in front of the motel</b> between 12:00 PM and 6:00 PM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -1600730434,
-            "Text": "Hey, can I get 6x Granddaddy Purple? I'll pay <color=#46CB4F>$320</color>",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 1502339608,
+            "MessageID": -958346342,
             "Text": "Yep",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 1722349473,
-            "Text": "Great, I'll meet you <b>at the basketball court</b> between 12:00 PM and 6:00 PM.",
+            "MessageID": -1028128807,
+            "Text": "Great, I'll meet you <b>behind Sauerkraut Supreme pizzeria</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1912696970,
+            "Text": "Hello, I'm after 7x Granddaddy Purple. I can pay <color=#46CB4F>$375</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1242213977,
+            "Text": "Sure thing",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -578970444,
+            "Text": "Great, I'll meet you <b>next to the barbershop</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -747949843,
+            "Text": "Hey, can I get 7x Granddaddy Purple? I'll pay <color=#46CB4F>$375</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -902677587,
+            "Text": "Yep",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1225264816,
+            "Text": "Great, I'll meet you <b>behind Sauerkraut Supreme pizzeria</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         }
     ],

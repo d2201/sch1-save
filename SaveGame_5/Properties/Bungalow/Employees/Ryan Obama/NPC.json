@@ -1,0 +1,30 @@
+{
+    "DataType": "BotanistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "ID": "ryan_obama",
+    "AssignedProperty": "bungalow",
+    "FirstName": "Ryan",
+    "LastName": "Obama",
+    "IsMale": true,
+    "AppearanceIndex": 6,
+    "Position": {
+        "x": -168.98533630371095,
+        "y": -3.995692014694214,
+        "z": 111.93380737304688
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 0.667593240737915,
+        "z": 0.0,
+        "w": 0.744526207447052
+    },
+    "GUID": "fc4784b1-06db-4752-b04e-48cc222e71e8",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

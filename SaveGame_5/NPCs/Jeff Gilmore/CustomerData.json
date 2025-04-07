@@ -1,0 +1,42 @@
+{
+    "DataType": "CustomerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "Dependence": 0.0,
+    "PurchaseableProducts": [
+        "granddaddypurple"
+    ],
+    "ProductAffinities": [
+        1.0,
+        -0.8399999737739563,
+        -0.3100000023841858
+    ],
+    "TimeSinceLastDealCompleted": 158,
+    "TimeSinceLastDealOffered": 1339,
+    "OfferedDeals": 6,
+    "CompletedDeals": 6,
+    "IsContractOffered": false,
+    "OfferedContract": {
+        "Payment": 0.0,
+        "Products": {
+            "entries": []
+        },
+        "DeliveryLocationGUID": "",
+        "DeliveryWindow": {
+            "IsEnabled": false,
+            "WindowStartTime": 1200,
+            "WindowEndTime": 1800
+        },
+        "Expires": false,
+        "ExpiresAfter": 0,
+        "PickupScheduleIndex": 0,
+        "IsCounterOffer": false
+    },
+    "OfferedContractTime": {
+        "elapsedDays": 21,
+        "time": 730
+    },
+    "TimeSincePlayerApproached": 1013823,
+    "TimeSinceInstantDealOffered": 1013823,
+    "HasBeenRecommended": false
+}
