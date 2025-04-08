@@ -2,27 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f15",
-    "ConversationIndex": 28,
-    "Read": false,
+    "ConversationIndex": 37,
+    "Read": true,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": -1675956049,
-            "Text": "Sick as, I'll meet you <b>in the parking garage next to the casino</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -1825536997,
-            "Text": "Ay bro you got 6x Granddaddy Purple? I'll pay <color=#46CB4F>$340</color> for it",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": -1410153486,
-            "Text": "Sure thing",
-            "EndOfChain": true
-        },
         {
             "Sender": 1,
             "MessageID": 73925297,
@@ -63,6 +45,24 @@
             "Sender": 1,
             "MessageID": -1712572966,
             "Text": "Sweet as homie, I'll meet you <b>behind the diner</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1618938255,
+            "Text": "Hey dog, I need 7x Granddaddy Purple. I'll pay <color=#46CB4F>$450</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1836452515,
+            "Text": "Sure thing",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 487406531,
+            "Text": "Sick as, I'll meet you <b>behind the casino</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         }
     ],

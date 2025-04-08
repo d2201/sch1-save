@@ -29,7 +29,16 @@
         "stinkycrack",
         "stinkysmegma",
         "ultraslime",
-        "meth"
+        "meth",
+        "strawberryshart",
+        "ogcrack",
+        "extrememclovin",
+        "fatrhino",
+        "whitedick",
+        "ogthunderfuck",
+        "extremeurkle",
+        "tokyoghost",
+        "cocaine"
     ],
     "ListedProducts": [
         "granddaddypurple"
@@ -149,6 +158,46 @@
             "Product": "granddaddypurple",
             "Mixer": "cuke",
             "Output": "aspensmegma"
+        },
+        {
+            "Product": "energydrink",
+            "Mixer": "granddaddypurple",
+            "Output": "strawberryshart"
+        },
+        {
+            "Product": "megabean",
+            "Mixer": "strawberryshart",
+            "Output": "ogcrack"
+        },
+        {
+            "Product": "motoroil",
+            "Mixer": "ogcrack",
+            "Output": "extrememclovin"
+        },
+        {
+            "Product": "banana",
+            "Mixer": "aspensmegma",
+            "Output": "fatrhino"
+        },
+        {
+            "Product": "horsesemen",
+            "Mixer": "fatrhino",
+            "Output": "whitedick"
+        },
+        {
+            "Product": "gasoline",
+            "Mixer": "whitedick",
+            "Output": "ogthunderfuck"
+        },
+        {
+            "Product": "banana",
+            "Mixer": "ogthunderfuck",
+            "Output": "extremeurkle"
+        },
+        {
+            "Product": "chili",
+            "Mixer": "extremeurkle",
+            "Output": "tokyoghost"
         }
     ],
     "ProductPrices": [
@@ -263,6 +312,38 @@
         {
             "String": "ultraslime",
             "Int": 48
+        },
+        {
+            "String": "strawberryshart",
+            "Int": 50
+        },
+        {
+            "String": "ogcrack",
+            "Int": 52
+        },
+        {
+            "String": "extrememclovin",
+            "Int": 47
+        },
+        {
+            "String": "fatrhino",
+            "Int": 66
+        },
+        {
+            "String": "whitedick",
+            "Int": 85
+        },
+        {
+            "String": "ogthunderfuck",
+            "Int": 67
+        },
+        {
+            "String": "extremeurkle",
+            "Int": 80
+        },
+        {
+            "String": "tokyoghost",
+            "Int": 93
         }
     ],
     "FavouritedProducts": []

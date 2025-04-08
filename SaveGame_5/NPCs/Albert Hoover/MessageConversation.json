@@ -2,21 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f15",
-    "ConversationIndex": 0,
-    "Read": false,
+    "ConversationIndex": 6,
+    "Read": true,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": -680635648,
-            "Text": "Hey, that drop is ready at the skate park",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 2117331768,
-            "Text": "Just reminding you that you owe me <color=#46CB4F>$300</color>. Please deposit the amount into my stash box when you're ready.",
-            "EndOfChain": true
-        },
         {
             "Sender": 1,
             "MessageID": 1872916173,
@@ -63,6 +51,18 @@
             "Sender": 1,
             "MessageID": -751716729,
             "Text": "Agreed. I'll be next to the mayor's house for the next 6 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1568516023,
+            "Text": "Agreed. I'll be next to the mayor's house for the next 6 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1800830637,
+            "Text": "Agreed. I'll be in the west construction site for the next 6 hours.",
             "EndOfChain": true
         }
     ],

@@ -4,9 +4,21 @@
     "GameVersion": "0.3.3f15",
     "ID": "benji_coleman",
     "Recruited": true,
-    "AssignedCustomerIDs": [],
-    "ActiveContractGUIDs": [],
-    "Cash": 0.0,
+    "AssignedCustomerIDs": [
+        "ming",
+        "beth_penn",
+        "donna_martin",
+        "trent_sherman",
+        "keith_wagner",
+        "meg_cooley",
+        "joyce_ball",
+        "doris_lubbin"
+    ],
+    "ActiveContractGUIDs": [
+        "bb3b45c3-2642-4956-a634-fd4ca1bc21ee",
+        "45625b90-2076-4ac5-a28e-f27a73586e16"
+    ],
+    "Cash": 576.0,
     "OverflowItems": {
         "Items": [
             "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"\",\"Quantity\":0}",

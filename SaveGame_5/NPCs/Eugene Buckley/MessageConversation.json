@@ -2,7 +2,7 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f15",
-    "ConversationIndex": 17,
+    "ConversationIndex": 19,
     "Read": true,
     "MessageHistory": [
         {
@@ -21,6 +21,36 @@
             "Sender": 1,
             "MessageID": -1661296487,
             "Text": "Great, I'll meet you <b>behind the Crimson Canary</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 943803720,
+            "Text": "Hey, if you got 11x Granddaddy Purple I'll pay <color=#46CB4F>$665</color> for it. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1597957476,
+            "Text": "How about 10x Granddaddy Purple for $625?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1686911396,
+            "Text": "Alright then. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -91474498,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -79003789,
+            "Text": "Great, I'll meet you <b>in the central canal near the car wash</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         }
     ],

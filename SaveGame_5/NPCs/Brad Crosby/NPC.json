@@ -3,10 +3,21 @@
     "DataVersion": 0,
     "GameVersion": "0.3.3f15",
     "ID": "brad_crosby",
-    "Recruited": false,
-    "AssignedCustomerIDs": [],
-    "ActiveContractGUIDs": [],
-    "Cash": 0.0,
+    "Recruited": true,
+    "AssignedCustomerIDs": [
+        "chloe_bowers",
+        "ludwig_meyer",
+        "sam_thompson",
+        "mac_cooper",
+        "lisa_gardener",
+        "marco_baron",
+        "peggy_myers",
+        "mick_lubbin"
+    ],
+    "ActiveContractGUIDs": [
+        "2d896492-1651-498c-ad1c-8305c4ce2bdc"
+    ],
+    "Cash": 1764.0,
     "OverflowItems": {
         "Items": [
             "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"\",\"Quantity\":0}",
