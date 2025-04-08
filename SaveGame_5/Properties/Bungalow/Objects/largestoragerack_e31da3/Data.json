@@ -18,9 +18,9 @@
             "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"potsprinkler\",\"Quantity\":2}",
             "{\"DataType\":\"TrashGrabberData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"trashgrabber\",\"Quantity\":1,\"Content\":{\"TrashIDs\":[],\"TrashQuantities\":[]}}",
             "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"\",\"Quantity\":0}",
-            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"\",\"Quantity\":0}",
-            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"\",\"Quantity\":0}",
-            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"\",\"Quantity\":0}"
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"skateboard\",\"Quantity\":1}",
+            "{\"DataType\":\"IntegerItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"revolver\",\"Quantity\":1,\"Value\":0}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"electrictrimmers\",\"Quantity\":1}"
         ]
     }
 }

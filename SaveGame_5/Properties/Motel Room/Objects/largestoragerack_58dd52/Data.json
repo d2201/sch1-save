@@ -13,7 +13,7 @@
     "Rotation": 90,
     "Contents": {
         "Items": [
-            "{\"DataType\":\"IntegerItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"revolver\",\"Quantity\":1,\"Value\":0}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"\",\"Quantity\":0}",
             "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"granddaddypurple\",\"Quantity\":5,\"Quality\":\"Standard\",\"PackagingID\":\"jar\"}",
             "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"TV\",\"Quantity\":1}",
             "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"mouthwash\",\"Quantity\":1}",

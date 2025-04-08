@@ -2,27 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f15",
-    "ConversationIndex": 31,
+    "ConversationIndex": 29,
     "Read": true,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": -1999816432,
-            "Text": "Great, I'll meet you <b>behind the western Gas Mart</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 1763087068,
-            "Text": "Hello, I'm after 4x Granddaddy Purple. I can pay <color=#46CB4F>$215</color> for it.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 698429802,
-            "Text": "Yes",
-            "EndOfChain": true
-        },
         {
             "Sender": 1,
             "MessageID": -1910782131,
@@ -63,6 +45,24 @@
             "Sender": 1,
             "MessageID": 2060037653,
             "Text": "Great, I'll meet you <b>outside room #2 of the brown apartment block</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 391952240,
+            "Text": "Hello, I'm after 4x Granddaddy Purple. I can pay <color=#46CB4F>$215</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1253010645,
+            "Text": "Deal",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1286363994,
+            "Text": "Great, I'll meet you <b>next to the statue in the west park</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         }
     ],

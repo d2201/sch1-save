@@ -2,27 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f15",
-    "ConversationIndex": 27,
-    "Read": true,
+    "ConversationIndex": 28,
+    "Read": false,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": -2111360656,
-            "Text": "Sweet as homie, I'll meet you <b>behind the casino</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -1352041438,
-            "Text": "Whats up bro, I'm after 6x Granddaddy Purple. I can pay <color=#46CB4F>$335</color> for it.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 638394367,
-            "Text": "Sure thing",
-            "EndOfChain": true
-        },
         {
             "Sender": 1,
             "MessageID": -1675956049,
@@ -63,6 +45,24 @@
             "Sender": 1,
             "MessageID": -1453866326,
             "Text": "Sick as, I'll meet you <b>on the wharf near the french restaurant</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 90713140,
+            "Text": "Ayo dawg, if you got 7x Granddaddy Purple I'll pay <color=#46CB4F>$395</color> for it. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 416883938,
+            "Text": "Deal",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1712572966,
+            "Text": "Sweet as homie, I'll meet you <b>behind the diner</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         }
     ],

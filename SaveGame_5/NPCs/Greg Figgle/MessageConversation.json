@@ -2,27 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f15",
-    "ConversationIndex": 21,
-    "Read": true,
+    "ConversationIndex": 23,
+    "Read": false,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": 1203744535,
-            "Text": "Good!! I'll see u <b>behind the auto shop</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -1963801337,
-            "Text": "I'm after 8x Granddaddy Purple. I can pay <color=#46CB4F>$405</color> for it Deal??",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 93738064,
-            "Text": "Yep",
-            "EndOfChain": true
-        },
         {
             "Sender": 1,
             "MessageID": 433360509,
@@ -63,6 +45,24 @@
             "Sender": 1,
             "MessageID": -805318283,
             "Text": "Good!! I'll see u <b>behind Thrifty threads</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1886124682,
+            "Text": "I'm after 11x Granddaddy Purple. I can pay <color=#46CB4F>$575</color> for it Deal??",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 213893787,
+            "Text": "Deal",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1113711268,
+            "Text": "Good!! I'll see u <b>in the central canal near the car wash</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         }
     ],

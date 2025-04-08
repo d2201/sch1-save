@@ -2,45 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f15",
-    "ConversationIndex": 19,
-    "Read": true,
+    "ConversationIndex": 17,
+    "Read": false,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": -1268913930,
-            "Text": "Ok, I'll meet you <b>on the west wharf</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -80762965,
-            "Text": "Hello, I'm after 7x Granddaddy Purple. I can pay <color=#46CB4F>$395</color> for it.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 193738036,
-            "Text": "Yep",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 763723660,
-            "Text": "Alright cool, I'll meet you <b>behind the pawn shop</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 1753864088,
-            "Text": "You got 7x Granddaddy Purple? I'll pay <color=#46CB4F>$395</color> for it",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": -1348281493,
-            "Text": "Sure thing",
-            "EndOfChain": true
-        },
         {
             "Sender": 1,
             "MessageID": 1009964416,
@@ -63,6 +27,42 @@
             "Sender": 1,
             "MessageID": -1754142422,
             "Text": "Alright cool, I'll meet you <b>behind the construction site</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 536275843,
+            "Text": "Hey, if you got 7x Granddaddy Purple I'll pay <color=#46CB4F>$395</color> for it. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1796871559,
+            "Text": "Yes",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -861380854,
+            "Text": "Alright cool, I'll meet you <b>behind the western Gas Mart</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 2067834393,
+            "Text": "Hey, if you got 7x Granddaddy Purple I'll pay <color=#46CB4F>$395</color> for it. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 557911453,
+            "Text": "Yes",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1828501270,
+            "Text": "Ok, I'll meet you <b>in the west construction site</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         }
     ],
