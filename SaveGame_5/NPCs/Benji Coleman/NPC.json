@@ -14,10 +14,8 @@
         "joyce_ball",
         "doris_lubbin"
     ],
-    "ActiveContractGUIDs": [
-        "d45ebc67-fdce-48b5-80c4-013f23466f46"
-    ],
-    "Cash": 2438.39990234375,
+    "ActiveContractGUIDs": [],
+    "Cash": 3743.99951171875,
     "OverflowItems": {
         "Items": [
             "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"\",\"Quantity\":0}",

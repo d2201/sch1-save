@@ -2,44 +2,44 @@
     "DataType": "ContractData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f15",
-    "GUID": "d45ebc67-fdce-48b5-80c4-013f23466f46",
+    "GUID": "1f612a2a-8a5a-4a1d-8610-7f5790e13239",
     "State": 1,
-    "IsTracked": false,
-    "Title": "Deal for Doris",
-    "Description": "Doris has requested a delivery of 4x Granddaddy Purple outside room #2 of the brown apartment block for $240.",
+    "IsTracked": true,
+    "Title": "Deal for Genghis",
+    "Description": "Genghis has requested a delivery of 10x Granddaddy Purple underneath the south end of the overpass for $585.",
     "Expires": true,
     "ExpiryDate": {
         "DataType": "GameDateTimeData",
         "DataVersion": 0,
         "GameVersion": "0.3.3f15",
-        "ElapsedDays": 33,
-        "Time": 1800
+        "ElapsedDays": 34,
+        "Time": 600
     },
     "Entries": [
         {
             "DataType": "QuestEntryData",
             "DataVersion": 0,
             "GameVersion": "0.3.3f15",
-            "Name": "4x Granddaddy Purple, Outside brown apartment block room #2",
+            "Name": "10x Granddaddy Purple, South Overpass",
             "State": 1
         }
     ],
-    "CustomerGUID": "959103b2-1e7c-4e87-a47f-dad6acbbed86",
-    "Payment": 240.0,
+    "CustomerGUID": "76d514d5-e4b3-4297-aaec-8d35d5d5403b",
+    "Payment": 585.0,
     "ProductList": {
         "entries": [
             {
                 "ProductID": "granddaddypurple",
-                "Quality": 1,
-                "Quantity": 4
+                "Quality": 0,
+                "Quantity": 10
             }
         ]
     },
-    "DeliveryLocationGUID": "71a56a7a-9b3a-4b59-98ce-2e29448f33ba",
+    "DeliveryLocationGUID": "4cbdc267-5898-406f-a5bc-cfce0aec8c2b",
     "DeliveryWindow": {
         "IsEnabled": true,
-        "WindowStartTime": 1200,
-        "WindowEndTime": 1800
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
     },
     "PickupScheduleIndex": 0,
     "AcceptTime": {
@@ -47,6 +47,6 @@
         "DataVersion": 0,
         "GameVersion": "0.3.3f15",
         "ElapsedDays": 33,
-        "Time": 1100
+        "Time": 1548
     }
 }

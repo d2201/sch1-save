@@ -2,11 +2,11 @@
     "DataType": "DeaddropQuestData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f15",
-    "GUID": "ff597e29-7ac2-4800-9b09-93eef5310578",
+    "GUID": "839e7ba5-9fe9-4c09-8957-e6b119426808",
     "State": 2,
     "IsTracked": true,
     "Title": "Collect Dead Drop",
-    "Description": "Collect the dead drop in the alleyway behind the laundromat",
+    "Description": "Collect the dead drop behind the motel office",
     "Expires": false,
     "ExpiryDate": {
         "DataType": "GameDateTimeData",
@@ -20,9 +20,9 @@
             "DataType": "QuestEntryData",
             "DataVersion": 0,
             "GameVersion": "0.3.3f15",
-            "Name": "Alleyway behind the laundromat",
+            "Name": "Behind motel office",
             "State": 2
         }
     ],
-    "DeaddropGUID": "555e565d-2f65-4882-9edb-7167168b2e00"
+    "DeaddropGUID": "d66b3fd6-7b7f-4e98-b000-6d5a197f7437"
 }

@@ -2,11 +2,11 @@
     "DataType": "DeaddropQuestData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f15",
-    "GUID": "91fe0d22-5b75-41f0-91ed-35d7eed5259c",
+    "GUID": "1b982510-85b5-4989-99a9-1130619ba31e",
     "State": 2,
     "IsTracked": true,
     "Title": "Collect Dead Drop",
-    "Description": "Collect the dead drop at the skate park",
+    "Description": "Collect the dead drop behind the bank",
     "Expires": false,
     "ExpiryDate": {
         "DataType": "GameDateTimeData",
@@ -20,9 +20,9 @@
             "DataType": "QuestEntryData",
             "DataVersion": 0,
             "GameVersion": "0.3.3f15",
-            "Name": "Skate park",
+            "Name": "Behind bank",
             "State": 2
         }
     ],
-    "DeaddropGUID": "eda8c6a4-07be-4d8f-97f4-ddd6dfca19df"
+    "DeaddropGUID": "e5399b56-22a5-4a2c-a254-cc81e3ab2f75"
 }

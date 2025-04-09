@@ -2,39 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f15",
-    "ConversationIndex": 5,
+    "ConversationIndex": 3,
     "Read": true,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": 237141742,
-            "Text": "Hello, I'm after 8x Granddaddy Purple. I can pay <color=#46CB4F>$485</color> for it.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 1463075247,
-            "Text": "How about 10x Granddaddy Purple for $585?",
-            "EndOfChain": false
-        },
-        {
-            "Sender": 1,
-            "MessageID": -2147315928,
-            "Text": "Ok. What time you wanna meet?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": -1562033724,
-            "Text": "Late Night",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 504677543,
-            "Text": "Great, I'll meet you <b>underneath the south end of the overpass</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
         {
             "Sender": 1,
             "MessageID": -357325467,
@@ -63,6 +33,36 @@
             "Sender": 1,
             "MessageID": -253362593,
             "Text": "Great, I'll meet you <b>behind the shipping containers at the docks</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 490236248,
+            "Text": "Hello, I'm after 9x Granddaddy Purple. I can pay <color=#46CB4F>$545</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1544230368,
+            "Text": "How about 10x Granddaddy Purple for $585?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1693223047,
+            "Text": "Hmm ok. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1347895771,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1105604664,
+            "Text": "Great, I'll meet you <b>in the central canal near the car wash</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         }
     ],

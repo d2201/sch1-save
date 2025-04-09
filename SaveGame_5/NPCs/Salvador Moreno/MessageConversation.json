@@ -2,15 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f15",
-    "ConversationIndex": 0,
-    "Read": true,
+    "ConversationIndex": 4,
+    "Read": false,
     "MessageHistory": [
-        {
-            "Sender": 0,
-            "MessageID": 1530943496,
-            "Text": "I need a dead drop:\n10x Coca Seed",
-            "EndOfChain": false
-        },
         {
             "Sender": 1,
             "MessageID": 1495377068,
@@ -63,6 +57,12 @@
             "Sender": 1,
             "MessageID": 344818409,
             "Text": "Working on it. Should be ready in around 5 hours",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1043300435,
+            "Text": "The drop is ready. You can find it on the east-exterior wall of Taco Ticklers",
             "EndOfChain": true
         }
     ],

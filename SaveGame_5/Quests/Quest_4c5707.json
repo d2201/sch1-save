@@ -2,11 +2,11 @@
     "DataType": "DeaddropQuestData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f15",
-    "GUID": "217c1f5e-1fd9-4d36-8aa3-a3e7b0885f2d",
+    "GUID": "4c57079b-d8fc-4fc2-aeef-be6b7cd0a986",
     "State": 2,
     "IsTracked": true,
     "Title": "Collect Dead Drop",
-    "Description": "Collect the dead drop behind the motel office",
+    "Description": "Collect the dead drop behind the auto shop",
     "Expires": false,
     "ExpiryDate": {
         "DataType": "GameDateTimeData",
@@ -20,9 +20,9 @@
             "DataType": "QuestEntryData",
             "DataVersion": 0,
             "GameVersion": "0.3.3f15",
-            "Name": "Behind motel office",
+            "Name": "Behind auto shop",
             "State": 2
         }
     ],
-    "DeaddropGUID": "d66b3fd6-7b7f-4e98-b000-6d5a197f7437"
+    "DeaddropGUID": "aaea12a7-ee38-47ba-aeb8-fb0d45a03957"
 }

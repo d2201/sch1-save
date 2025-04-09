@@ -2,11 +2,11 @@
     "DataType": "DeaddropQuestData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f15",
-    "GUID": "e7e560e7-b869-4e13-b73c-508951058c47",
+    "GUID": "aecf1e72-1fd7-4e36-9fcc-390a9b61f589",
     "State": 2,
     "IsTracked": true,
     "Title": "Collect Dead Drop",
-    "Description": "Collect the dead drop in the alleyway behind Slop Shop (the diner)",
+    "Description": "Collect the dead drop behind the supermarket",
     "Expires": false,
     "ExpiryDate": {
         "DataType": "GameDateTimeData",
@@ -20,9 +20,9 @@
             "DataType": "QuestEntryData",
             "DataVersion": 0,
             "GameVersion": "0.3.3f15",
-            "Name": "Alleyway behind Slop Shop",
+            "Name": "Behind the supermarket",
             "State": 2
         }
     ],
-    "DeaddropGUID": "58ec86b5-647e-456d-9266-4cd77413e9c3"
+    "DeaddropGUID": "fe1782b0-64e5-4ae6-a3f9-56af509af104"
 }

@@ -2,11 +2,11 @@
     "DataType": "DeaddropQuestData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f15",
-    "GUID": "1e2617d2-146f-473c-8caa-08cbad0dad62",
+    "GUID": "02a0f87c-beda-491d-a78d-391c5593afc3",
     "State": 2,
     "IsTracked": true,
     "Title": "Collect Dead Drop",
-    "Description": "Collect the dead drop behind the western Gas-Mart",
+    "Description": "Collect the dead drop at the skate park",
     "Expires": false,
     "ExpiryDate": {
         "DataType": "GameDateTimeData",
@@ -20,9 +20,9 @@
             "DataType": "QuestEntryData",
             "DataVersion": 0,
             "GameVersion": "0.3.3f15",
-            "Name": "Behind Gas-Mart",
+            "Name": "Skate park",
             "State": 2
         }
     ],
-    "DeaddropGUID": "64d10032-64a9-4cd9-8750-8048d71c5029"
+    "DeaddropGUID": "eda8c6a4-07be-4d8f-97f4-ddd6dfca19df"
 }
