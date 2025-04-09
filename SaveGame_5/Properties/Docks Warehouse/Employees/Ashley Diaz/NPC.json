@@ -1,0 +1,30 @@
+{
+    "DataType": "ChemistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "ID": "ashley_diaz",
+    "AssignedProperty": "dockswarehouse",
+    "FirstName": "Ashley",
+    "LastName": "Diaz",
+    "IsMale": false,
+    "AppearanceIndex": 0,
+    "Position": {
+        "x": -72.95782470703125,
+        "y": -2.429999828338623,
+        "z": -62.78622817993164
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": -0.5855227708816528,
+        "z": 0.0,
+        "w": 0.810655951499939
+    },
+    "GUID": "fa719393-f610-46a0-b4ca-345dded8724b",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

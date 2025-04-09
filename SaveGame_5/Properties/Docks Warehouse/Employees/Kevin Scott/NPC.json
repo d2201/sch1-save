@@ -1,0 +1,30 @@
+{
+    "DataType": "PackagerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "ID": "kevin_scott",
+    "AssignedProperty": "dockswarehouse",
+    "FirstName": "Kevin",
+    "LastName": "Scott",
+    "IsMale": true,
+    "AppearanceIndex": 5,
+    "Position": {
+        "x": -72.90403747558594,
+        "y": -2.429999828338623,
+        "z": -64.89789581298828
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": -0.23072828352451325,
+        "z": 0.0,
+        "w": 0.973018229007721
+    },
+    "GUID": "1bce0f7b-9077-46e8-a9f5-2b9395a99433",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

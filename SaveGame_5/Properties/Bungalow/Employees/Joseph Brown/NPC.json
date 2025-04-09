@@ -1,0 +1,30 @@
+{
+    "DataType": "PackagerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "ID": "joseph_brown",
+    "AssignedProperty": "bungalow",
+    "FirstName": "Joseph",
+    "LastName": "Brown",
+    "IsMale": true,
+    "AppearanceIndex": 1,
+    "Position": {
+        "x": -168.7899169921875,
+        "y": -4.036910533905029,
+        "z": 109.44853973388672
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 0.6997066140174866,
+        "z": 0.0,
+        "w": 0.7144303321838379
+    },
+    "GUID": "ba10efb6-1f3b-4122-807f-d11ec3dcc716",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

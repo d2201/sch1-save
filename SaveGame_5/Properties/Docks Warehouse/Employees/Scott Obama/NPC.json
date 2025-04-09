@@ -1,0 +1,30 @@
+{
+    "DataType": "CleanerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "ID": "scott_obama",
+    "AssignedProperty": "dockswarehouse",
+    "FirstName": "Scott",
+    "LastName": "Obama",
+    "IsMale": true,
+    "AppearanceIndex": 3,
+    "Position": {
+        "x": -71.71331787109375,
+        "y": -2.429999828338623,
+        "z": -64.53105926513672
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 0.3800201117992401,
+        "z": 0.0,
+        "w": 0.9249783158302307
+    },
+    "GUID": "7f210ccc-6c21-4ef2-a8a1-8c3824c6f899",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}
