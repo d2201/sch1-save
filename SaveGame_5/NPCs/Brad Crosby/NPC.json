@@ -14,10 +14,8 @@
         "peggy_myers",
         "mick_lubbin"
     ],
-    "ActiveContractGUIDs": [
-        "2d896492-1651-498c-ad1c-8305c4ce2bdc"
-    ],
-    "Cash": 1764.0,
+    "ActiveContractGUIDs": [],
+    "Cash": 2104.0,
     "OverflowItems": {
         "Items": [
             "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"\",\"Quantity\":0}",

@@ -2,11 +2,11 @@
     "DataType": "DeaddropQuestData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f15",
-    "GUID": "58e7f554-4614-4beb-a632-f4c3b36e9104",
+    "GUID": "709e90ed-1fb4-4405-b790-c43b1ff43437",
     "State": 2,
     "IsTracked": true,
     "Title": "Collect Dead Drop",
-    "Description": "Collect the dead drop on the east-exterior wall of Taco Ticklers",
+    "Description": "Collect the dead drop behind the western Gas-Mart",
     "Expires": false,
     "ExpiryDate": {
         "DataType": "GameDateTimeData",
@@ -20,9 +20,9 @@
             "DataType": "QuestEntryData",
             "DataVersion": 0,
             "GameVersion": "0.3.3f15",
-            "Name": "Taco Ticklers exterior wall",
+            "Name": "Behind Gas-Mart",
             "State": 2
         }
     ],
-    "DeaddropGUID": "79200bb6-7d39-44d9-ab22-c63f136d8cdf"
+    "DeaddropGUID": "64d10032-64a9-4cd9-8750-8048d71c5029"
 }

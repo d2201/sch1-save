@@ -2,11 +2,11 @@
     "DataType": "DeaddropQuestData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f15",
-    "GUID": "a426a4ba-081b-4049-8ac2-3af3e69055b9",
+    "GUID": "ae36163b-36e3-474b-b585-33a67721c91b",
     "State": 2,
     "IsTracked": true,
     "Title": "Collect Dead Drop",
-    "Description": "Collect the dead drop in the alleyway behind top tattoo",
+    "Description": "Collect the dead drop behind the supermarket",
     "Expires": false,
     "ExpiryDate": {
         "DataType": "GameDateTimeData",
@@ -20,9 +20,9 @@
             "DataType": "QuestEntryData",
             "DataVersion": 0,
             "GameVersion": "0.3.3f15",
-            "Name": "Alleyway behind Top Tattoo",
+            "Name": "Behind the supermarket",
             "State": 2
         }
     ],
-    "DeaddropGUID": "3ed706ba-458d-44b5-95cd-d65e4a699043"
+    "DeaddropGUID": "fe1782b0-64e5-4ae6-a3f9-56af509af104"
 }

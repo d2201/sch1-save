@@ -13,15 +13,15 @@
     "Rotation": 90,
     "SoilID": "extralonglifesoil",
     "SoilLevel": 20.0,
-    "RemainingSoilUses": 2,
-    "WaterLevel": 2.0417022705078127,
+    "RemainingSoilUses": 1,
+    "WaterLevel": 3.7807788848876955,
     "AppliedAdditives": [],
     "PlantData": {
         "DataType": "PlantData",
         "DataVersion": 0,
         "GameVersion": "0.3.3f15",
         "SeedID": "granddaddypurpleseed",
-        "GrowthProgress": 0.3013889491558075,
+        "GrowthProgress": 0.232499897480011,
         "YieldLevel": 1.0,
         "QualityLevel": 0.5,
         "ActiveBuds": []

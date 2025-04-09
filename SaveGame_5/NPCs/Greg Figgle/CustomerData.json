@@ -11,8 +11,8 @@
         -0.5788087844848633,
         -0.34890711307525637
     ],
-    "TimeSinceLastDealCompleted": 15482,
-    "TimeSinceLastDealOffered": 446,
+    "TimeSinceLastDealCompleted": 15945,
+    "TimeSinceLastDealOffered": 909,
     "OfferedDeals": 12,
     "CompletedDeals": 6,
     "IsContractOffered": false,
@@ -33,10 +33,10 @@
         "IsCounterOffer": false
     },
     "OfferedContractTime": {
-        "elapsedDays": 31,
-        "time": 1230
+        "elapsedDays": 0,
+        "time": 0
     },
-    "TimeSincePlayerApproached": 1054328,
-    "TimeSinceInstantDealOffered": 15482,
+    "TimeSincePlayerApproached": 1054791,
+    "TimeSinceInstantDealOffered": 15945,
     "HasBeenRecommended": false
 }

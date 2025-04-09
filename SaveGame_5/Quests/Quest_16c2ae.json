@@ -2,11 +2,11 @@
     "DataType": "DeaddropQuestData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f15",
-    "GUID": "0ebe5237-8fc9-4760-b9d7-d441f96cb445",
+    "GUID": "16c2ae38-448f-471b-9801-53fda01d6298",
     "State": 2,
     "IsTracked": true,
     "Title": "Collect Dead Drop",
-    "Description": "Collect the dead drop in the alleyway behind the laundromat",
+    "Description": "Collect the dead drop at the skate park",
     "Expires": false,
     "ExpiryDate": {
         "DataType": "GameDateTimeData",
@@ -20,9 +20,9 @@
             "DataType": "QuestEntryData",
             "DataVersion": 0,
             "GameVersion": "0.3.3f15",
-            "Name": "Alleyway behind the laundromat",
+            "Name": "Skate park",
             "State": 2
         }
     ],
-    "DeaddropGUID": "555e565d-2f65-4882-9edb-7167168b2e00"
+    "DeaddropGUID": "eda8c6a4-07be-4d8f-97f4-ddd6dfca19df"
 }

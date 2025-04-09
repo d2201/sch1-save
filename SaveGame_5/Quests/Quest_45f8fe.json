@@ -2,11 +2,11 @@
     "DataType": "DeaddropQuestData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f15",
-    "GUID": "443990b2-66ec-458e-a951-bdeaf2f9fb87",
+    "GUID": "45f8fe4f-7479-42f7-a98d-ecbd20218f2a",
     "State": 2,
     "IsTracked": true,
     "Title": "Collect Dead Drop",
-    "Description": "Collect the dead drop in the alleyway behind the laundromat",
+    "Description": "Collect the dead drop behind the auto shop",
     "Expires": false,
     "ExpiryDate": {
         "DataType": "GameDateTimeData",
@@ -20,9 +20,9 @@
             "DataType": "QuestEntryData",
             "DataVersion": 0,
             "GameVersion": "0.3.3f15",
-            "Name": "Alleyway behind the laundromat",
+            "Name": "Behind auto shop",
             "State": 2
         }
     ],
-    "DeaddropGUID": "555e565d-2f65-4882-9edb-7167168b2e00"
+    "DeaddropGUID": "aaea12a7-ee38-47ba-aeb8-fb0d45a03957"
 }

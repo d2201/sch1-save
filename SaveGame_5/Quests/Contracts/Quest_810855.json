@@ -2,44 +2,44 @@
     "DataType": "ContractData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f15",
-    "GUID": "bb3b45c3-2642-4956-a634-fd4ca1bc21ee",
+    "GUID": "810855bc-c808-4a6e-948e-39b4725fdde8",
     "State": 1,
-    "IsTracked": false,
-    "Title": "Deal for Mrs. Ming",
-    "Description": "Mrs. Ming has requested a delivery of 4x Granddaddy Purple next to Bud's bar for $240.",
+    "IsTracked": true,
+    "Title": "Deal for Dean",
+    "Description": "Dean has requested a delivery of 10x Granddaddy Purple on the wharf west of the warehouse for $605.",
     "Expires": true,
     "ExpiryDate": {
         "DataType": "GameDateTimeData",
         "DataVersion": 0,
         "GameVersion": "0.3.3f15",
-        "ElapsedDays": 31,
-        "Time": 2400
+        "ElapsedDays": 32,
+        "Time": 600
     },
     "Entries": [
         {
             "DataType": "QuestEntryData",
             "DataVersion": 0,
             "GameVersion": "0.3.3f15",
-            "Name": "4x Granddaddy Purple, Next to Bud's Bar",
+            "Name": "10x Granddaddy Purple, West Warehouse Wharf",
             "State": 1
         }
     ],
-    "CustomerGUID": "145d7e11-b35e-4863-8734-0b08e7cfb5b6",
-    "Payment": 240.0,
+    "CustomerGUID": "3d4f4e03-506a-4fa9-b49c-3365802acf88",
+    "Payment": 605.0,
     "ProductList": {
         "entries": [
             {
                 "ProductID": "granddaddypurple",
                 "Quality": 1,
-                "Quantity": 4
+                "Quantity": 10
             }
         ]
     },
-    "DeliveryLocationGUID": "7549f5e4-3702-4890-aabf-a9a170cdf15b",
+    "DeliveryLocationGUID": "36058621-8030-42d2-a0dc-dfb820e87266",
     "DeliveryWindow": {
         "IsEnabled": true,
-        "WindowStartTime": 1800,
-        "WindowEndTime": 2400
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
     },
     "PickupScheduleIndex": 0,
     "AcceptTime": {
@@ -47,6 +47,6 @@
         "DataVersion": 0,
         "GameVersion": "0.3.3f15",
         "ElapsedDays": 31,
-        "Time": 1930
+        "Time": 2231
     }
 }

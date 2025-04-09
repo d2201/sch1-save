@@ -2,11 +2,11 @@
     "DataType": "DeaddropQuestData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f15",
-    "GUID": "6bf5ce04-f4d8-4fa1-bf82-7492aa1c0a9c",
+    "GUID": "545213b6-09aa-4b57-82f5-15e4296be4c7",
     "State": 2,
     "IsTracked": true,
     "Title": "Collect Dead Drop",
-    "Description": "Collect the dead drop behind the auto shop",
+    "Description": "Collect the dead drop in the alleyway behind top tattoo",
     "Expires": false,
     "ExpiryDate": {
         "DataType": "GameDateTimeData",
@@ -20,9 +20,9 @@
             "DataType": "QuestEntryData",
             "DataVersion": 0,
             "GameVersion": "0.3.3f15",
-            "Name": "Behind auto shop",
+            "Name": "Alleyway behind Top Tattoo",
             "State": 2
         }
     ],
-    "DeaddropGUID": "aaea12a7-ee38-47ba-aeb8-fb0d45a03957"
+    "DeaddropGUID": "3ed706ba-458d-44b5-95cd-d65e4a699043"
 }

@@ -14,8 +14,11 @@
         "californiadurkle",
         "darkpiss",
         "dreamdiesel",
+        "extrememclovin",
         "extremepunch",
         "extremerhino",
+        "extremeurkle",
+        "fatrhino",
         "fruityslime",
         "girlscoutbud",
         "granddaddydurkle",
@@ -24,20 +27,17 @@
         "icecreammonkey",
         "megamclovin",
         "miraclepuke",
+        "ogcrack",
+        "ogthunderfuck",
         "sexycake",
         "shinyslime",
         "stinkycrack",
         "stinkysmegma",
-        "ultraslime",
-        "meth",
         "strawberryshart",
-        "ogcrack",
-        "extrememclovin",
-        "fatrhino",
-        "whitedick",
-        "ogthunderfuck",
-        "extremeurkle",
         "tokyoghost",
+        "ultraslime",
+        "whitedick",
+        "meth",
         "cocaine"
     ],
     "ListedProducts": [
@@ -50,153 +50,153 @@
     "IsMixComplete": false,
     "MixRecipes": [
         {
-            "Product": "paracetamol",
-            "Mixer": "sourdiesel",
+            "Product": "sourdiesel",
+            "Mixer": "paracetamol",
             "Output": "ultraslime"
         },
         {
-            "Product": "viagra",
-            "Mixer": "ultraslime",
+            "Product": "ultraslime",
+            "Mixer": "viagra",
             "Output": "aspendeath"
         },
         {
-            "Product": "mouthwash",
-            "Mixer": "aspendeath",
+            "Product": "aspendeath",
+            "Mixer": "mouthwash",
             "Output": "californiadurkle"
         },
         {
-            "Product": "cuke",
-            "Mixer": "californiadurkle",
+            "Product": "californiadurkle",
+            "Mixer": "cuke",
             "Output": "stinkycrack"
         },
         {
-            "Product": "donut",
-            "Mixer": "stinkycrack",
+            "Product": "stinkycrack",
+            "Mixer": "donut",
             "Output": "icecreammonkey"
         },
         {
-            "Product": "banana",
-            "Mixer": "icecreammonkey",
+            "Product": "icecreammonkey",
+            "Mixer": "banana",
             "Output": "megamclovin"
         },
         {
-            "Product": "mouthwash",
-            "Mixer": "sourdiesel",
+            "Product": "sourdiesel",
+            "Mixer": "mouthwash",
             "Output": "extremepunch"
         },
         {
-            "Product": "cuke",
-            "Mixer": "extremepunch",
+            "Product": "extremepunch",
+            "Mixer": "cuke",
             "Output": "extremerhino"
         },
         {
-            "Product": "paracetamol",
-            "Mixer": "extremerhino",
+            "Product": "extremerhino",
+            "Mixer": "paracetamol",
             "Output": "granddaddydurkle"
         },
         {
-            "Product": "banana",
-            "Mixer": "granddaddydurkle",
+            "Product": "granddaddydurkle",
+            "Mixer": "banana",
             "Output": "biomonkey"
         },
         {
-            "Product": "donut",
-            "Mixer": "biomonkey",
+            "Product": "biomonkey",
+            "Mixer": "donut",
             "Output": "darkpiss"
         },
         {
-            "Product": "viagra",
-            "Mixer": "darkpiss",
+            "Product": "darkpiss",
+            "Mixer": "viagra",
             "Output": "icecreamcake"
         },
         {
-            "Product": "horsesemen",
-            "Mixer": "sourdiesel",
+            "Product": "sourdiesel",
+            "Mixer": "horsesemen",
             "Output": "girlscoutbud"
         },
         {
-            "Product": "viagra",
-            "Mixer": "girlscoutbud",
+            "Product": "girlscoutbud",
+            "Mixer": "viagra",
             "Output": "stinkysmegma"
         },
         {
-            "Product": "paracetamol",
-            "Mixer": "meth",
+            "Product": "meth",
+            "Mixer": "paracetamol",
             "Output": "fruityslime"
         },
         {
-            "Product": "cuke",
-            "Mixer": "fruityslime",
+            "Product": "fruityslime",
+            "Mixer": "cuke",
             "Output": "bananaurkle"
         },
         {
-            "Product": "banana",
-            "Mixer": "bananaurkle",
+            "Product": "bananaurkle",
+            "Mixer": "banana",
             "Output": "dreamdiesel"
         },
         {
-            "Product": "mouthwash",
-            "Mixer": "dreamdiesel",
+            "Product": "dreamdiesel",
+            "Mixer": "mouthwash",
             "Output": "icecreamhaze"
         },
         {
-            "Product": "donut",
-            "Mixer": "meth",
+            "Product": "meth",
+            "Mixer": "donut",
             "Output": "shinyslime"
         },
         {
-            "Product": "viagra",
-            "Mixer": "shinyslime",
+            "Product": "shinyslime",
+            "Mixer": "viagra",
             "Output": "miraclepuke"
         },
         {
-            "Product": "mouthwash",
-            "Mixer": "miraclepuke",
+            "Product": "miraclepuke",
+            "Mixer": "mouthwash",
             "Output": "sexycake"
         },
         {
-            "Product": "granddaddypurple",
-            "Mixer": "cuke",
+            "Product": "cuke",
+            "Mixer": "granddaddypurple",
             "Output": "aspensmegma"
         },
         {
-            "Product": "energydrink",
-            "Mixer": "granddaddypurple",
+            "Product": "granddaddypurple",
+            "Mixer": "energydrink",
             "Output": "strawberryshart"
         },
         {
-            "Product": "megabean",
-            "Mixer": "strawberryshart",
+            "Product": "strawberryshart",
+            "Mixer": "megabean",
             "Output": "ogcrack"
         },
         {
-            "Product": "motoroil",
-            "Mixer": "ogcrack",
+            "Product": "ogcrack",
+            "Mixer": "motoroil",
             "Output": "extrememclovin"
         },
         {
-            "Product": "banana",
-            "Mixer": "aspensmegma",
+            "Product": "aspensmegma",
+            "Mixer": "banana",
             "Output": "fatrhino"
         },
         {
-            "Product": "horsesemen",
-            "Mixer": "fatrhino",
+            "Product": "fatrhino",
+            "Mixer": "horsesemen",
             "Output": "whitedick"
         },
         {
-            "Product": "gasoline",
-            "Mixer": "whitedick",
+            "Product": "whitedick",
+            "Mixer": "gasoline",
             "Output": "ogthunderfuck"
         },
         {
-            "Product": "banana",
-            "Mixer": "ogthunderfuck",
+            "Product": "ogthunderfuck",
+            "Mixer": "banana",
             "Output": "extremeurkle"
         },
         {
-            "Product": "chili",
-            "Mixer": "extremeurkle",
+            "Product": "extremeurkle",
+            "Mixer": "chili",
             "Output": "tokyoghost"
         }
     ],
@@ -254,12 +254,24 @@
             "Int": 144
         },
         {
+            "String": "extrememclovin",
+            "Int": 47
+        },
+        {
             "String": "extremepunch",
             "Int": 50
         },
         {
             "String": "extremerhino",
             "Int": 58
+        },
+        {
+            "String": "extremeurkle",
+            "Int": 80
+        },
+        {
+            "String": "fatrhino",
+            "Int": 66
         },
         {
             "String": "fruityslime",
@@ -294,6 +306,14 @@
             "Int": 122
         },
         {
+            "String": "ogcrack",
+            "Int": 52
+        },
+        {
+            "String": "ogthunderfuck",
+            "Int": 67
+        },
+        {
             "String": "sexycake",
             "Int": 140
         },
@@ -310,40 +330,20 @@
             "Int": 74
         },
         {
-            "String": "ultraslime",
-            "Int": 48
-        },
-        {
             "String": "strawberryshart",
             "Int": 50
         },
         {
-            "String": "ogcrack",
-            "Int": 52
+            "String": "tokyoghost",
+            "Int": 93
         },
         {
-            "String": "extrememclovin",
-            "Int": 47
-        },
-        {
-            "String": "fatrhino",
-            "Int": 66
+            "String": "ultraslime",
+            "Int": 48
         },
         {
             "String": "whitedick",
             "Int": 85
-        },
-        {
-            "String": "ogthunderfuck",
-            "Int": 67
-        },
-        {
-            "String": "extremeurkle",
-            "Int": 80
-        },
-        {
-            "String": "tokyoghost",
-            "Int": 93
         }
     ],
     "FavouritedProducts": []
