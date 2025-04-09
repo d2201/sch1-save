@@ -12,19 +12,7 @@
     },
     "Rotation": 180,
     "ContentData": {
-        "TrashIDs": [
-            "energydrink",
-            "motoroil",
-            "seedvial",
-            "crushedcuke",
-            "soilbag3"
-        ],
-        "TrashQuantities": [
-            1,
-            1,
-            1,
-            1,
-            2
-        ]
+        "TrashIDs": [],
+        "TrashQuantities": []
     }
 }

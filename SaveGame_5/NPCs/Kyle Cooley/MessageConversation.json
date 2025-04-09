@@ -2,39 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f15",
-    "ConversationIndex": 4,
+    "ConversationIndex": 10,
     "Read": true,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": -1798941409,
-            "Text": "Yo homie, can I get 8x Granddaddy Purple? I'll pay <color=#46CB4F>$485</color>",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": -88884825,
-            "Text": "How about 10x Granddaddy Purple for $565?",
-            "EndOfChain": false
-        },
-        {
-            "Sender": 1,
-            "MessageID": 1507139070,
-            "Text": "Alright dude. What time?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": -1996157623,
-            "Text": "Late Night",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -2063278956,
-            "Text": "Sick as, I'll meet you <b>behind taco ticklers</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
         {
             "Sender": 1,
             "MessageID": -1930162704,
@@ -63,6 +33,36 @@
             "Sender": 1,
             "MessageID": 1704730510,
             "Text": "Sweet as homie, I'll meet you <b>behind Hyland gun range</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1945131793,
+            "Text": "Yo homie, can I get 8x Granddaddy Purple? I'll pay <color=#46CB4F>$485</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1133553917,
+            "Text": "How about 10x Granddaddy Purple for $585?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -371853687,
+            "Text": "I guess that's fine bro. When?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 615943309,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -598845711,
+            "Text": "Sweet as homie, I'll meet you <b>in front of the motel</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         }
     ],

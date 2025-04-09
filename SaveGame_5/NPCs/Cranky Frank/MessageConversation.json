@@ -2,51 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f15",
-    "ConversationIndex": 0,
+    "ConversationIndex": 2,
     "Read": true,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": -913222907,
-            "Text": "You got 8x Granddaddy Purple? I'll pay <color=#46CB4F>$485</color> for it",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": -1035381223,
-            "Text": "How about 10x Granddaddy Purple for $585?",
-            "EndOfChain": false
-        },
-        {
-            "Sender": 1,
-            "MessageID": -547281064,
-            "Text": "OK FINE! What time????",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 143229769,
-            "Text": "Morning",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -631123599,
-            "Text": "Good!! I'll see u <b>in the central canal near the car wash</b> between 6:00 AM and 12:00 PM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 948430102,
-            "Text": "I'm after 8x Granddaddy Purple. I can pay <color=#46CB4F>$485</color> for it Deal??",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 786395265,
-            "Text": "How about 10x Granddaddy Purple for $585?",
-            "EndOfChain": false
-        },
         {
             "Sender": 1,
             "MessageID": -294283300,
@@ -63,6 +21,48 @@
             "Sender": 1,
             "MessageID": 678923934,
             "Text": "Good!! I'll see u <b>Behind Randy's bait & tackle</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1154883319,
+            "Text": "I NEED 9x Granddaddy Purple. I GOT <color=#46CB4F>$545</color>. DEAL?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1540624934,
+            "Text": "God damn it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1485244877,
+            "Text": "I NEED 9x Granddaddy Purple. I GOT <color=#46CB4F>$545</color>. DEAL?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1278788388,
+            "Text": "How about 10x Granddaddy Purple for $585?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -620499652,
+            "Text": "Arghh fine. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 864731650,
+            "Text": "Morning",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1015444791,
+            "Text": "Good!! I'll see u <b>underneath the south end of the overpass</b> between 6:00 AM and 12:00 PM.",
             "EndOfChain": true
         }
     ],

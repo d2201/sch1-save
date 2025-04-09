@@ -18,7 +18,7 @@
     },
     "Output": {
         "Items": [
-            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"\",\"Quantity\":0}"
+            "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"granddaddypurple\",\"Quantity\":20,\"Quality\":\"Heavenly\",\"PackagingID\":\"\"}"
         ]
     },
     "DryingOperations": []

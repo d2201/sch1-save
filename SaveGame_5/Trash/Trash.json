@@ -4548,9 +4548,9 @@
             },
             "Rotation": {
                 "x": -0.6026822924613953,
-                "y": -0.03651326522231102,
+                "y": -0.03651326149702072,
                 "z": 0.7927417159080505,
-                "w": -0.08367545902729035
+                "w": -0.08367545157670975
             },
             "Contents": {
                 "TrashIDs": [],
@@ -4768,9 +4768,9 @@
             },
             "Rotation": {
                 "x": 0.7707217931747437,
-                "y": 0.004053928889334202,
+                "y": 0.004053929354995489,
                 "z": 0.637156069278717,
-                "w": -0.001893795095384121
+                "w": -0.0018937952117994428
             },
             "Contents": {
                 "TrashIDs": [],
@@ -9498,9 +9498,9 @@
             },
             "Rotation": {
                 "x": 0.633823037147522,
-                "y": -0.04545554891228676,
+                "y": -0.04545555263757706,
                 "z": -0.7720889449119568,
-                "w": 0.008988723158836365
+                "w": 0.00898872409015894
             },
             "Contents": {
                 "TrashIDs": [],
@@ -11085,28 +11085,6 @@
                 "y": -0.6588199138641357,
                 "z": -0.000010777443094411865,
                 "w": 0.7523007988929749
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "cigarette",
-            "GUID": "b1b9a27c-69ec-43a2-9c08-19a524586e0d",
-            "Position": {
-                "x": -80.4063491821289,
-                "y": -2.2124993801116945,
-                "z": -51.0247917175293
-            },
-            "Rotation": {
-                "x": 0.26088327169418337,
-                "y": 0.6293112635612488,
-                "z": -0.23706595599651338,
-                "w": 0.6926088333129883
             },
             "Contents": {
                 "TrashIDs": [],
@@ -17926,15 +17904,15 @@
             "TrashID": "energydrink",
             "GUID": "7800b743-767e-4fa6-b8ee-42ff15068319",
             "Position": {
-                "x": -32.419288635253909,
-                "y": -2.4640023708343508,
-                "z": 32.846622467041019
+                "x": -33.52273941040039,
+                "y": -2.464000701904297,
+                "z": 21.450735092163087
             },
             "Rotation": {
-                "x": -0.022118911147117616,
-                "y": -0.6755208969116211,
-                "z": -0.7067604064941406,
-                "w": 0.20897866785526277
+                "x": -0.17058494687080384,
+                "y": -0.675568699836731,
+                "z": 0.6862207651138306,
+                "w": 0.20882722735404969
             },
             "Contents": {
                 "TrashIDs": [],
@@ -19434,9 +19412,9 @@
             },
             "Rotation": {
                 "x": 0.8559805154800415,
-                "y": -0.001606227015145123,
+                "y": -0.0016062267823144794,
                 "z": -0.5170053243637085,
-                "w": -0.0006276890053413808
+                "w": -0.0006276889471337199
             },
             "Contents": {
                 "TrashIDs": [],
@@ -20350,9 +20328,9 @@
             },
             "Rotation": {
                 "x": -0.043016161769628528,
-                "y": 0.0404791496694088,
+                "y": 0.0404791459441185,
                 "z": 0.9982531666755676,
-                "w": 0.0013508946867659689
+                "w": 0.001350894570350647
             },
             "Contents": {
                 "TrashIDs": [],
@@ -20460,9 +20438,9 @@
             },
             "Rotation": {
                 "x": 0.3413207530975342,
-                "y": -0.0013237906387075782,
+                "y": -0.0013237907551229,
                 "z": -0.9399420619010925,
-                "w": 0.002698295284062624
+                "w": 0.0026982955168932678
             },
             "Contents": {
                 "TrashIDs": [],
@@ -20504,9 +20482,9 @@
             },
             "Rotation": {
                 "x": -0.8827651739120483,
-                "y": -0.08108951896429062,
+                "y": -0.08108952641487122,
                 "z": -0.46240225434303286,
-                "w": 0.01828313060104847
+                "w": 0.01828313246369362
             },
             "Contents": {
                 "TrashIDs": [],
@@ -21274,9 +21252,9 @@
             },
             "Rotation": {
                 "x": 0.6421336531639099,
-                "y": -0.019613906741142274,
+                "y": -0.019613908603787423,
                 "z": 0.7639035582542419,
-                "w": -0.06108159199357033
+                "w": -0.061081595718860629
             },
             "Contents": {
                 "TrashIDs": [],
@@ -24468,9 +24446,9 @@
             },
             "Rotation": {
                 "x": -0.8703100681304932,
-                "y": 0.09190158545970917,
+                "y": 0.09190159291028977,
                 "z": -0.480712354183197,
-                "w": 0.05504617094993591
+                "w": 0.05504617467522621
             },
             "Contents": {
                 "TrashIDs": [],
@@ -25021,28 +24999,6 @@
                 "y": -0.1355864554643631,
                 "z": -0.4268297851085663,
                 "w": 0.2706889510154724
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "motoroil",
-            "GUID": "5555d7b0-0db3-4408-b888-bf34103c5a1d",
-            "Position": {
-                "x": -119.73428344726563,
-                "y": -3.949885845184326,
-                "z": 107.91067504882813
-            },
-            "Rotation": {
-                "x": -0.22591277956962586,
-                "y": 0.22590813040733338,
-                "z": -0.6700437664985657,
-                "w": 0.6700525283813477
             },
             "Contents": {
                 "TrashIDs": [],
@@ -25933,94 +25889,6 @@
             "DataType": "TrashItemData",
             "DataVersion": 0,
             "GameVersion": "0.3.3f15",
-            "TrashID": "crushedcuke",
-            "GUID": "bcc1e3a7-1fcf-4c76-8b30-efa769b65446",
-            "Position": {
-                "x": 41.35907745361328,
-                "y": 0.3029942512512207,
-                "z": 77.61936950683594
-            },
-            "Rotation": {
-                "x": 0.5699220895767212,
-                "y": -0.0000034108875297533815,
-                "z": 0.821698784828186,
-                "w": 1.4226671396500024e-8
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "motoroil",
-            "GUID": "40230a73-f60c-46ad-a991-889f213a98c1",
-            "Position": {
-                "x": 41.46686553955078,
-                "y": 0.31673234701156618,
-                "z": 77.16644287109375
-            },
-            "Rotation": {
-                "x": -0.6468970775604248,
-                "y": 0.6468950510025024,
-                "z": -0.28552234172821047,
-                "w": 0.2855311334133148
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "waterbottle",
-            "GUID": "6e4cb30e-a054-4697-a5b2-1108c26bd03e",
-            "Position": {
-                "x": 41.696651458740237,
-                "y": 0.31673887372016909,
-                "z": 77.01797485351563
-            },
-            "Rotation": {
-                "x": 0.23251718282699586,
-                "y": 0.7053043246269226,
-                "z": 0.6677853465080261,
-                "w": 0.05044097453355789
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "energydrink",
-            "GUID": "9d765935-538d-4e32-9853-f4190685ce2e",
-            "Position": {
-                "x": 41.997291564941409,
-                "y": 0.3027351200580597,
-                "z": 77.02749633789063
-            },
-            "Rotation": {
-                "x": 0.6510133743286133,
-                "y": -0.6328787803649902,
-                "z": 0.27600839734077456,
-                "w": 0.31538140773773196
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
             "TrashID": "coffeecup",
             "GUID": "f91f7b89-ed41-4db7-8b1c-3db356974009",
             "Position": {
@@ -26275,270 +26143,6 @@
                 "y": 0.0816001445055008,
                 "z": 0.030500072985887529,
                 "w": 0.7023836970329285
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "usedcigarette",
-            "GUID": "bda2e444-f5fa-4cc8-9093-8ef778c90fc1",
-            "Position": {
-                "x": -120.39781188964844,
-                "y": -3.6267759799957277,
-                "z": 59.99932861328125
-            },
-            "Rotation": {
-                "x": -0.000029084860216244124,
-                "y": 0.6179302930831909,
-                "z": 0.00002378216049692128,
-                "w": 0.7862329483032227
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "glassbottle",
-            "GUID": "4ed1d6fb-3a4e-4f6b-8d80-cd5d4d3e1bea",
-            "Position": {
-                "x": -119.97542572021485,
-                "y": -3.5876080989837648,
-                "z": 59.80461502075195
-            },
-            "Rotation": {
-                "x": 0.5695622563362122,
-                "y": -0.5648483633995056,
-                "z": -0.4239821434020996,
-                "w": 0.4204573333263397
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "plantscrap",
-            "GUID": "c22c1502-b8f2-4d73-bb27-a740b5910af5",
-            "Position": {
-                "x": -120.57621002197266,
-                "y": -3.5781097412109377,
-                "z": 60.19426345825195
-            },
-            "Rotation": {
-                "x": 0.011121554300189019,
-                "y": -0.011519825085997582,
-                "z": -0.6954847574234009,
-                "w": 0.7183624505996704
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "cuke",
-            "GUID": "2e6c9189-137a-4d53-a710-a26a67fb21ff",
-            "Position": {
-                "x": -36.3624382019043,
-                "y": 0.4150294065475464,
-                "z": 77.2789306640625
-            },
-            "Rotation": {
-                "x": -0.6592289805412293,
-                "y": 0.6592345833778381,
-                "z": -0.25576403737068179,
-                "w": 0.25575733184814455
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "motoroil",
-            "GUID": "0600bd63-17ba-4781-84ad-42fc46347680",
-            "Position": {
-                "x": -36.514949798583987,
-                "y": 0.46673837304115298,
-                "z": 77.75942993164063
-            },
-            "Rotation": {
-                "x": 0.1438053697347641,
-                "y": 0.6923416256904602,
-                "z": -0.6923238039016724,
-                "w": 0.1437738537788391
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "cigarettebox",
-            "GUID": "e87b6cc9-625c-44ab-bd5d-0227668e41ef",
-            "Position": {
-                "x": -35.80208969116211,
-                "y": 0.4067351222038269,
-                "z": 76.74273681640625
-            },
-            "Rotation": {
-                "x": 0.5366103649139404,
-                "y": 0.5364769101142883,
-                "z": 0.4604736566543579,
-                "w": 0.4606581926345825
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "soilbag3",
-            "GUID": "f046e9c1-5360-4a35-9f75-09b4477160cb",
-            "Position": {
-                "x": -96.076904296875,
-                "y": -2.2012088298797609,
-                "z": -46.30342483520508
-            },
-            "Rotation": {
-                "x": 0.08739876002073288,
-                "y": -0.7016832828521729,
-                "z": 0.7016869783401489,
-                "w": 0.08739278465509415
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "soilbag3",
-            "GUID": "226931ed-1d5e-47e5-a963-27e5a81a17fa",
-            "Position": {
-                "x": -96.9900131225586,
-                "y": -2.253627061843872,
-                "z": -44.93109130859375
-            },
-            "Rotation": {
-                "x": 0.10698623955249787,
-                "y": -0.8780985474586487,
-                "z": 0.2282537817955017,
-                "w": 0.40669041872024538
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "soilbag3",
-            "GUID": "1216cedc-a207-4d30-85e2-ecc0a3b837a2",
-            "Position": {
-                "x": -95.30445861816406,
-                "y": -2.071074962615967,
-                "z": -47.68558120727539
-            },
-            "Rotation": {
-                "x": -0.6576695442199707,
-                "y": -0.16323521733283997,
-                "z": 0.6577789783477783,
-                "w": -0.3288646936416626
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "seedvial",
-            "GUID": "2b759b73-118f-47cd-aaea-8e4e97abc469",
-            "Position": {
-                "x": -96.34309387207031,
-                "y": -2.1968994140625,
-                "z": -45.22677230834961
-            },
-            "Rotation": {
-                "x": 0.5650612711906433,
-                "y": -0.5650689005851746,
-                "z": -0.42509546875953677,
-                "w": 0.4250843822956085
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "seedvial",
-            "GUID": "6cda13c1-7759-4c8e-864d-103840011bf2",
-            "Position": {
-                "x": -94.85050964355469,
-                "y": -2.196885108947754,
-                "z": -47.477779388427737
-            },
-            "Rotation": {
-                "x": -0.46270355582237246,
-                "y": 0.5402432084083557,
-                "z": -0.5358445644378662,
-                "w": -0.45487725734710696
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "seedvial",
-            "GUID": "9797fd3f-c188-4227-941c-a25d028b9bfd",
-            "Position": {
-                "x": -94.26509094238281,
-                "y": -2.1969034671783449,
-                "z": -49.48574447631836
-            },
-            "Rotation": {
-                "x": -0.3327905535697937,
-                "y": 0.33279868960380556,
-                "z": -0.6239038109779358,
-                "w": 0.6238906979560852
             },
             "Contents": {
                 "TrashIDs": [],
@@ -27108,229 +26712,9 @@
             },
             "Rotation": {
                 "x": -0.42575567960739138,
-                "y": 0.5660504698753357,
+                "y": 0.5660505294799805,
                 "z": 0.43125560879707339,
-                "w": 0.5588716864585877
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "bong",
-            "GUID": "abd76b3d-ab76-4c70-a392-71d2ef8ec15c",
-            "Position": {
-                "x": -67.85179901123047,
-                "y": -4.67197322845459,
-                "z": 164.35987854003907
-            },
-            "Rotation": {
-                "x": 0.12906190752983094,
-                "y": 0.5730146765708923,
-                "z": 0.6952281594276428,
-                "w": 0.41431277990341189
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "cigarette",
-            "GUID": "0be4c08c-2501-4ed8-9931-bf691aeb6a52",
-            "Position": {
-                "x": -68.9744873046875,
-                "y": -4.725766658782959,
-                "z": 164.15911865234376
-            },
-            "Rotation": {
-                "x": -0.33947768807411196,
-                "y": 0.20324350893497468,
-                "z": 0.07536356151103974,
-                "w": 0.9152963161468506
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "waterbottle",
-            "GUID": "06aea67a-b934-4805-9417-89eff83ee1ec",
-            "Position": {
-                "x": -68.79705047607422,
-                "y": -4.683267593383789,
-                "z": 164.24844360351563
-            },
-            "Rotation": {
-                "x": -0.7071067690849304,
-                "y": -0.6631689667701721,
-                "z": -0.00009167673124466091,
-                "w": 0.24537120759487153
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "cigarette",
-            "GUID": "a22f0c17-ff46-4d25-a82c-6e94d6ddb7de",
-            "Position": {
-                "x": -68.8161849975586,
-                "y": -4.725768089294434,
-                "z": 164.45907592773438
-            },
-            "Rotation": {
-                "x": -0.3102283179759979,
-                "y": -0.6688565611839294,
-                "z": -0.5684334635734558,
-                "w": 0.3650653064250946
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "plantscrap",
-            "GUID": "ee2ee595-e093-4e32-9207-ee0eb602eeb9",
-            "Position": {
-                "x": -67.71083068847656,
-                "y": -4.731255531311035,
-                "z": 164.42538452148438
-            },
-            "Rotation": {
-                "x": 0.0000249314743996365,
-                "y": -0.46989715099334719,
-                "z": 0.00028156768530607224,
-                "w": 0.8827211856842041
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "crushedcuke",
-            "GUID": "6c87b19c-ca24-4153-8903-c0c300ab23ce",
-            "Position": {
-                "x": -9.351961135864258,
-                "y": 0.4288029968738556,
-                "z": 34.74650573730469
-            },
-            "Rotation": {
-                "x": -0.30398693680763247,
-                "y": 0.21511846780776978,
-                "z": -0.7659305930137634,
-                "w": 0.5240862369537354
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "usedcigarette",
-            "GUID": "559c39f2-a2dd-445c-853b-1e6fb05f6602",
-            "Position": {
-                "x": -10.29625129699707,
-                "y": 0.363959938287735,
-                "z": 34.49794387817383
-            },
-            "Rotation": {
-                "x": 0.7295923233032227,
-                "y": 0.007040349766612053,
-                "z": -0.683803915977478,
-                "w": -0.007596390787512064
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "pipe",
-            "GUID": "61477d96-82ce-4d19-8adf-d0b95860bb98",
-            "Position": {
-                "x": -9.088170051574707,
-                "y": 0.3733639419078827,
-                "z": 34.46989059448242
-            },
-            "Rotation": {
-                "x": -0.13015493750572205,
-                "y": -0.800148606300354,
-                "z": -0.21607501804828645,
-                "w": 0.5441815853118897
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "pipe",
-            "GUID": "49fb9d92-2dd9-4dc1-b91a-b0942c3440e3",
-            "Position": {
-                "x": 174.82147216796876,
-                "y": 10.110942840576172,
-                "z": -61.936344146728519
-            },
-            "Rotation": {
-                "x": -0.5169832110404968,
-                "y": -0.23099374771118165,
-                "z": -0.8118295073509216,
-                "w": 0.14248910546302796
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "crushedcuke",
-            "GUID": "e53f690a-7204-43a7-b718-fbf54fca178e",
-            "Position": {
-                "x": 175.63096618652345,
-                "y": 10.154305458068848,
-                "z": -61.72090148925781
-            },
-            "Rotation": {
-                "x": -0.4974624514579773,
-                "y": 0.4975011646747589,
-                "z": -0.5025114417076111,
-                "w": 0.5024996995925903
+                "w": 0.5588717460632324
             },
             "Contents": {
                 "TrashIDs": [],
@@ -27353,402 +26737,6 @@
                 "y": -0.000018647819160833023,
                 "z": 0.2704165279865265,
                 "w": -0.000022050217012292705
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "coffeecup",
-            "GUID": "f92cf85d-833b-49f9-ba39-4d3f23fe5bbf",
-            "Position": {
-                "x": 175.5478973388672,
-                "y": 10.144612312316895,
-                "z": -61.43033981323242
-            },
-            "Rotation": {
-                "x": 0.11603650450706482,
-                "y": -0.11605488508939743,
-                "z": -0.6975324153900147,
-                "w": 0.6975066065788269
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "coffeecup",
-            "GUID": "a5496cbf-c291-4545-a927-0b40772857b4",
-            "Position": {
-                "x": 175.1255645751953,
-                "y": 10.144613265991211,
-                "z": -62.69082260131836
-            },
-            "Rotation": {
-                "x": 0.6130471229553223,
-                "y": 0.3523790240287781,
-                "z": 0.35238099098205569,
-                "w": -0.6130498051643372
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "energydrink",
-            "GUID": "679da912-0bc1-4ee5-b2aa-644e566fa124",
-            "Position": {
-                "x": 174.6871337890625,
-                "y": 10.117498397827149,
-                "z": -61.95835876464844
-            },
-            "Rotation": {
-                "x": 0.5394007563591003,
-                "y": -0.5485922694206238,
-                "z": 0.45721596479415896,
-                "w": 0.44614681601524355
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "litter1",
-            "GUID": "ff78626c-58a5-4d53-a65a-a0ae4fd53d8f",
-            "Position": {
-                "x": 175.20176696777345,
-                "y": 10.069223403930664,
-                "z": -60.9727668762207
-            },
-            "Rotation": {
-                "x": -0.7029603123664856,
-                "y": 0.1167275533080101,
-                "z": 0.09993647038936615,
-                "w": 0.6944308280944824
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "cigarettebox",
-            "GUID": "0b08a910-683a-4d7c-b04e-b68b6b5297a1",
-            "Position": {
-                "x": 175.74081420898438,
-                "y": 10.098999977111817,
-                "z": -61.76228332519531
-            },
-            "Rotation": {
-                "x": 0.7011868357658386,
-                "y": -0.09128153324127197,
-                "z": -0.0913052037358284,
-                "w": -0.7011904716491699
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "energydrink",
-            "GUID": "442394ac-7da7-48e5-9583-2ff1283319f5",
-            "Position": {
-                "x": 175.1471405029297,
-                "y": 10.117820739746094,
-                "z": -60.90156936645508
-            },
-            "Rotation": {
-                "x": -0.7032264471054077,
-                "y": 0.6566981077194214,
-                "z": 0.09735726565122605,
-                "w": 0.2544441223144531
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "motoroil",
-            "GUID": "07bac32b-ce5b-4af8-b9d3-67e0d0f38fd1",
-            "Position": {
-                "x": 175.2694854736328,
-                "y": 10.134594917297364,
-                "z": -61.084781646728519
-            },
-            "Rotation": {
-                "x": -0.7066425085067749,
-                "y": 0.7053930759429932,
-                "z": 0.027241524308919908,
-                "w": -0.04832068458199501
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "waterbottle",
-            "GUID": "48aab6a2-ba8a-4a62-8cea-3397de0bee76",
-            "Position": {
-                "x": -24.099895477294923,
-                "y": 0.2314997911453247,
-                "z": 76.36299133300781
-            },
-            "Rotation": {
-                "x": -0.7054864168167114,
-                "y": -0.19921977818012238,
-                "z": -0.04780547320842743,
-                "w": 0.6784652471542358
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "coffeecup",
-            "GUID": "7937f2a3-c935-431e-87de-4e3a167bd7b8",
-            "Position": {
-                "x": -23.941598892211915,
-                "y": 0.25242921710014346,
-                "z": 76.42383575439453
-            },
-            "Rotation": {
-                "x": -0.6622980237007141,
-                "y": 0.744996964931488,
-                "z": -0.06304843723773956,
-                "w": 0.048639945685863498
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "motoroil",
-            "GUID": "bca4052e-de7b-4deb-bded-0fb6c4fef4a1",
-            "Position": {
-                "x": -23.972139358520509,
-                "y": 0.2814086675643921,
-                "z": 76.61841583251953
-            },
-            "Rotation": {
-                "x": 0.6619253158569336,
-                "y": -0.37649980187416079,
-                "z": -0.25191980600357058,
-                "w": 0.5971927642822266
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "glassbottle",
-            "GUID": "6437751a-e021-43c0-a164-5bd0e63e9ac3",
-            "Position": {
-                "x": -24.394235610961915,
-                "y": 0.22716683149337769,
-                "z": 76.48664093017578
-            },
-            "Rotation": {
-                "x": 0.2116524875164032,
-                "y": -0.20991691946983338,
-                "z": -0.6777476072311401,
-                "w": 0.6721579432487488
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "crushedcuke",
-            "GUID": "53dd7d2c-cc2e-40c4-bee8-f43236320011",
-            "Position": {
-                "x": -24.91321563720703,
-                "y": 0.26301509141921999,
-                "z": 76.24922180175781
-            },
-            "Rotation": {
-                "x": 0.15978799760341645,
-                "y": 0.15977518260478974,
-                "z": 0.6888011693954468,
-                "w": 0.6888343691825867
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "cuke",
-            "GUID": "9f14bf8c-aa5a-4a0d-9c21-70afe315e6dd",
-            "Position": {
-                "x": -24.02474021911621,
-                "y": 0.249050110578537,
-                "z": 76.13673400878906
-            },
-            "Rotation": {
-                "x": 0.483335018157959,
-                "y": 0.4913671612739563,
-                "z": -0.6181665062904358,
-                "w": 0.377909779548645
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "cigarettebox",
-            "GUID": "a1141ff6-b89f-4b44-b754-537be263ec28",
-            "Position": {
-                "x": -24.136390686035158,
-                "y": 0.19887161254882813,
-                "z": 76.16581726074219
-            },
-            "Rotation": {
-                "x": 0.07776586711406708,
-                "y": 0.7023594379425049,
-                "z": -0.7026252150535584,
-                "w": 0.08343607187271118
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "litter1",
-            "GUID": "618825e3-1d09-4243-83ad-814a920d583c",
-            "Position": {
-                "x": -24.41480255126953,
-                "y": 0.16989724338054658,
-                "z": 76.94570922851563
-            },
-            "Rotation": {
-                "x": -0.3042422831058502,
-                "y": 0.6383113265037537,
-                "z": 0.6383105516433716,
-                "w": 0.3042284846305847
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "waterbottle",
-            "GUID": "81b4801e-1634-40b7-9a22-a43efe969e0c",
-            "Position": {
-                "x": -24.346715927124025,
-                "y": 0.2314981073141098,
-                "z": 77.47959899902344
-            },
-            "Rotation": {
-                "x": 0.4171217679977417,
-                "y": -0.5585242509841919,
-                "z": -0.5709710121154785,
-                "w": 0.43364986777305605
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "cuke",
-            "GUID": "afa5d63e-9091-4f8c-b038-cc0a5ad2675e",
-            "Position": {
-                "x": -23.949127197265626,
-                "y": 0.2512415051460266,
-                "z": 77.68679809570313
-            },
-            "Rotation": {
-                "x": -0.7362381815910339,
-                "y": 0.2932257056236267,
-                "z": 0.0958525761961937,
-                "w": 0.6023158431053162
-            },
-            "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
-            }
-        },
-        {
-            "DataType": "TrashItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
-            "TrashID": "coffeecup",
-            "GUID": "62d24a68-0001-410f-af11-a659b102c86d",
-            "Position": {
-                "x": -4.9976372718811039,
-                "y": 0.42983442544937136,
-                "z": -31.570693969726564
-            },
-            "Rotation": {
-                "x": 0.459156334400177,
-                "y": -0.537745475769043,
-                "z": 0.5377553105354309,
-                "w": 0.45915621519088747
             },
             "Contents": {
                 "TrashIDs": [],
@@ -27822,31 +26810,751 @@
             }
         },
         {
-            "DataType": "TrashBagData",
+            "DataType": "TrashItemData",
             "DataVersion": 0,
             "GameVersion": "0.3.3f15",
-            "TrashID": "trashbag",
-            "GUID": "5bc94a64-7116-4c5f-ab14-7f9f44f43cea",
+            "TrashID": "addy",
+            "GUID": "a30f19b2-6127-409c-9c0f-1f3dc9311254",
             "Position": {
-                "x": -161.30001831054688,
-                "y": -3.6567671298980715,
-                "z": 118.4814224243164
+                "x": -70.70464324951172,
+                "y": -2.3899929523468019,
+                "z": -62.327816009521487
             },
             "Rotation": {
-                "x": -0.5228618383407593,
-                "y": 0.6411201357841492,
-                "z": -0.4761297106742859,
-                "w": -0.29812920093536379
+                "x": 0.626864492893219,
+                "y": -0.2961360812187195,
+                "z": -0.3270578980445862,
+                "w": 0.642166256904602
             },
             "Contents": {
-                "TrashIDs": [
-                    "seedvial",
-                    "plantscrap"
-                ],
-                "TrashQuantities": [
-                    10,
-                    5
-                ]
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "waterbottle",
+            "GUID": "14853ab4-9202-4d94-bffb-320350780ca6",
+            "Position": {
+                "x": -79.42912292480469,
+                "y": -2.0729098320007326,
+                "z": -41.06303024291992
+            },
+            "Rotation": {
+                "x": 0.4449630379676819,
+                "y": -0.7455132603645325,
+                "z": 0.4513421654701233,
+                "w": 0.2061750441789627
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "coffeecup",
+            "GUID": "644ab1a7-1405-46c6-b105-d98739f2a5f3",
+            "Position": {
+                "x": -79.59044647216797,
+                "y": -2.0701522827148439,
+                "z": -40.32722091674805
+            },
+            "Rotation": {
+                "x": 0.49401912093162539,
+                "y": -0.5059124231338501,
+                "z": 0.5059113502502441,
+                "w": 0.494015634059906
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "motoroil",
+            "GUID": "f1501a95-bb65-4ca3-a5d7-98401a517622",
+            "Position": {
+                "x": -53.1053352355957,
+                "y": 0.46561965346336367,
+                "z": 97.69386291503906
+            },
+            "Rotation": {
+                "x": -0.5679889917373657,
+                "y": 0.4210723042488098,
+                "z": 0.42117229104042055,
+                "w": 0.5680674314498901
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "cigarette",
+            "GUID": "31210bfe-935b-4517-9663-84cc5dd6621c",
+            "Position": {
+                "x": -53.300140380859378,
+                "y": 0.3731216788291931,
+                "z": 98.43190002441406
+            },
+            "Rotation": {
+                "x": 0.7798387408256531,
+                "y": 0.14053404331207276,
+                "z": 0.18898986279964448,
+                "w": -0.5799866318702698
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "motoroil",
+            "GUID": "bded0bd3-0727-44db-8f83-de6a825f6f82",
+            "Position": {
+                "x": -52.90591049194336,
+                "y": 0.4656199514865875,
+                "z": 97.4358901977539
+            },
+            "Rotation": {
+                "x": -0.5065658092498779,
+                "y": -0.49338069558143618,
+                "z": -0.4933414161205292,
+                "w": 0.5065381526947022
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "energydrink",
+            "GUID": "fe395af0-5902-42cb-80d1-acb65e99074e",
+            "Position": {
+                "x": -53.21820831298828,
+                "y": 0.4016156494617462,
+                "z": 98.03032684326172
+            },
+            "Rotation": {
+                "x": -0.6718476414680481,
+                "y": 0.5279320478439331,
+                "z": 0.22050446271896363,
+                "w": -0.4704108238220215
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "energydrink",
+            "GUID": "fcd16e9b-5f0f-432f-9726-422cd3bc406d",
+            "Position": {
+                "x": -53.08034133911133,
+                "y": 0.40162011981010439,
+                "z": 98.18701934814453
+            },
+            "Rotation": {
+                "x": 0.2121070921421051,
+                "y": -0.5608142614364624,
+                "z": -0.67454594373703,
+                "w": -0.4306804835796356
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "addy",
+            "GUID": "7b40414b-9dd9-45b2-bfbe-c2fc428fbabd",
+            "Position": {
+                "x": -103.99170684814453,
+                "y": -3.705733060836792,
+                "z": 66.90413665771485
+            },
+            "Rotation": {
+                "x": -0.7036207318305969,
+                "y": 0.562039852142334,
+                "z": -0.05805838480591774,
+                "w": 0.43088090419769289
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "crushedcuke",
+            "GUID": "1517b3c3-bc99-498c-b794-5eded00399ed",
+            "Position": {
+                "x": -103.79059600830078,
+                "y": -3.695183038711548,
+                "z": 65.9678726196289
+            },
+            "Rotation": {
+                "x": 0.7936726212501526,
+                "y": 0.0014008153229951859,
+                "z": -0.6083407402038574,
+                "w": -0.0018439216073602439
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "plantscrap",
+            "GUID": "49cfaae5-dc5a-490e-b055-83b9d961bd75",
+            "Position": {
+                "x": -103.45983123779297,
+                "y": -3.676698684692383,
+                "z": 66.00277709960938
+            },
+            "Rotation": {
+                "x": -0.2146485447883606,
+                "y": -0.22377881407737733,
+                "z": 0.6623709201812744,
+                "w": 0.6819925904273987
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "addy",
+            "GUID": "17d71361-22ed-4fe8-99d7-76c76aef9641",
+            "Position": {
+                "x": -103.58287048339844,
+                "y": -3.6745119094848635,
+                "z": 66.85319519042969
+            },
+            "Rotation": {
+                "x": -0.7614609599113464,
+                "y": -0.15561357140541078,
+                "z": 0.4649617671966553,
+                "w": 0.4239954352378845
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "addy",
+            "GUID": "2086614e-aa25-4d67-8746-431188b6093f",
+            "Position": {
+                "x": -103.53250885009766,
+                "y": -3.7057316303253176,
+                "z": 66.90144348144531
+            },
+            "Rotation": {
+                "x": 0.479244589805603,
+                "y": -0.3472992181777954,
+                "z": 0.5203821659088135,
+                "w": 0.6155568957328796
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "cuke",
+            "GUID": "b2d09255-3313-4644-84fe-0e477666537f",
+            "Position": {
+                "x": -117.03507995605469,
+                "y": -3.913743495941162,
+                "z": 88.4752426147461
+            },
+            "Rotation": {
+                "x": -0.00012467906344681978,
+                "y": -0.9545110464096069,
+                "z": -0.00012102969776606187,
+                "w": 0.2981756925582886
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "pipe",
+            "GUID": "33f81464-44eb-4b05-9bb7-cc5d449eee7d",
+            "Position": {
+                "x": -117.65752410888672,
+                "y": -3.9697771072387697,
+                "z": 87.29843139648438
+            },
+            "Rotation": {
+                "x": -0.6048728227615356,
+                "y": 0.08834616094827652,
+                "z": 0.7880100011825562,
+                "w": 0.07324003428220749
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "crushedcuke",
+            "GUID": "43ff9b30-67a4-497f-8e36-cfa99b280c4c",
+            "Position": {
+                "x": -117.27436065673828,
+                "y": -3.951578378677368,
+                "z": 87.22434997558594
+            },
+            "Rotation": {
+                "x": -0.6376587152481079,
+                "y": -0.3055761158466339,
+                "z": -0.3055700957775116,
+                "w": 0.6376845240592957
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "cuke",
+            "GUID": "ce051b88-7b34-4ee2-8466-f5ac807f87b7",
+            "Position": {
+                "x": -116.55967712402344,
+                "y": -3.9515814781188967,
+                "z": 88.2325439453125
+            },
+            "Rotation": {
+                "x": -0.6064250469207764,
+                "y": 0.3636607527732849,
+                "z": 0.3636604845523834,
+                "w": 0.6064244508743286
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "energydrink",
+            "GUID": "b6a2cf01-920e-4112-9071-ecaab60e8085",
+            "Position": {
+                "x": -117.89212036132813,
+                "y": -3.9638831615448,
+                "z": 87.38423156738281
+            },
+            "Rotation": {
+                "x": 0.2400076985359192,
+                "y": -0.32335901260375979,
+                "z": 0.665130078792572,
+                "w": 0.6288380026817322
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "cigarette",
+            "GUID": "62c7b3f1-3450-4629-a153-84b40e21f7b6",
+            "Position": {
+                "x": -16.018840789794923,
+                "y": -3.630765676498413,
+                "z": 148.695068359375
+            },
+            "Rotation": {
+                "x": -0.5577154159545898,
+                "y": -0.09545982629060745,
+                "z": 0.8219754099845886,
+                "w": -0.06478714197874069
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "litter1",
+            "GUID": "f520213a-a3b9-4e5c-bbe8-54167797d98f",
+            "Position": {
+                "x": -15.836379051208496,
+                "y": -3.616636276245117,
+                "z": 148.70668029785157
+            },
+            "Rotation": {
+                "x": 0.6966670751571655,
+                "y": 0.12113362550735474,
+                "z": -0.121171735227108,
+                "w": 0.6966341137886047
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "glassbottle",
+            "GUID": "e7a51ee9-18ce-4c39-bc1d-babd7e093fc3",
+            "Position": {
+                "x": -15.75339412689209,
+                "y": -3.592604160308838,
+                "z": 148.38534545898438
+            },
+            "Rotation": {
+                "x": -0.6035968065261841,
+                "y": 0.5986245274543762,
+                "z": 0.37391528487205508,
+                "w": -0.3708192706108093
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "coffeecup",
+            "GUID": "346108a7-04d3-4db2-b93a-4dce4c166e28",
+            "Position": {
+                "x": -177.76426696777345,
+                "y": -3.5578644275665285,
+                "z": 86.73680877685547
+            },
+            "Rotation": {
+                "x": 0.0002817848289851099,
+                "y": -0.3470243811607361,
+                "z": 0.00002306427813891787,
+                "w": 0.937856137752533
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "cigarettebox",
+            "GUID": "f9bde51a-bc24-4676-bd5a-9d750a0faa1c",
+            "Position": {
+                "x": -177.3885955810547,
+                "y": -3.593263864517212,
+                "z": 86.17440795898438
+            },
+            "Rotation": {
+                "x": -0.7063584923744202,
+                "y": -0.7063981890678406,
+                "z": 0.03210784122347832,
+                "w": 0.03206893801689148
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "waterbottle",
+            "GUID": "c70ea14f-18a6-4bb7-b292-6d95dc12b734",
+            "Position": {
+                "x": -177.80406188964845,
+                "y": -3.5832676887512209,
+                "z": 87.03182983398438
+            },
+            "Rotation": {
+                "x": -0.6110539436340332,
+                "y": -0.6943248510360718,
+                "z": -0.3558295965194702,
+                "w": 0.13383378088474275
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "energydrink",
+            "GUID": "aa146c35-b127-449a-aee2-8aba0ffe3f04",
+            "Position": {
+                "x": -177.55776977539063,
+                "y": -3.597266912460327,
+                "z": 86.31607818603516
+            },
+            "Rotation": {
+                "x": 0.7067707180976868,
+                "y": 0.07101026922464371,
+                "z": 0.02182440645992756,
+                "w": 0.7035314440727234
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "waterbottle",
+            "GUID": "847fa2c5-a33e-4789-9116-0ca8072ed2bc",
+            "Position": {
+                "x": -177.63563537597657,
+                "y": -3.583266496658325,
+                "z": 86.81097412109375
+            },
+            "Rotation": {
+                "x": -0.5495248436927795,
+                "y": -0.2804812490940094,
+                "z": -0.44499483704566958,
+                "w": 0.649101197719574
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "crushedcuke",
+            "GUID": "d37420b3-2307-4e14-b579-2cf43387787b",
+            "Position": {
+                "x": 4.238168239593506,
+                "y": 0.41834789514541628,
+                "z": -7.945173263549805
+            },
+            "Rotation": {
+                "x": -0.379244863986969,
+                "y": -0.5972837805747986,
+                "z": -0.5963544249534607,
+                "w": 0.3791923522949219
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "cuke",
+            "GUID": "1ebaa895-ba78-4f10-a795-ed2651403e0a",
+            "Position": {
+                "x": 5.181361198425293,
+                "y": 0.41863852739334109,
+                "z": -8.198162078857422
+            },
+            "Rotation": {
+                "x": -0.15262271463871003,
+                "y": 0.6908523440361023,
+                "z": 0.690163254737854,
+                "w": 0.15200024843215943
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "usedcigarette",
+            "GUID": "82ee88bb-a361-4d0f-a91c-d914a0371ab3",
+            "Position": {
+                "x": 3.4472694396972658,
+                "y": 0.10753629356622696,
+                "z": -7.950629234313965
+            },
+            "Rotation": {
+                "x": -0.19759616255760194,
+                "y": -0.6789829730987549,
+                "z": 0.678884744644165,
+                "w": -0.1976194679737091
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "usedcigarette",
+            "GUID": "490dfc03-ed64-464b-8c5f-189653e4d68c",
+            "Position": {
+                "x": 5.307028293609619,
+                "y": 0.10753962397575379,
+                "z": -8.793601036071778
+            },
+            "Rotation": {
+                "x": 0.19669117033481599,
+                "y": -0.6792694330215454,
+                "z": 0.6791045665740967,
+                "w": 0.19678056240081788
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "usedcigarette",
+            "GUID": "2f40428a-627e-42eb-bc8b-c7f30181608a",
+            "Position": {
+                "x": 117.97988891601563,
+                "y": 0.3794039487838745,
+                "z": 66.754638671875
+            },
+            "Rotation": {
+                "x": -0.651108980178833,
+                "y": -0.2757970690727234,
+                "z": -0.27581173181533816,
+                "w": 0.6510921716690064
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "coffeecup",
+            "GUID": "5ee4f88b-e5db-4ef2-864b-5df23d32a9ea",
+            "Position": {
+                "x": 117.78815460205078,
+                "y": 0.42985379695892336,
+                "z": 66.73621368408203
+            },
+            "Rotation": {
+                "x": -0.4793693423271179,
+                "y": -0.47937440872192385,
+                "z": 0.5198057293891907,
+                "w": 0.5198147296905518
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "usedcigarette",
+            "GUID": "5ae262cb-e9ba-45eb-8213-52c31649cb50",
+            "Position": {
+                "x": 117.91474914550781,
+                "y": 0.3794015944004059,
+                "z": 67.04094696044922
+            },
+            "Rotation": {
+                "x": -0.7045071125030518,
+                "y": 0.06109163537621498,
+                "z": 0.061096884310245517,
+                "w": 0.7044180035591126
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "cigarette",
+            "GUID": "c5481436-3391-4a88-9244-d0c6c8ec0616",
+            "Position": {
+                "x": 119.1991958618164,
+                "y": 0.37423279881477358,
+                "z": 66.49420928955078
+            },
+            "Rotation": {
+                "x": -0.9041827917098999,
+                "y": 0.07486248761415482,
+                "z": 0.17750251293182374,
+                "w": 0.38123756647109988
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
             }
         },
         {
@@ -27854,17 +27562,1381 @@
             "DataVersion": 0,
             "GameVersion": "0.3.3f15",
             "TrashID": "seedvial",
-            "GUID": "41265af3-baf8-487f-a564-771d2ecdbc65",
+            "GUID": "a0cfb456-e3d5-4b2e-84ce-c0bf6ca692a2",
             "Position": {
-                "x": -95.49552917480469,
-                "y": -2.1968994140625,
-                "z": -45.062984466552737
+                "x": -163.67823791503907,
+                "y": -3.82442307472229,
+                "z": 119.81885528564453
             },
             "Rotation": {
-                "x": 0.6091251373291016,
-                "y": -0.3591543734073639,
-                "z": 0.35912272334098818,
-                "w": 0.6091023087501526
+                "x": -0.30947747826576235,
+                "y": -0.6345673203468323,
+                "z": 0.5934094786643982,
+                "w": -0.3865400552749634
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "seedvial",
+            "GUID": "4e014236-8c9a-4e44-acb2-84001b1a1a39",
+            "Position": {
+                "x": -165.33262634277345,
+                "y": -3.961653232574463,
+                "z": 120.01341247558594
+            },
+            "Rotation": {
+                "x": 0.363886296749115,
+                "y": -0.6118046045303345,
+                "z": 0.6166937351226807,
+                "w": 0.3361113667488098
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "seedvial",
+            "GUID": "3a65198a-3095-4b53-8d1d-b37fcb1b9fec",
+            "Position": {
+                "x": -165.34889221191407,
+                "y": -3.9615604877471926,
+                "z": 119.87310028076172
+            },
+            "Rotation": {
+                "x": -0.5885814428329468,
+                "y": -0.3753134310245514,
+                "z": 0.38517943024635317,
+                "w": -0.6036129593849182
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "pipe",
+            "GUID": "0bed8def-e49e-4869-87d3-d95cf915d4e0",
+            "Position": {
+                "x": -142.5325164794922,
+                "y": -3.9514565467834474,
+                "z": 47.051185607910159
+            },
+            "Rotation": {
+                "x": -0.1917145997285843,
+                "y": -0.701763927936554,
+                "z": 0.19217169284820558,
+                "w": -0.6586675643920898
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "energydrink",
+            "GUID": "f44c8846-9ac8-44c4-a168-c4fa9c5c9373",
+            "Position": {
+                "x": -68.9954833984375,
+                "y": -2.3840012550354006,
+                "z": -64.20472717285156
+            },
+            "Rotation": {
+                "x": 0.3214331567287445,
+                "y": -0.5936502814292908,
+                "z": 0.6298246383666992,
+                "w": 0.3841627538204193
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "syringe",
+            "GUID": "1bbe2be7-d1f8-40f4-a5e1-46163ab6a543",
+            "Position": {
+                "x": -70.28709411621094,
+                "y": -2.378525733947754,
+                "z": -62.6929931640625
+            },
+            "Rotation": {
+                "x": -0.22012270987033845,
+                "y": -0.5031934976577759,
+                "z": 0.7904753088951111,
+                "w": -0.2710924744606018
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "glassbottle",
+            "GUID": "26137453-0c1f-4268-b7fb-e69722b5dbc1",
+            "Position": {
+                "x": -68.77983093261719,
+                "y": -2.4543473720550539,
+                "z": -65.68651580810547
+            },
+            "Rotation": {
+                "x": 0.5245915651321411,
+                "y": -0.5202659368515015,
+                "z": -0.47850823402404787,
+                "w": 0.47450709342956545
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "plantscrap",
+            "GUID": "f560feef-6808-4e1c-9d7d-ab51dec983e0",
+            "Position": {
+                "x": -79.4748306274414,
+                "y": -2.131248950958252,
+                "z": -40.8397102355957
+            },
+            "Rotation": {
+                "x": 0.000013515616956283338,
+                "y": -0.776233971118927,
+                "z": -0.000014282877600635402,
+                "w": 0.6304449439048767
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "usedcigarette",
+            "GUID": "ad491ddc-a059-4ece-a7f8-7e9f4c74c164",
+            "Position": {
+                "x": -79.50655364990235,
+                "y": -2.107290506362915,
+                "z": -40.447689056396487
+            },
+            "Rotation": {
+                "x": -0.3442479372024536,
+                "y": -0.34400248527526858,
+                "z": 0.6158909797668457,
+                "w": 0.6195434331893921
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "crushedcuke",
+            "GUID": "09cce380-c782-4eac-8405-c1fb112f3c69",
+            "Position": {
+                "x": -78.89495086669922,
+                "y": -2.311647891998291,
+                "z": -39.88617706298828
+            },
+            "Rotation": {
+                "x": 0.7791591286659241,
+                "y": 0.43189164996147158,
+                "z": -0.3971858024597168,
+                "w": -0.22050884366035462
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "crushedcuke",
+            "GUID": "c74e057d-fb3d-443b-b315-68debcd8ff08",
+            "Position": {
+                "x": -78.99951934814453,
+                "y": -2.3514771461486818,
+                "z": -39.648014068603519
+            },
+            "Rotation": {
+                "x": 0.39934834837913515,
+                "y": -0.583561360836029,
+                "z": 0.5835303664207459,
+                "w": 0.39933621883392336
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "waterbottle",
+            "GUID": "8e340a1a-d247-4726-9dac-8b065cef5124",
+            "Position": {
+                "x": -78.90467834472656,
+                "y": -2.0832622051239015,
+                "z": -40.617156982421878
+            },
+            "Rotation": {
+                "x": -0.257541298866272,
+                "y": -0.621058464050293,
+                "z": 0.6585371494293213,
+                "w": -0.33806464076042178
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "cuke",
+            "GUID": "510ee30c-bc8a-422c-a2a3-5136b8142d21",
+            "Position": {
+                "x": 46.45069885253906,
+                "y": 0.43140754103660586,
+                "z": 60.20650863647461
+            },
+            "Rotation": {
+                "x": 0.4604143798351288,
+                "y": -0.043138228356838229,
+                "z": -0.5374046564102173,
+                "w": 0.7052333354949951
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "usedcigarette",
+            "GUID": "c0e3efce-f7f2-47c8-bd11-808e55127a15",
+            "Position": {
+                "x": 45.848270416259769,
+                "y": 0.37123021483421328,
+                "z": 61.01142120361328
+            },
+            "Rotation": {
+                "x": 0.6003912687301636,
+                "y": 0.3735771179199219,
+                "z": -0.3736019730567932,
+                "w": 0.600326657295227
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "coffeecup",
+            "GUID": "f8220a64-b606-4a6b-8db9-9f4db56bd2c9",
+            "Position": {
+                "x": 46.48261642456055,
+                "y": 0.5530735850334168,
+                "z": 61.450504302978519
+            },
+            "Rotation": {
+                "x": 0.6803964376449585,
+                "y": 0.19251635670661927,
+                "z": -0.1925148069858551,
+                "w": 0.680394172668457
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "addy",
+            "GUID": "6013cf15-1c99-4ee3-86a8-1dc3577d7513",
+            "Position": {
+                "x": 46.47238540649414,
+                "y": 0.39373183250427248,
+                "z": 61.652313232421878
+            },
+            "Rotation": {
+                "x": -0.6484993696212769,
+                "y": 0.6161191463470459,
+                "z": 0.2818686366081238,
+                "w": 0.3469812870025635
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "cuke",
+            "GUID": "73f2a6fd-d9d9-48de-b85e-187057fee8b3",
+            "Position": {
+                "x": 46.14876174926758,
+                "y": 0.4121699333190918,
+                "z": 60.14909744262695
+            },
+            "Rotation": {
+                "x": -0.7081717848777771,
+                "y": -0.7058754563331604,
+                "z": 0.008532346226274968,
+                "w": 0.01264110766351223
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "usedcigarette",
+            "GUID": "b44f4728-1d4e-406e-8b3a-4add1da97dcd",
+            "Position": {
+                "x": 46.39540481567383,
+                "y": 0.37022867798805239,
+                "z": 58.886024475097659
+            },
+            "Rotation": {
+                "x": -0.000030895120289642364,
+                "y": 0.6908574104309082,
+                "z": 0.00002917347228503786,
+                "w": 0.7229911088943481
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "waterbottle",
+            "GUID": "97392a90-a8e4-449e-ba14-c8be77a846ab",
+            "Position": {
+                "x": 45.836456298828128,
+                "y": 0.42131659388542178,
+                "z": 59.29813003540039
+            },
+            "Rotation": {
+                "x": -0.27307644486427309,
+                "y": 0.25283679366111758,
+                "z": 0.594597339630127,
+                "w": 0.712710976600647
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "usedcigarette",
+            "GUID": "b3478826-a980-440a-a4f1-67590d45abe2",
+            "Position": {
+                "x": 45.81114959716797,
+                "y": 0.3749568462371826,
+                "z": 59.10478210449219
+            },
+            "Rotation": {
+                "x": -0.6914711594581604,
+                "y": -0.00005300594784785062,
+                "z": -0.7224040627479553,
+                "w": 0.0000555845836061053
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "litter1",
+            "GUID": "ec543eff-8790-4603-82d3-04797b224f4d",
+            "Position": {
+                "x": -11.08019733428955,
+                "y": 0.5051351189613342,
+                "z": 16.00388526916504
+            },
+            "Rotation": {
+                "x": -0.49844831228256228,
+                "y": 0.5015573501586914,
+                "z": 0.5015490651130676,
+                "w": 0.49843570590019228
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "litter1",
+            "GUID": "c861fcd3-61d4-46c2-89ec-37cbb1423113",
+            "Position": {
+                "x": -10.811991691589356,
+                "y": 0.5051353573799133,
+                "z": 16.16042709350586
+            },
+            "Rotation": {
+                "x": -0.6885942816734314,
+                "y": 0.16086754202842713,
+                "z": 0.1608397364616394,
+                "w": 0.6885421276092529
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "cigarette",
+            "GUID": "5929b180-794a-40d3-bb92-883750e6da69",
+            "Position": {
+                "x": -10.843963623046875,
+                "y": 0.5242321491241455,
+                "z": 15.194635391235352
+            },
+            "Rotation": {
+                "x": -0.8629049062728882,
+                "y": 0.13472267985343934,
+                "z": 0.3772318661212921,
+                "w": 0.30812522768974306
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "cigarette",
+            "GUID": "e663dc9e-862e-433b-9625-ef28dd5611ba",
+            "Position": {
+                "x": -10.96499252319336,
+                "y": 0.524232804775238,
+                "z": 15.191269874572754
+            },
+            "Rotation": {
+                "x": -0.41702499985694888,
+                "y": 0.21887651085853578,
+                "z": 0.8759689927101135,
+                "w": 0.1042189970612526
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "addy",
+            "GUID": "41a9e816-b57c-4521-b0a1-730355008cd8",
+            "Position": {
+                "x": -10.304498672485352,
+                "y": 0.5467350482940674,
+                "z": 16.353120803833009
+            },
+            "Rotation": {
+                "x": 0.33583083748817446,
+                "y": -0.6828474998474121,
+                "z": 0.6222683787345886,
+                "w": 0.18362732231616975
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "waterbottle",
+            "GUID": "fdb53d90-ce86-40dd-84a5-499c9af788d8",
+            "Position": {
+                "x": -117.40229034423828,
+                "y": -3.949894666671753,
+                "z": 88.17312622070313
+            },
+            "Rotation": {
+                "x": 0.6841161251068115,
+                "y": -0.31277304887771609,
+                "z": 0.1780884563922882,
+                "w": -0.6343836784362793
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "litter1",
+            "GUID": "01e9faf1-6eb3-4a33-834a-c78664cb8a7a",
+            "Position": {
+                "x": -116.40999603271485,
+                "y": -4.011378765106201,
+                "z": 87.49610900878906
+            },
+            "Rotation": {
+                "x": 0.2051232010126114,
+                "y": 0.6767001152038574,
+                "z": 0.6767030358314514,
+                "w": -0.20512084662914277
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "energydrink",
+            "GUID": "c6e4cb5d-291c-4c4c-9745-eeed00fb1a67",
+            "Position": {
+                "x": -116.86402130126953,
+                "y": -3.9638381004333498,
+                "z": 87.72765350341797
+            },
+            "Rotation": {
+                "x": 0.5731651782989502,
+                "y": 0.5740909576416016,
+                "z": 0.414113312959671,
+                "w": -0.4128091633319855
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "waterbottle",
+            "GUID": "eb0e6e18-275f-48cb-9f87-fc52c5e99658",
+            "Position": {
+                "x": -116.32290649414063,
+                "y": -3.949862241744995,
+                "z": 87.20499420166016
+            },
+            "Rotation": {
+                "x": 0.0057647149078547958,
+                "y": -0.5340486168861389,
+                "z": -0.7070788145065308,
+                "w": 0.46346360445022585
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "cigarette",
+            "GUID": "542ab5cc-cb82-4c32-a3b2-0e501f143f14",
+            "Position": {
+                "x": -117.56938934326172,
+                "y": -3.9923691749572756,
+                "z": 87.6532211303711
+            },
+            "Rotation": {
+                "x": -0.733237087726593,
+                "y": 0.022519061341881753,
+                "z": 0.024321014061570169,
+                "w": 0.6791648268699646
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "cuke",
+            "GUID": "6fb4d856-7da0-4e9d-a729-f30e1098119b",
+            "Position": {
+                "x": -177.83949279785157,
+                "y": -3.5849528312683107,
+                "z": 85.69166564941406
+            },
+            "Rotation": {
+                "x": -0.2897748649120331,
+                "y": -0.28977957367897036,
+                "z": 0.6450049877166748,
+                "w": 0.6450015306472778
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "coffeecup",
+            "GUID": "3a6c89dd-7a2b-4e5e-9595-cff5a050b284",
+            "Position": {
+                "x": -177.35569763183595,
+                "y": -3.5701613426208498,
+                "z": 87.13727569580078
+            },
+            "Rotation": {
+                "x": 0.39085277915000918,
+                "y": 0.5892652273178101,
+                "z": 0.5892601013183594,
+                "w": -0.39086204767227175
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "motoroil",
+            "GUID": "045086cc-24cf-46f4-9b21-06c34a19e1c7",
+            "Position": {
+                "x": -177.47598266601563,
+                "y": -3.4618377685546877,
+                "z": 87.25446319580078
+            },
+            "Rotation": {
+                "x": 0.6873837113380432,
+                "y": 0.000023758406314300373,
+                "z": -0.7262945175170898,
+                "w": -0.000025373914468218572
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "cigarettebox",
+            "GUID": "c433ef40-9668-46bb-9a1e-c7e1c0ea0c09",
+            "Position": {
+                "x": -177.66969299316407,
+                "y": -3.615766763687134,
+                "z": 86.9373779296875
+            },
+            "Rotation": {
+                "x": -0.0260933768004179,
+                "y": -0.7066265940666199,
+                "z": 0.7066251635551453,
+                "w": -0.026057297363877298
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "glassbottle",
+            "GUID": "22f78724-6dfd-4923-aad3-af73f9624d8a",
+            "Position": {
+                "x": -177.27490234375,
+                "y": -3.5360260009765627,
+                "z": 86.10078430175781
+            },
+            "Rotation": {
+                "x": -0.477280855178833,
+                "y": 0.5179325938224793,
+                "z": -0.6125786304473877,
+                "w": 0.35874271392822268
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "cuke",
+            "GUID": "93b1d624-076e-431f-bf21-d03138fef69d",
+            "Position": {
+                "x": 13.838790893554688,
+                "y": 0.4150336682796478,
+                "z": 73.21090698242188
+            },
+            "Rotation": {
+                "x": 0.3988356590270996,
+                "y": -0.39883875846862795,
+                "z": -0.5838923454284668,
+                "w": 0.5838900208473206
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "cuke",
+            "GUID": "aea09da7-69e7-442f-99a0-776015fab005",
+            "Position": {
+                "x": 14.9102783203125,
+                "y": 0.41503098607063296,
+                "z": 73.25518798828125
+            },
+            "Rotation": {
+                "x": 0.5272148251533508,
+                "y": -0.4712257981300354,
+                "z": 0.471219539642334,
+                "w": 0.5272029638290405
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "usedcigarette",
+            "GUID": "16e6582a-ca62-4ef3-a1b5-ae5734256891",
+            "Position": {
+                "x": 12.53781509399414,
+                "y": 0.37796550989151,
+                "z": 73.43206787109375
+            },
+            "Rotation": {
+                "x": -0.9727711081504822,
+                "y": 6.290221676863439e-7,
+                "z": -0.23176805675029756,
+                "w": 0.000005213983513385756
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "coffeecup",
+            "GUID": "2fdf0ae5-ded4-4980-b319-7ebf4c7db4f0",
+            "Position": {
+                "x": 11.668839454650879,
+                "y": 0.4298505485057831,
+                "z": 72.93501281738281
+            },
+            "Rotation": {
+                "x": -0.6584316492080689,
+                "y": -0.25780850648880007,
+                "z": -0.25781235098838808,
+                "w": 0.6584340333938599
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "crushedcuke",
+            "GUID": "e3f0b248-4c15-4829-9164-1141e770aa7a",
+            "Position": {
+                "x": -11.29831600189209,
+                "y": -3.6049649715423586,
+                "z": 129.76626586914063
+            },
+            "Rotation": {
+                "x": 0.2517397403717041,
+                "y": 0.6607630252838135,
+                "z": 0.660790205001831,
+                "w": -0.2517452538013458
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "usedcigarette",
+            "GUID": "1f53f7bc-0df8-4bd9-a50b-aad990a56207",
+            "Position": {
+                "x": -10.551417350769043,
+                "y": -3.6467697620391847,
+                "z": 129.8867950439453
+            },
+            "Rotation": {
+                "x": -0.00003156026650685817,
+                "y": -0.8740155696868897,
+                "z": -0.00005968681944068521,
+                "w": 0.485897958278656
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "crushedcuke",
+            "GUID": "c94adac5-3e66-4f58-a213-62f4e5401512",
+            "Position": {
+                "x": -10.827974319458008,
+                "y": -3.6034774780273439,
+                "z": 130.26087951660157
+            },
+            "Rotation": {
+                "x": 1.9790313388057258e-7,
+                "y": -0.7568071484565735,
+                "z": 0.000002317362714165938,
+                "w": 0.6536382436752319
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "motoroil",
+            "GUID": "08ed7aba-01e1-4bd7-a966-e3dd4353aba6",
+            "Position": {
+                "x": 175.64271545410157,
+                "y": 10.252931594848633,
+                "z": -61.9653205871582
+            },
+            "Rotation": {
+                "x": -0.6462729573249817,
+                "y": -0.000030948744097258896,
+                "z": -0.7631062865257263,
+                "w": -0.000015656949472031556
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "usedcigarette",
+            "GUID": "333261b4-04ad-4b10-a404-a9b65fdfd3b7",
+            "Position": {
+                "x": 175.1142578125,
+                "y": 10.094161987304688,
+                "z": -61.21726989746094
+            },
+            "Rotation": {
+                "x": -0.05134328454732895,
+                "y": -0.7051923274993897,
+                "z": -0.7052890062332153,
+                "w": 0.05133360996842384
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "addy",
+            "GUID": "49f8be6f-59b3-419b-a452-7fbc09925610",
+            "Position": {
+                "x": 175.70753479003907,
+                "y": 10.111498832702637,
+                "z": -61.66968536376953
+            },
+            "Rotation": {
+                "x": 0.15444768965244294,
+                "y": -0.22745421528816224,
+                "z": 0.6900338530540466,
+                "w": 0.669525146484375
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "usedcigarette",
+            "GUID": "fb600372-2384-49d5-a3fd-1226ee5a9d85",
+            "Position": {
+                "x": 174.4998321533203,
+                "y": 10.089005470275879,
+                "z": -62.70772933959961
+            },
+            "Rotation": {
+                "x": -0.3321129381656647,
+                "y": 0.6243459582328796,
+                "z": -0.6241917014122009,
+                "w": -0.332081139087677
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "glassbottle",
+            "GUID": "b79c519d-3560-4eff-9d98-abf66c960ecb",
+            "Position": {
+                "x": 174.74195861816407,
+                "y": 10.135917663574219,
+                "z": -62.4744987487793
+            },
+            "Rotation": {
+                "x": -0.5769616961479187,
+                "y": 0.7093351483345032,
+                "z": -0.25596994161605837,
+                "w": 0.3137487769126892
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "cuke",
+            "GUID": "49eec317-a114-49a9-8dec-8be0332f8273",
+            "Position": {
+                "x": 175.38461303710938,
+                "y": 10.129780769348145,
+                "z": -61.9899787902832
+            },
+            "Rotation": {
+                "x": 0.33832961320877077,
+                "y": 0.6209142804145813,
+                "z": -0.6209170818328857,
+                "w": 0.33832019567489626
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "crushedcuke",
+            "GUID": "d7fa2302-36a8-4165-98c7-d6f55b7a69e1",
+            "Position": {
+                "x": 174.8055877685547,
+                "y": 10.117767333984375,
+                "z": -61.59831619262695
+            },
+            "Rotation": {
+                "x": 0.07451248168945313,
+                "y": 0.000004248139703122433,
+                "z": -0.9972200989723206,
+                "w": -5.454986080621893e-7
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "energydrink",
+            "GUID": "eec5d214-486c-4194-9a18-1b7ec1a0546e",
+            "Position": {
+                "x": 174.5606689453125,
+                "y": 10.117498397827149,
+                "z": -62.581722259521487
+            },
+            "Rotation": {
+                "x": 0.17440654337406159,
+                "y": -0.6097093820571899,
+                "z": -0.6853665709495544,
+                "w": 0.3579239845275879
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "cigarettebox",
+            "GUID": "6de97d40-554b-466e-9bd8-468da1ddafa6",
+            "Position": {
+                "x": 175.77035522460938,
+                "y": 10.098999977111817,
+                "z": -61.00869369506836
+            },
+            "Rotation": {
+                "x": -0.6871204376220703,
+                "y": -0.1669585108757019,
+                "z": -0.1669360250234604,
+                "w": 0.6871119141578674
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "crushedcuke",
+            "GUID": "aa9bcc59-af3c-46b8-a0c3-b6c9aa15be34",
+            "Position": {
+                "x": 174.92189025878907,
+                "y": 10.117744445800782,
+                "z": -61.4990119934082
+            },
+            "Rotation": {
+                "x": -0.9059492945671082,
+                "y": 9.487876013736241e-7,
+                "z": 0.42338618636131289,
+                "w": 0.000027484373276820406
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "cigarette",
+            "GUID": "9c7ace39-dbec-4eb2-a07a-e9cbd7be8ea7",
+            "Position": {
+                "x": -24.88652801513672,
+                "y": 0.18899786472320558,
+                "z": 77.29910278320313
+            },
+            "Rotation": {
+                "x": -0.4645477831363678,
+                "y": 0.44119855761528017,
+                "z": 0.28792428970336916,
+                "w": 0.711785614490509
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "litter1",
+            "GUID": "b00b428c-e95c-46fa-82c7-a5faae5dbc91",
+            "Position": {
+                "x": -24.569141387939454,
+                "y": 0.20312707126140595,
+                "z": 76.877685546875
+            },
+            "Rotation": {
+                "x": 0.40941107273101809,
+                "y": -0.5765326619148254,
+                "z": 0.5765296816825867,
+                "w": 0.4093973636627197
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "usedcigarette",
+            "GUID": "cb46e680-8ae6-4625-bcc9-9061ebbc7edc",
+            "Position": {
+                "x": -24.107656478881837,
+                "y": 0.18900077044963838,
+                "z": 76.4715805053711
+            },
+            "Rotation": {
+                "x": 0.5919049382209778,
+                "y": -0.3868826925754547,
+                "z": 0.3869301974773407,
+                "w": 0.5918238162994385
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "energydrink",
+            "GUID": "b31c14e9-072a-463c-9d5e-90505b595fb6",
+            "Position": {
+                "x": -25.199533462524415,
+                "y": 0.21749813854694367,
+                "z": 77.13797760009766
+            },
+            "Rotation": {
+                "x": 0.16760747134685517,
+                "y": 0.643532931804657,
+                "z": -0.6869545578956604,
+                "w": 0.29303017258644106
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "addy",
+            "GUID": "460095d4-4e32-4d2e-8f6e-6abd8fd1fb20",
+            "Position": {
+                "x": -24.14824104309082,
+                "y": 0.2114984542131424,
+                "z": 77.04167175292969
+            },
+            "Rotation": {
+                "x": -0.26466307044029238,
+                "y": 0.18851616978645326,
+                "z": 0.6557090282440186,
+                "w": 0.6815136671066284
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "plantscrap",
+            "GUID": "0778dbb8-5ef6-4484-87c8-67ba425f3ab9",
+            "Position": {
+                "x": -24.40003204345703,
+                "y": 0.18350990116596223,
+                "z": 76.77825927734375
+            },
+            "Rotation": {
+                "x": -0.00000950104458752321,
+                "y": 0.09695954620838165,
+                "z": -0.00001834960130508989,
+                "w": 0.9952883720397949
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "usedcigarette",
+            "GUID": "0ec6a290-f322-4ee3-9b9f-1a2137b99e0e",
+            "Position": {
+                "x": -24.811355590820314,
+                "y": 0.18799535930156709,
+                "z": 77.69427490234375
+            },
+            "Rotation": {
+                "x": -0.00002615085759316571,
+                "y": 0.7019802927970886,
+                "z": 0.0000349237016052939,
+                "w": 0.712196409702301
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "usedcigarette",
+            "GUID": "bc1effe5-2fe0-4ae0-8484-dfbad652bf2b",
+            "Position": {
+                "x": -23.920654296875,
+                "y": 0.1927231252193451,
+                "z": 76.37047576904297
+            },
+            "Rotation": {
+                "x": -0.5815643072128296,
+                "y": -0.000028438918889150955,
+                "z": -0.8135005235671997,
+                "w": 0.000020778637917828746
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "cigarette",
+            "GUID": "874bec7d-e2a8-4803-b22f-c9f44c830d1f",
+            "Position": {
+                "x": -24.02564811706543,
+                "y": 0.18900036811828614,
+                "z": 76.8188247680664
+            },
+            "Rotation": {
+                "x": -0.2180132269859314,
+                "y": -0.5778600573539734,
+                "z": -0.769231915473938,
+                "w": 0.16379955410957337
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "cigarette",
+            "GUID": "ed14757d-f7d8-4268-831a-a2ef7be1a8a8",
+            "Position": {
+                "x": -24.9480037689209,
+                "y": 0.18899860978126527,
+                "z": 77.17478942871094
+            },
+            "Rotation": {
+                "x": 0.08472391963005066,
+                "y": 0.7459338307380676,
+                "z": -0.653488039970398,
+                "w": 0.09673675149679184
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "cigarette",
+            "GUID": "555a6f7a-e3ac-4cef-aa19-d118cee5e0ac",
+            "Position": {
+                "x": -86.98426818847656,
+                "y": -2.2124950885772707,
+                "z": -59.6372184753418
+            },
+            "Rotation": {
+                "x": -0.8569446802139282,
+                "y": 0.09330474585294724,
+                "z": 0.16703104972839356,
+                "w": 0.4785820245742798
             },
             "Contents": {
                 "TrashIDs": [],
@@ -27876,28 +28948,26 @@
             "DataVersion": 0,
             "GameVersion": "0.3.3f15",
             "TrashID": "trashbag",
-            "GUID": "221dc177-cf7b-4e61-9af5-191256fca7c3",
+            "GUID": "b6a6a06b-c576-47ce-8fee-1270b2bfd0d2",
             "Position": {
-                "x": -161.3026580810547,
-                "y": -3.658207416534424,
-                "z": 119.25379180908203
+                "x": -69.66537475585938,
+                "y": -2.0991592407226564,
+                "z": -63.656856536865237
             },
             "Rotation": {
-                "x": 0.5452520251274109,
-                "y": -0.6579976677894592,
-                "z": 0.4503226578235626,
-                "w": 0.25874462723731997
+                "x": -0.6924627423286438,
+                "y": 0.6004915833473206,
+                "z": -0.1434820592403412,
+                "w": 0.37325355410575869
             },
             "Contents": {
                 "TrashIDs": [
-                    "plantscrap",
-                    "seedvial",
-                    "soilbag3"
+                    "soilbag3",
+                    "seedvial"
                 ],
                 "TrashQuantities": [
-                    7,
-                    4,
-                    1
+                    3,
+                    11
                 ]
             }
         },
@@ -27905,18 +28975,40 @@
             "DataType": "TrashItemData",
             "DataVersion": 0,
             "GameVersion": "0.3.3f15",
-            "TrashID": "seedvial",
-            "GUID": "b52f3141-49e9-4be7-ac61-48a2d37303b5",
+            "TrashID": "soilbag3",
+            "GUID": "d7605ae4-a714-47ac-a40a-0661e45a56b1",
             "Position": {
-                "x": -96.01093292236328,
-                "y": -2.1969034671783449,
-                "z": -44.91060256958008
+                "x": -161.4525909423828,
+                "y": -3.9811055660247804,
+                "z": 115.44579315185547
             },
             "Rotation": {
-                "x": 0.6593681573867798,
-                "y": 0.25539329648017886,
-                "z": -0.2554083466529846,
-                "w": 0.6593743562698364
+                "x": -0.48925554752349856,
+                "y": -0.5105171799659729,
+                "z": -0.5105219483375549,
+                "w": 0.4892531633377075
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+        },
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "TrashID": "fertilizer",
+            "GUID": "48420517-dcf7-48dd-86e1-a2551489bfa2",
+            "Position": {
+                "x": -95.25984191894531,
+                "y": -2.1717007160186769,
+                "z": -45.78362274169922
+            },
+            "Rotation": {
+                "x": 0.687360405921936,
+                "y": -0.16591574251651765,
+                "z": 0.165949285030365,
+                "w": 0.6873635053634644
             },
             "Contents": {
                 "TrashIDs": [],
@@ -27928,17 +29020,17 @@
             "DataVersion": 0,
             "GameVersion": "0.3.3f15",
             "TrashID": "seedvial",
-            "GUID": "c42fb1e9-15e6-4565-8387-3e0a8eb00d5b",
+            "GUID": "de51b584-cfc8-4afa-8948-638c27934387",
             "Position": {
-                "x": -94.12796783447266,
-                "y": -2.196899890899658,
-                "z": -46.991947174072269
+                "x": -167.43406677246095,
+                "y": -3.9689605236053469,
+                "z": 119.93307495117188
             },
             "Rotation": {
-                "x": -0.4219910204410553,
-                "y": -0.4220225512981415,
-                "z": -0.5673844218254089,
-                "w": -0.5673583745956421
+                "x": 0.6362507939338684,
+                "y": -0.6331658959388733,
+                "z": -0.3255799412727356,
+                "w": 0.29712551832199099
             },
             "Contents": {
                 "TrashIDs": [],
@@ -27949,18 +29041,18 @@
             "DataType": "TrashItemData",
             "DataVersion": 0,
             "GameVersion": "0.3.3f15",
-            "TrashID": "seedvial",
-            "GUID": "f8224793-b272-4ad1-ba78-fd78daf69e24",
+            "TrashID": "fertilizer",
+            "GUID": "7e99a6e0-1089-4a3b-8ccf-cfb2bf6c3598",
             "Position": {
-                "x": -95.69918060302735,
-                "y": -2.1969001293182375,
-                "z": -46.531463623046878
+                "x": -94.60631561279297,
+                "y": -2.1716930866241457,
+                "z": -47.356441497802737
             },
             "Rotation": {
-                "x": -0.6943573951721191,
-                "y": -0.13366295397281648,
-                "z": -0.13366247713565827,
-                "w": 0.6943604946136475
+                "x": 0.6405285000801086,
+                "y": 0.2995426058769226,
+                "z": -0.299536794424057,
+                "w": 0.6405272483825684
             },
             "Contents": {
                 "TrashIDs": [],
@@ -27968,25 +29060,37 @@
             }
         },
         {
-            "DataType": "TrashItemData",
+            "DataType": "TrashBagData",
             "DataVersion": 0,
             "GameVersion": "0.3.3f15",
-            "TrashID": "seedvial",
-            "GUID": "ad8491a3-1b71-4adf-b285-416fbdf5ffbc",
+            "TrashID": "trashbag",
+            "GUID": "ac4c5722-bf55-4c19-b17f-873f0d8aa038",
             "Position": {
-                "x": -92.96680450439453,
-                "y": -2.1969001293182375,
-                "z": -48.020442962646487
+                "x": -68.83241271972656,
+                "y": -2.0687408447265627,
+                "z": -62.903926849365237
             },
             "Rotation": {
-                "x": -0.5466220378875732,
-                "y": 0.4485708177089691,
-                "z": -0.4485585391521454,
-                "w": -0.5466113090515137
+                "x": 0.666002631187439,
+                "y": -0.5168793201446533,
+                "z": 0.28819265961647036,
+                "w": 0.45411598682403567
             },
             "Contents": {
-                "TrashIDs": [],
-                "TrashQuantities": []
+                "TrashIDs": [
+                    "energydrink",
+                    "motoroil",
+                    "crushedcuke",
+                    "soilbag3",
+                    "seedvial"
+                ],
+                "TrashQuantities": [
+                    1,
+                    1,
+                    1,
+                    2,
+                    7
+                ]
             }
         }
     ]

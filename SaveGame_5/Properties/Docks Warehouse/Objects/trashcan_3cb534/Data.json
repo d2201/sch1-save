@@ -12,13 +12,7 @@
     },
     "Rotation": 180,
     "ContentData": {
-        "TrashIDs": [
-            "seedvial",
-            "soilbag3"
-        ],
-        "TrashQuantities": [
-            4,
-            3
-        ]
+        "TrashIDs": [],
+        "TrashQuantities": []
     }
 }

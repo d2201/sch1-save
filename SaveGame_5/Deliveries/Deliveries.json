@@ -2,5 +2,20 @@
     "DataType": "DeliveriesData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f15",
-    "ActiveDeliveries": []
+    "ActiveDeliveries": [
+        {
+            "DeliveryID": "223f4790-d028-451b-80d5-67119c2c98de",
+            "StoreName": "Gas-Mart (West)",
+            "DestinationCode": "bungalow",
+            "LoadingDockIndex": 0,
+            "Items": [
+                {
+                    "String": "jar",
+                    "Int": 160
+                }
+            ],
+            "Status": 2,
+            "TimeUntilArrival": 0
+        }
+    ]
 }

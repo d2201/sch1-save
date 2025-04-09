@@ -13,10 +13,10 @@
     "Rotation": 0,
     "Contents": {
         "Items": [
-            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"\",\"Quantity\":0}",
+            "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"granddaddypurple\",\"Quantity\":5,\"Quality\":\"Heavenly\",\"PackagingID\":\"jar\"}",
             "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"granddaddypurple\",\"Quantity\":6,\"Quality\":\"Heavenly\",\"PackagingID\":\"brick\"}",
-            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"\",\"Quantity\":0}",
             "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"granddaddypurple\",\"Quantity\":4,\"Quality\":\"Heavenly\",\"PackagingID\":\"\"}",
+            "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"granddaddypurple\",\"Quantity\":20,\"Quality\":\"Heavenly\",\"PackagingID\":\"\"}",
             "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"\",\"Quantity\":0}",
             "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"aspensmegma\",\"Quantity\":10,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
             "{\"DataType\":\"CocaineData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"cocaine\",\"Quantity\":9,\"Quality\":\"Standard\",\"PackagingID\":\"\"}",

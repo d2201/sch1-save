@@ -2,51 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f15",
-    "ConversationIndex": 11,
+    "ConversationIndex": 0,
     "Read": true,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": -1736987411,
-            "Text": "You can pay off your debt by placing cash in my stash. It's behind the Church.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 419510970,
-            "Text": "I've received $320 cash from you. Your debt is now paid off.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": -1210967494,
-            "Text": "I need a dead drop:\n10x Coca Seed",
-            "EndOfChain": false
-        },
-        {
-            "Sender": 1,
-            "MessageID": -349103988,
-            "Text": "Got it. I'll let you know when it's ready. Should be about 5 hours",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -1272783875,
-            "Text": "The drop is ready. You can find it behind the bank",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 680551649,
-            "Text": "Just reminding you that you owe me <color=#46CB4F>$800</color>. Please deposit the amount into my stash box when you're ready.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -1615556240,
-            "Text": "I've received $800 cash from you. Your debt is now paid off.",
-            "EndOfChain": true
-        },
         {
             "Sender": 0,
             "MessageID": 1530943496,
@@ -63,6 +21,48 @@
             "Sender": 1,
             "MessageID": 399593820,
             "Text": "Hey, that drop is ready behind the western Gas-Mart",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1557372839,
+            "Text": "I've received $800 cash from you. Your debt is now paid off.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 567007284,
+            "Text": "I need a dead drop:\n10x Coca Seed",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -286178213,
+            "Text": "Copy. I'll message you when it's ready in about 5 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1691524355,
+            "Text": "Hey, that drop is ready in the alleyway behind Slop Shop (the diner)",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 519859741,
+            "Text": "I've received $800 cash from you. Your debt is now paid off.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 884835964,
+            "Text": "I need a dead drop:\n10x Coca Seed",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 344818409,
+            "Text": "Working on it. Should be ready in around 5 hours",
             "EndOfChain": true
         }
     ],
