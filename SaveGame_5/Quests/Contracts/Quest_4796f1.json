@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "GUID": "4796f1cc-cb86-44b2-87e7-b0f15d8758ea",
+    "State": 1,
+    "IsTracked": false,
+    "Title": "Deal for Jerry",
+    "Description": "Jerry has requested a delivery of 8x Granddaddy Purple on the wharf west of the warehouse for $485.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.3f15",
+        "ElapsedDays": 31,
+        "Time": 2400
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "Name": "8x Granddaddy Purple, West Warehouse Wharf",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "56d2b6f3-53d4-49a9-a09d-dd5a768ff222",
+    "Payment": 485.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "granddaddypurple",
+                "Quality": 1,
+                "Quantity": 8
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "36058621-8030-42d2-a0dc-dfb820e87266",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 1800,
+        "WindowEndTime": 2400
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.3f15",
+        "ElapsedDays": 31,
+        "Time": 1740
+    }
+}

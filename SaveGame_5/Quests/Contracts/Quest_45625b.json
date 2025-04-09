@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "GUID": "45625b90-2076-4ac5-a28e-f27a73586e16",
+    "State": 1,
+    "IsTracked": false,
+    "Title": "Deal for Beth",
+    "Description": "Beth has requested a delivery of 4x Granddaddy Purple behind taco ticklers for $240.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.3f15",
+        "ElapsedDays": 31,
+        "Time": 2400
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "Name": "4x Granddaddy Purple, Behind Taco Ticklers",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "eac0d826-3a72-43a5-83bb-f54fa4c4b5dc",
+    "Payment": 240.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "granddaddypurple",
+                "Quality": 1,
+                "Quantity": 4
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "b7ab2bad-0f54-49c4-9a98-47f87c0a2700",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 1800,
+        "WindowEndTime": 2400
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.3f15",
+        "ElapsedDays": 31,
+        "Time": 1945
+    }
+}

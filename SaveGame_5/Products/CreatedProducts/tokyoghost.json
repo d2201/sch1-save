@@ -1,0 +1,43 @@
+{
+    "DataType": "WeedProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "Name": "Tokyo Ghost",
+    "ID": "tokyoghost",
+    "DrugType": 0,
+    "Properties": [
+        "smelly",
+        "refreshing",
+        "Focused",
+        "gingeritis",
+        "sedating",
+        "spicy",
+        "giraffying"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 95,
+            "g": 113,
+            "b": 66,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 126,
+            "g": 140,
+            "b": 84,
+            "a": 255
+        },
+        "LeafColor": {
+            "r": 110,
+            "g": 126,
+            "b": 75,
+            "a": 255
+        },
+        "StemColor": {
+            "r": 76,
+            "g": 90,
+            "b": 52,
+            "a": 255
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "GUID": "bb4f856d-e30d-47c6-bd68-3b6f614dceac",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Javier",
+    "Description": "Javier has requested a delivery of 10x Granddaddy Purple underneath the south end of the overpass for $585.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.3f15",
+        "ElapsedDays": 32,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "Name": "10x Granddaddy Purple, South Overpass",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "817743d0-7153-4ded-be63-543bf5576934",
+    "Payment": 585.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "granddaddypurple",
+                "Quality": 2,
+                "Quantity": 10
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "4cbdc267-5898-406f-a5bc-cfce0aec8c2b",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.3f15",
+        "ElapsedDays": 31,
+        "Time": 1903
+    }
+}
