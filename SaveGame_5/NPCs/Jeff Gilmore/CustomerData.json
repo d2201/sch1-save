@@ -2,20 +2,19 @@
     "DataType": "CustomerData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "Dependence": 0.034999996423721316,
+    "Dependence": 0.07999999821186066,
     "PurchaseableProducts": [
-        "granddaddypurple",
         "cocaine"
     ],
     "ProductAffinities": [
         1.0,
         -0.8399999737739563,
-        -0.10000001639127732
+        0.004999980330467224
     ],
-    "TimeSinceLastDealCompleted": 3018,
-    "TimeSinceLastDealOffered": 967,
-    "OfferedDeals": 19,
-    "CompletedDeals": 11,
+    "TimeSinceLastDealCompleted": 560,
+    "TimeSinceLastDealOffered": 1447,
+    "OfferedDeals": 22,
+    "CompletedDeals": 15,
     "IsContractOffered": false,
     "OfferedContract": {
         "Payment": 0.0,
@@ -34,10 +33,10 @@
         "IsCounterOffer": false
     },
     "OfferedContractTime": {
-        "elapsedDays": 38,
-        "time": 730
+        "elapsedDays": 41,
+        "time": 913
     },
-    "TimeSincePlayerApproached": 1047341,
-    "TimeSinceInstantDealOffered": 1047341,
+    "TimeSincePlayerApproached": 1054820,
+    "TimeSinceInstantDealOffered": 1054820,
     "HasBeenRecommended": false
 }

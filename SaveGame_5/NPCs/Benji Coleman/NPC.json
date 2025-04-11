@@ -4,9 +4,18 @@
     "GameVersion": "0.3.4f4",
     "ID": "benji_coleman",
     "Recruited": true,
-    "AssignedCustomerIDs": [],
+    "AssignedCustomerIDs": [
+        "donna_martin",
+        "kathy_henderson",
+        "mick_lubbin",
+        "austin_steiner",
+        "peggy_myers",
+        "sam_thompson",
+        "ludwig_meyer",
+        "ming"
+    ],
     "ActiveContractGUIDs": [],
-    "Cash": 0.0,
+    "Cash": 8937.19921875,
     "OverflowItems": {
         "Items": [
             "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}",

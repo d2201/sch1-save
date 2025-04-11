@@ -4,9 +4,21 @@
     "GameVersion": "0.3.4f4",
     "ID": "brad_crosby",
     "Recruited": true,
-    "AssignedCustomerIDs": [],
-    "ActiveContractGUIDs": [],
-    "Cash": 0.0,
+    "AssignedCustomerIDs": [
+        "louis_fourier",
+        "kevin_oakley",
+        "eugene_buckley",
+        "jennifer_rivera",
+        "lucy_pennington",
+        "elizabeth_homley",
+        "randy_caulfield",
+        "beth_penn"
+    ],
+    "ActiveContractGUIDs": [
+        "cc0c8a01-4c9f-41e5-b1b0-9f601560b9e0",
+        "f8c1188b-dcd0-4f88-9f8d-6e529ecc44b9"
+    ],
+    "Cash": 6614.0,
     "OverflowItems": {
         "Items": [
             "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}",

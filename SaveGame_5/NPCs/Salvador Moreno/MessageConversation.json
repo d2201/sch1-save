@@ -2,15 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 9,
+    "ConversationIndex": 8,
     "Read": true,
     "MessageHistory": [
-        {
-            "Sender": 0,
-            "MessageID": -363536722,
-            "Text": "I need a dead drop:\n8x Coca Seed",
-            "EndOfChain": false
-        },
         {
             "Sender": 1,
             "MessageID": 128411285,
@@ -63,6 +57,12 @@
             "Sender": 1,
             "MessageID": -180528232,
             "Text": "The drop is ready. You can find it behind the auto shop",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -342864391,
+            "Text": "Okay. I'll be under the north end of the overpass for the next 6 hours.",
             "EndOfChain": true
         }
     ],

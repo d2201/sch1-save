@@ -14,14 +14,14 @@
     "SoilID": "extralonglifesoil",
     "SoilLevel": 20.0,
     "RemainingSoilUses": 3,
-    "WaterLevel": 3.21865177154541,
+    "WaterLevel": 4.04134464263916,
     "AppliedAdditives": [],
     "PlantData": {
         "DataType": "PlantData",
         "DataVersion": 0,
         "GameVersion": "0.3.4f4",
         "SeedID": "cocaseed",
-        "GrowthProgress": 0.09759268909692764,
+        "GrowthProgress": 0.03587963804602623,
         "YieldLevel": 0.6000000238418579,
         "QualityLevel": 0.5,
         "ActiveBuds": []

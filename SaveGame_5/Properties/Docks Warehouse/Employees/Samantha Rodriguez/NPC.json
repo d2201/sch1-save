@@ -1,0 +1,30 @@
+{
+    "DataType": "BotanistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "samantha_rodriguez",
+    "AssignedProperty": "dockswarehouse",
+    "FirstName": "Samantha",
+    "LastName": "Rodriguez",
+    "IsMale": false,
+    "AppearanceIndex": 1,
+    "Position": {
+        "x": -88.55000305175781,
+        "y": -2.2300000190734865,
+        "z": -49.28133010864258
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 0.4715774953365326,
+        "z": 0.0,
+        "w": -0.8818246722221375
+    },
+    "GUID": "2d2afaf5-466a-43f9-a50b-2d7649ce7e4a",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

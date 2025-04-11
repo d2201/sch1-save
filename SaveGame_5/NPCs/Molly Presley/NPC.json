@@ -4,9 +4,19 @@
     "GameVersion": "0.3.4f4",
     "ID": "molly_presley",
     "Recruited": true,
-    "AssignedCustomerIDs": [],
-    "ActiveContractGUIDs": [],
-    "Cash": 3893.599853515625,
+    "AssignedCustomerIDs": [
+        "doris_lubbin",
+        "joyce_ball",
+        "meg_cooley",
+        "trent_sherman",
+        "marco_baron",
+        "jerry_montero",
+        "mac_cooper"
+    ],
+    "ActiveContractGUIDs": [
+        "1c6d8d89-883b-44f9-aabd-72b7267b8d0d"
+    ],
+    "Cash": 3114.39990234375,
     "OverflowItems": {
         "Items": [
             "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}",

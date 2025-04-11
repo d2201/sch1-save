@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "1c6d8d89-883b-44f9-aabd-72b7267b8d0d",
+    "State": 1,
+    "IsTracked": false,
+    "Title": "Deal for Joyce",
+    "Description": "Joyce has requested a delivery of 5x Granddaddy Purple outside room #2 of the brown apartment block for $305.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 42,
+        "Time": 1200
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "5x Granddaddy Purple, Outside brown apartment block room #2",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "e2104703-374e-4c62-92b2-9157cac91eca",
+    "Payment": 305.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "granddaddypurple",
+                "Quality": 1,
+                "Quantity": 5
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "71a56a7a-9b3a-4b59-98ce-2e29448f33ba",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 600,
+        "WindowEndTime": 1200
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 42,
+        "Time": 930
+    }
+}

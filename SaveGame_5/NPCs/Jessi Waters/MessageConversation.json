@@ -2,67 +2,67 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 0,
+    "ConversationIndex": 2,
     "Read": true,
     "MessageHistory": [
         {
             "Sender": 1,
-            "MessageID": -1425539305,
-            "Text": "You got 2x Cocaine? I'll pay <color=#46CB4F>$395</color> for it",
+            "MessageID": -1561036871,
+            "Text": "Need me 3x Cocaine! I'll pay <color=#46CB4F>$605</color> yeah??",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": 1769693518,
-            "Text": "How about 3x Cocaine for $525?",
+            "MessageID": 1886880657,
+            "Text": "How about 5x Cocaine for $825?",
             "EndOfChain": false
         },
         {
             "Sender": 1,
-            "MessageID": -757784596,
-            "Text": "hmmmmm FINE. When?",
+            "MessageID": -1532823641,
+            "Text": "Ok whatever. What time?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": -956629006,
+            "MessageID": 1287039373,
             "Text": "Late Night",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 381179195,
-            "Text": "Good!! I'll see u <b>behind the shipping containers near Sauerkraut Supreme</b> between 12:00 AM and 6:00 AM.",
+            "MessageID": -1209927806,
+            "Text": "Good!! I'll see u <b>next to the barbershop</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -871659336,
-            "Text": "I'm after 11x Granddaddy Purple. I can pay <color=#46CB4F>$640</color> for it Deal??",
+            "MessageID": 291862788,
+            "Text": "You got 2x Cocaine? I'll pay <color=#46CB4F>$405</color> for it",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": 353927494,
-            "Text": "How about 15x Granddaddy Purple for $840?",
+            "MessageID": -1263790752,
+            "Text": "How about 5x Cocaine for $845?",
             "EndOfChain": false
         },
         {
             "Sender": 1,
-            "MessageID": -1446845947,
-            "Text": "OK FINE! What time????",
+            "MessageID": -137063730,
+            "Text": "Arghh fine. What time?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": -1977428416,
+            "MessageID": -1502618027,
             "Text": "Late Night",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 945462009,
-            "Text": "Good!! I'll see u <b>at the north waterfront</b> between 12:00 AM and 6:00 AM.",
+            "MessageID": -687874099,
+            "Text": "Good!! I'll see u <b>in front of the motel</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         }
     ],

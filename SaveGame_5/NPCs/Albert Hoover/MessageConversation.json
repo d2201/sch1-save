@@ -2,15 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 39,
+    "ConversationIndex": 9,
     "Read": true,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": 376907248,
-            "Text": "I've received $450 cash from you. Your debt is now paid off.",
-            "EndOfChain": true
-        },
         {
             "Sender": 1,
             "MessageID": 987283178,
@@ -62,6 +56,12 @@
         {
             "Sender": 1,
             "MessageID": 1747206769,
+            "Text": "Agreed. I'll be under the west bridge for the next 6 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -2016962821,
             "Text": "Agreed. I'll be under the west bridge for the next 6 hours.",
             "EndOfChain": true
         }

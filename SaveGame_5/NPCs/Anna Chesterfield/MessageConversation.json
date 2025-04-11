@@ -2,39 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 36,
+    "ConversationIndex": 7,
     "Read": true,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": 387661050,
-            "Text": "Hey, I need 3x Cocaine. I'll pay <color=#46CB4F>$510</color>. Deal?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 70803162,
-            "Text": "How about 5x Cocaine for $1,010?",
-            "EndOfChain": false
-        },
-        {
-            "Sender": 1,
-            "MessageID": 1656100887,
-            "Text": "I guess that's fine. When?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 1125740886,
-            "Text": "Late Night",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -254967274,
-            "Text": "Great, I'll meet you <b>outside the brick warehouse at the docks</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
         {
             "Sender": 1,
             "MessageID": 1464756765,
@@ -63,6 +33,36 @@
             "Sender": 1,
             "MessageID": -1868171662,
             "Text": "Great, I'll meet you <b>outside the brick warehouse at the docks</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1392802579,
+            "Text": "Hey, can I get 2x Cocaine? I'll pay <color=#46CB4F>$435</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 541007925,
+            "Text": "How about 5x Cocaine for $835?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1954729796,
+            "Text": "Ok. What time you wanna meet?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1889137707,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1098664705,
+            "Text": "Great, I'll meet you <b>underneath the south end of the overpass</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         }
     ],

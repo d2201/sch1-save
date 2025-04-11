@@ -7,20 +7,20 @@
     },
     "Stations": {
         "ObjectGUIDs": [
-            "4074f73a-6630-4dbf-bc51-dce247836359"
+            "dece6ddb-f16b-460b-9b57-c59c3253aeef"
         ]
     },
     "Routes": {
         "Routes": [
             {
                 "SourceGUID": "136e2593-c8eb-4c1f-8b51-95c7ee966307",
-                "DestinationGUID": "4074f73a-6630-4dbf-bc51-dce247836359",
+                "DestinationGUID": "dece6ddb-f16b-460b-9b57-c59c3253aeef",
                 "FilterMode": 1,
                 "FilterItemIDs": []
             },
             {
                 "SourceGUID": "35f1f96e-707a-4b6c-928f-cb2d9d5c0651",
-                "DestinationGUID": "4074f73a-6630-4dbf-bc51-dce247836359",
+                "DestinationGUID": "dece6ddb-f16b-460b-9b57-c59c3253aeef",
                 "FilterMode": 1,
                 "FilterItemIDs": []
             },
