@@ -1,22 +1,10 @@
 {
     "DataType": "MSGConversationData",
     "DataVersion": 0,
-    "GameVersion": "0.3.3f15",
-    "ConversationIndex": 14,
+    "GameVersion": "0.3.4f4",
+    "ConversationIndex": 39,
     "Read": true,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": 1872916173,
-            "Text": "You can pay off your debt by placing cash in my stash. It's behind Dan's Hardware.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 528271122,
-            "Text": "Greetings. You can now get your supplies delivered directly to your properties. Use the deliveries app on your phone to place an order.",
-            "EndOfChain": true
-        },
         {
             "Sender": 1,
             "MessageID": 376907248,
@@ -63,6 +51,18 @@
             "Sender": 1,
             "MessageID": 1800830637,
             "Text": "Agreed. I'll be in the west construction site for the next 6 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1093640344,
+            "Text": "Agreed. I'll be under the west bridge for the next 6 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1747206769,
+            "Text": "Agreed. I'll be under the west bridge for the next 6 hours.",
             "EndOfChain": true
         }
     ],

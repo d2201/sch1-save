@@ -1,7 +1,7 @@
 {
     "DataType": "PackagingStationConfigurationData",
     "DataVersion": 0,
-    "GameVersion": "0.3.3f15",
+    "GameVersion": "0.3.4f4",
     "Destination": {
         "ObjectGUID": "057f3445-8f9b-4b18-9576-45f242402afa"
     }

@@ -1,9 +1,9 @@
 {
     "DataType": "DryingRackData",
     "DataVersion": 0,
-    "GameVersion": "0.3.3f15",
+    "GameVersion": "0.3.4f4",
     "GUID": "bfbf148b-cee7-4c80-87d2-f0479aad58bd",
-    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.3f15\",\n    \"ID\": \"dryingrack\",\n    \"Quantity\": 1\n}",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.4f4\",\n    \"ID\": \"dryingrack\",\n    \"Quantity\": 1\n}",
     "LoadOrder": 0,
     "GridGUID": "0fc3eff1-af4f-471f-9c19-795996b7fdab",
     "OriginCoordinate": {
@@ -13,20 +13,13 @@
     "Rotation": 0,
     "Input": {
         "Items": [
-            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"\",\"Quantity\":0}"
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}"
         ]
     },
     "Output": {
         "Items": [
-            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"\",\"Quantity\":0}"
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}"
         ]
     },
-    "DryingOperations": [
-        {
-            "ItemID": "granddaddypurple",
-            "Quantity": 20,
-            "StartQuality": 2,
-            "Time": 568
-        }
-    ]
+    "DryingOperations": []
 }

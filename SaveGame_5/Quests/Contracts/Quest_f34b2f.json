@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "f34b2f34-f1fe-489f-bcd9-30d0f13ee469",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Peter",
+    "Description": "Peter has requested a delivery of 3x Cocaine behind taco ticklers for $650.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 39,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "3x Cocaine, Behind Taco Ticklers",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "7b74bf42-5b10-4e89-936e-c36b307bd775",
+    "Payment": 650.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 1,
+                "Quantity": 3
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "b7ab2bad-0f54-49c4-9a98-47f87c0a2700",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 38,
+        "Time": 1220
+    }
+}

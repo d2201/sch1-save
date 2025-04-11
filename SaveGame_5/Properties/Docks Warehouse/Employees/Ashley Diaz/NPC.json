@@ -1,7 +1,7 @@
 {
     "DataType": "ChemistData",
     "DataVersion": 0,
-    "GameVersion": "0.3.3f15",
+    "GameVersion": "0.3.4f4",
     "ID": "ashley_diaz",
     "AssignedProperty": "dockswarehouse",
     "FirstName": "Ashley",
@@ -9,9 +9,9 @@
     "IsMale": false,
     "AppearanceIndex": 0,
     "Position": {
-        "x": -74.41619873046875,
+        "x": -74.40884399414063,
         "y": -2.429999828338623,
-        "z": -63.85708999633789
+        "z": -63.8626823425293
     },
     "Rotation": {
         "x": 0.0,

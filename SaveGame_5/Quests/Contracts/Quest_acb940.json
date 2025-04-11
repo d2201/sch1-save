@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "acb94034-cfb7-4b8a-9325-e1aa4a739b4f",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Louis",
+    "Description": "Louis has requested a delivery of 3x Cocaine in the parking garage next to the casino for $590.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 39,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "3x Cocaine, Next to parking garage",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "38a57b2c-92e6-4f9c-b26e-18081faf57c0",
+    "Payment": 590.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 2,
+                "Quantity": 3
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "84e64355-61b5-4054-a9e1-f562b95e429e",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 38,
+        "Time": 1051
+    }
+}

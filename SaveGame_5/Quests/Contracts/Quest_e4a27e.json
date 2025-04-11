@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "e4a27e32-119e-404d-85b8-55c902bd5573",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Mrs. Ming",
+    "Description": "Mrs. Ming has requested a delivery of 2x Cocaine behind Hyland gun range for $400.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 39,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "2x Cocaine, Behind Hyland Range",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "145d7e11-b35e-4863-8734-0b08e7cfb5b6",
+    "Payment": 400.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 1,
+                "Quantity": 2
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "fb907ba0-f9d9-4491-9e44-8a8237b58fc3",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 38,
+        "Time": 1946
+    }
+}

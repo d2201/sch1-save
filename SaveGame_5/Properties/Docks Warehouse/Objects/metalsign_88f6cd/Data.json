@@ -1,0 +1,21 @@
+{
+    "DataType": "LabelledSurfaceItemData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "88f6cd75-face-47b5-81a7-171b4abe4c2a",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.4f4\",\n    \"ID\": \"metalsign\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "ParentSurfaceGUID": "cbba3852-883a-4e06-95eb-3d1888899f96",
+    "RelativePosition": {
+        "x": -0.3526182174682617,
+        "y": 0.045184165239334109,
+        "z": -0.32047173380851748
+    },
+    "RelativeRotation": {
+        "x": 0.0,
+        "y": 0.7071065306663513,
+        "z": 0.7071070075035095,
+        "w": 0.0
+    },
+    "Message": "BORKA"
+}

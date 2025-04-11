@@ -1,7 +1,7 @@
 {
     "DataType": "QuestData",
     "DataVersion": 0,
-    "GameVersion": "0.3.3f15",
+    "GameVersion": "0.3.4f4",
     "GUID": "a3f6ef26-47eb-462a-ad58-8767d45a1737",
     "State": 2,
     "IsTracked": true,
@@ -11,7 +11,7 @@
     "ExpiryDate": {
         "DataType": "GameDateTimeData",
         "DataVersion": 0,
-        "GameVersion": "0.3.3f15",
+        "GameVersion": "0.3.4f4",
         "ElapsedDays": 0,
         "Time": 0
     },
@@ -19,35 +19,35 @@
         {
             "DataType": "QuestEntryData",
             "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
+            "GameVersion": "0.3.4f4",
             "Name": "Talk to Uncle Nelson at a payphone",
             "State": 2
         },
         {
             "DataType": "QuestEntryData",
             "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
+            "GameVersion": "0.3.4f4",
             "Name": "Purchase a business at Ray's Realty",
             "State": 2
         },
         {
             "DataType": "QuestEntryData",
             "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
+            "GameVersion": "0.3.4f4",
             "Name": "Go to your new business",
             "State": 2
         },
         {
             "DataType": "QuestEntryData",
             "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
+            "GameVersion": "0.3.4f4",
             "Name": "Use the laundering station to start a new laundering operation",
             "State": 2
         },
         {
             "DataType": "QuestEntryData",
             "DataVersion": 0,
-            "GameVersion": "0.3.3f15",
+            "GameVersion": "0.3.4f4",
             "Name": "Wait for the laundering operation to complete",
             "State": 2
         }

@@ -1,9 +1,9 @@
 {
     "DataType": "PotData",
     "DataVersion": 0,
-    "GameVersion": "0.3.3f15",
+    "GameVersion": "0.3.4f4",
     "GUID": "68e8b8e3-60e3-4d19-9493-ebbb47299fe2",
-    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.3f15\",\n    \"ID\": \"moisturepreservingpot\",\n    \"Quantity\": 1\n}",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.4f4\",\n    \"ID\": \"moisturepreservingpot\",\n    \"Quantity\": 1\n}",
     "LoadOrder": 0,
     "GridGUID": "d47666ba-6076-4779-9c8a-ffede5ff83ad",
     "OriginCoordinate": {
@@ -14,14 +14,14 @@
     "SoilID": "extralonglifesoil",
     "SoilLevel": 20.0,
     "RemainingSoilUses": 1,
-    "WaterLevel": 0.25190895795822146,
+    "WaterLevel": 0.4534126818180084,
     "AppliedAdditives": [],
     "PlantData": {
         "DataType": "PlantData",
         "DataVersion": 0,
-        "GameVersion": "0.3.3f15",
+        "GameVersion": "0.3.4f4",
         "SeedID": "granddaddypurpleseed",
-        "GrowthProgress": 0.07750000804662705,
+        "GrowthProgress": 0.9070392847061157,
         "YieldLevel": 1.0,
         "QualityLevel": 0.5,
         "ActiveBuds": []

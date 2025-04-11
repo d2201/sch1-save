@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "0d2e13a9-545f-4271-9870-c9c9a1034289",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Eugene",
+    "Description": "Eugene has requested a delivery of 3x Cocaine behind Thrifty threads for $610.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 39,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "3x Cocaine, Behind Thrifty Threads",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "4a353a06-75b9-4e28-837f-43c484d2c868",
+    "Payment": 610.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 2,
+                "Quantity": 3
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "99d860e3-4f2c-4fbf-baad-e54d0b28669f",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 38,
+        "Time": 1407
+    }
+}

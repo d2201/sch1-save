@@ -1,9 +1,9 @@
 {
     "DataType": "PlaceableStorageData",
     "DataVersion": 0,
-    "GameVersion": "0.3.3f15",
+    "GameVersion": "0.3.4f4",
     "GUID": "9a467e37-01f0-4513-ad1b-51ba8dc8daf1",
-    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.3f15\",\n    \"ID\": \"displaycabinet\",\n    \"Quantity\": 1\n}",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.4f4\",\n    \"ID\": \"displaycabinet\",\n    \"Quantity\": 1\n}",
     "LoadOrder": 0,
     "GridGUID": "21e9315e-5ed0-48b9-9ee5-57a78e1498e0",
     "OriginCoordinate": {
@@ -13,10 +13,10 @@
     "Rotation": 180,
     "Contents": {
         "Items": [
-            "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":1000.0}",
-            "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":1000.0}",
-            "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":1000.0}",
-            "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":1000.0}"
+            "{\"DataType\":\"IntegerItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"revolver\",\"Quantity\":1,\"Value\":0}",
+            "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"granddaddypurple\",\"Quantity\":6,\"Quality\":\"Heavenly\",\"PackagingID\":\"baggie\"}",
+            "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"granddaddypurple\",\"Quantity\":18,\"Quality\":\"Standard\",\"PackagingID\":\"jar\"}",
+            "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"granddaddypurple\",\"Quantity\":18,\"Quality\":\"Standard\",\"PackagingID\":\"jar\"}"
         ]
     }
 }

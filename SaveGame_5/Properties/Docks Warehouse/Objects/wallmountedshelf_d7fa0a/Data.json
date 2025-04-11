@@ -1,0 +1,28 @@
+{
+    "DataType": "StorageSurfaceItemData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "d7fa0a58-769c-4e03-9067-591017d27d9e",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.4f4\",\n    \"ID\": \"wallmountedshelf\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "ParentSurfaceGUID": "cbba3852-883a-4e06-95eb-3d1888899f96",
+    "RelativePosition": {
+        "x": -2.0004165172576906,
+        "y": 0.045187026262283328,
+        "z": -0.3064431846141815
+    },
+    "RelativeRotation": {
+        "x": 0.0,
+        "y": 0.7071065306663513,
+        "z": 0.7071070075035095,
+        "w": 0.0
+    },
+    "Contents": {
+        "Items": [
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"potsprinkler\",\"Quantity\":1}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}"
+        ]
+    }
+}

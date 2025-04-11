@@ -1,10 +1,10 @@
 {
     "DataType": "SupplierData",
     "DataVersion": 0,
-    "GameVersion": "0.3.3f15",
+    "GameVersion": "0.3.4f4",
     "ID": "albert_hoover",
     "timeSinceMeetingStart": -1,
-    "timeSinceLastMeetingEnd": 5392,
+    "timeSinceLastMeetingEnd": 1821,
     "debt": 0.0,
     "minsUntilDeadDropReady": -1,
     "deaddropItems": [],

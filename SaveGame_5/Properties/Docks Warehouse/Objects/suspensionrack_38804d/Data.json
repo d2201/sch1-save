@@ -1,9 +1,9 @@
 {
     "DataType": "GridItemData",
     "DataVersion": 0,
-    "GameVersion": "0.3.3f15",
+    "GameVersion": "0.3.4f4",
     "GUID": "38804dbe-940c-4305-8a3d-c5f7d6d26e92",
-    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.3f15\",\n    \"ID\": \"suspensionrack\",\n    \"Quantity\": 1\n}",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.4f4\",\n    \"ID\": \"suspensionrack\",\n    \"Quantity\": 1\n}",
     "LoadOrder": 0,
     "GridGUID": "21e9315e-5ed0-48b9-9ee5-57a78e1498e0",
     "OriginCoordinate": {

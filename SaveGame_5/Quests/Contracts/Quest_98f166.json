@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "98f166db-a94a-42df-925a-9cdb2314a694",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Jerry",
+    "Description": "Jerry has requested a delivery of 3x Cocaine on the wharf west of the warehouse for $550.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 39,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "3x Cocaine, West Warehouse Wharf",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "56d2b6f3-53d4-49a9-a09d-dd5a768ff222",
+    "Payment": 550.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 1,
+                "Quantity": 3
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "36058621-8030-42d2-a0dc-dfb820e87266",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 38,
+        "Time": 1747
+    }
+}

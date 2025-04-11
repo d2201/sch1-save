@@ -1,68 +1,68 @@
 {
     "DataType": "MSGConversationData",
     "DataVersion": 0,
-    "GameVersion": "0.3.3f15",
-    "ConversationIndex": 28,
+    "GameVersion": "0.3.4f4",
+    "ConversationIndex": 41,
     "Read": true,
     "MessageHistory": [
         {
-            "Sender": 0,
-            "MessageID": -1879068846,
-            "Text": "Yes",
+            "Sender": 1,
+            "MessageID": 1059334263,
+            "Text": "Nvm",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 1704447159,
-            "Text": "Great, I'll meet you <b>next to the statue in the west park</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -227324774,
-            "Text": "Hey, have you got 4x Granddaddy Purple? I'll pay <color=#46CB4F>$240</color> for it",
+            "MessageID": -1797482633,
+            "Text": "Hey, I need 4x Granddaddy Purple. I'll pay <color=#46CB4F>$240</color>. Deal?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": -844805095,
-            "Text": "Deal",
+            "MessageID": 1599061524,
+            "Text": "How about 10x Granddaddy Purple for $540?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1893364837,
+            "Text": "Not gonna happen. I'll get it somewhere else",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 1561343362,
-            "Text": "Great, I'll meet you <b>in the west construction site</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 1273536697,
-            "Text": "Hello, I'm after 4x Granddaddy Purple. I can pay <color=#46CB4F>$240</color> for it.",
+            "MessageID": 1495997454,
+            "Text": "Hey, if you got 1x Cocaine I'll pay <color=#46CB4F>$220</color> for it. Deal?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": -294084621,
+            "MessageID": -1760646314,
+            "Text": "How about 1x Cocaine for $320?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -295170299,
+            "Text": "I don't think so. Nevermind",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1385945105,
+            "Text": "Hey, can I get 5x Granddaddy Purple? I'll pay <color=#46CB4F>$305</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 594316429,
             "Text": "Sure thing",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -110150915,
-            "Text": "Great, I'll meet you <b>outside room #2 of the brown apartment block</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 742832460,
-            "Text": "Hey, I need 4x Granddaddy Purple. I'll pay <color=#46CB4F>$240</color>. Deal?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 1059334263,
-            "Text": "Nvm",
+            "MessageID": -263650320,
+            "Text": "Great, I'll meet you <b>in the west construction site</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         }
     ],

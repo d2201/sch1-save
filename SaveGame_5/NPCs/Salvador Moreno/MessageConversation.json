@@ -1,68 +1,68 @@
 {
     "DataType": "MSGConversationData",
     "DataVersion": 0,
-    "GameVersion": "0.3.3f15",
-    "ConversationIndex": 4,
-    "Read": false,
+    "GameVersion": "0.3.4f4",
+    "ConversationIndex": 9,
+    "Read": true,
     "MessageHistory": [
         {
+            "Sender": 0,
+            "MessageID": -363536722,
+            "Text": "I need a dead drop:\n8x Coca Seed",
+            "EndOfChain": false
+        },
+        {
             "Sender": 1,
-            "MessageID": 1495377068,
-            "Text": "Copy. I'll message you when it's ready in about 5 hours.",
+            "MessageID": 128411285,
+            "Text": "Copy. I'll message you when it's ready in about 4 hours.",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 399593820,
-            "Text": "Hey, that drop is ready behind the western Gas-Mart",
+            "MessageID": 2034823963,
+            "Text": "I've received $1,440 cash from you. Your debt is now paid off.",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 1557372839,
-            "Text": "I've received $800 cash from you. Your debt is now paid off.",
+            "MessageID": -1190840856,
+            "Text": "The drop is ready. You can find it in the alleyway behind Slop Shop (the diner)",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": 567007284,
+            "MessageID": 490416327,
             "Text": "I need a dead drop:\n10x Coca Seed",
             "EndOfChain": false
         },
         {
             "Sender": 1,
-            "MessageID": -286178213,
+            "MessageID": 1916747483,
             "Text": "Copy. I'll message you when it's ready in about 5 hours.",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -1691524355,
-            "Text": "Hey, that drop is ready in the alleyway behind Slop Shop (the diner)",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 519859741,
-            "Text": "I've received $800 cash from you. Your debt is now paid off.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 884835964,
-            "Text": "I need a dead drop:\n10x Coca Seed",
+            "MessageID": -1783151588,
+            "Text": "You've been a good customer - I'll start doing in-person meetings with you now if you want to buy larger quantities.",
             "EndOfChain": false
         },
         {
             "Sender": 1,
-            "MessageID": 344818409,
-            "Text": "Working on it. Should be ready in around 5 hours",
+            "MessageID": -1795576352,
+            "Text": "Send me a message when you want to meet.",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 1043300435,
-            "Text": "The drop is ready. You can find it on the east-exterior wall of Taco Ticklers",
+            "MessageID": -84988491,
+            "Text": "I've received $800 cash from you. Your debt is now paid off.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -180528232,
+            "Text": "The drop is ready. You can find it behind the auto shop",
             "EndOfChain": true
         }
     ],

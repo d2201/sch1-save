@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "286cf010-05fd-4b79-b975-66ce1e3e4dfb",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Marco",
+    "Description": "Marco has requested a delivery of 10x Granddaddy Purple outside the brick warehouse at the docks for $635.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 39,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "10x Granddaddy Purple, Brick warehouse at the docks",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "1cf9aa00-f921-4652-8420-a95838a43e2a",
+    "Payment": 635.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "granddaddypurple",
+                "Quality": 2,
+                "Quantity": 10
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "f4b9a4ef-2f22-437c-be9c-afb1a0fc583b",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 38,
+        "Time": 1726
+    }
+}

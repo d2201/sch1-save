@@ -1,7 +1,7 @@
 {
     "DataType": "ProductManagerData",
     "DataVersion": 0,
-    "GameVersion": "0.3.3f15",
+    "GameVersion": "0.3.4f4",
     "DiscoveredProducts": [
         "ogkush",
         "sourdiesel",
@@ -22,6 +22,7 @@
         "fruityslime",
         "girlscoutbud",
         "granddaddydurkle",
+        "granddaddyfuel",
         "icecreamcake",
         "icecreamhaze",
         "icecreammonkey",
@@ -41,7 +42,8 @@
         "cocaine"
     ],
     "ListedProducts": [
-        "granddaddypurple"
+        "granddaddypurple",
+        "cocaine"
     ],
     "ActiveMixOperation": {
         "ProductID": "",
@@ -198,6 +200,11 @@
             "Product": "extremeurkle",
             "Mixer": "chili",
             "Output": "tokyoghost"
+        },
+        {
+            "Product": "strawberryshart",
+            "Mixer": "paracetamol",
+            "Output": "granddaddyfuel"
         }
     ],
     "ProductPrices": [
@@ -223,7 +230,7 @@
         },
         {
             "String": "cocaine",
-            "Int": 150
+            "Int": 190
         },
         {
             "String": "aspendeath",
@@ -284,6 +291,10 @@
         {
             "String": "granddaddydurkle",
             "Int": 59
+        },
+        {
+            "String": "granddaddyfuel",
+            "Int": 74
         },
         {
             "String": "icecreamcake",

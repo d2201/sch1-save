@@ -1,62 +1,68 @@
 {
     "DataType": "MSGConversationData",
     "DataVersion": 0,
-    "GameVersion": "0.3.3f15",
-    "ConversationIndex": 14,
+    "GameVersion": "0.3.4f4",
+    "ConversationIndex": 12,
     "Read": true,
     "MessageHistory": [
         {
             "Sender": 1,
-            "MessageID": -1862393939,
-            "Text": "Yo homie, can I get 9x Granddaddy Purple? I'll pay <color=#46CB4F>$435</color>",
+            "MessageID": 79942455,
+            "Text": "Whats up bro, I'm after 2x Cocaine. I can pay <color=#46CB4F>$425</color> for it.",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": 508461000,
-            "Text": "Yep",
-            "EndOfChain": true
+            "MessageID": 748760368,
+            "Text": "How about 3x Cocaine for $525?",
+            "EndOfChain": false
         },
         {
             "Sender": 1,
-            "MessageID": 1255330505,
-            "Text": "Hell yeah my friend, I'll meet you <b>outside the brick warehouse at the docks</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -2074600904,
-            "Text": "Yo homie, can I get 9x Granddaddy Purple? I'll pay <color=#46CB4F>$440</color>",
+            "MessageID": 1283203115,
+            "Text": "Ok bro. What time?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": 1355083848,
-            "Text": "Deal",
+            "MessageID": 1785517420,
+            "Text": "Late Night",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -2069653863,
-            "Text": "Sweet as homie, I'll meet you <b>Behind Randy's bait & tackle</b> between 12:00 AM and 6:00 AM.",
+            "MessageID": 1148793596,
+            "Text": "Sick as, I'll meet you <b>behind the shipping containers at the docks</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 1929794727,
-            "Text": "Yo homie, can I get 10x Granddaddy Purple? I'll pay <color=#46CB4F>$495</color>",
+            "MessageID": 805505517,
+            "Text": "Yo homie, can I get 2x Cocaine? I'll pay <color=#46CB4F>$430</color>",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": 1274524896,
-            "Text": "Deal",
+            "MessageID": -2122849168,
+            "Text": "How about 3x Cocaine for $530?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 408955338,
+            "Text": "Alright dude. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 188381572,
+            "Text": "Late Night",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -100554749,
-            "Text": "Cheers bro, I'll meet you <b>Behind Randy's bait & tackle</b> between 12:00 AM and 6:00 AM.",
+            "MessageID": 874866794,
+            "Text": "Sick as, I'll meet you <b>behind the shipping containers at the docks</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         }
     ],

@@ -1,7 +1,7 @@
 {
     "DataType": "PackagerConfigurationData",
     "DataVersion": 0,
-    "GameVersion": "0.3.3f15",
+    "GameVersion": "0.3.4f4",
     "Bed": {
         "ObjectGUID": "1010ed0a-c1db-4517-ad52-960df4d1b5ca"
     },
@@ -31,7 +31,7 @@
                 "FilterItemIDs": []
             },
             {
-                "SourceGUID": "baabdb44-2b46-409e-9b79-1847b86b5ac8",
+                "SourceGUID": "73cd44d4-25db-4384-ab05-0587afc3362b",
                 "DestinationGUID": "4074f73a-6630-4dbf-bc51-dce247836359",
                 "FilterMode": 1,
                 "FilterItemIDs": []

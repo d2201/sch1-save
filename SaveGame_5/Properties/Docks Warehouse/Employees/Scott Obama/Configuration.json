@@ -1,7 +1,7 @@
 {
     "DataType": "CleanerConfigurationData",
     "DataVersion": 0,
-    "GameVersion": "0.3.3f15",
+    "GameVersion": "0.3.4f4",
     "Bed": {
         "ObjectGUID": "e92fe824-9576-4afe-b3e9-f4c7309f843e"
     },

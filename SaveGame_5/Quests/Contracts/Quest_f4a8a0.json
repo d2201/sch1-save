@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "f4a8a0b7-3709-4a21-b846-86e3eb6ced42",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Peggy",
+    "Description": "Peggy has requested a delivery of 3x Cocaine behind the shipping containers near Sauerkraut Supreme for $660.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 39,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "3x Cocaine, Shipping containers near Sauerkraut Supreme",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "bd6cb42c-9379-4358-b3c7-acfc9c628710",
+    "Payment": 660.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 1,
+                "Quantity": 3
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "72acb3fb-6e9c-4a14-b52a-5b14f2abf970",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 38,
+        "Time": 1557
+    }
+}

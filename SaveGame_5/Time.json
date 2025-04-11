@@ -1,8 +1,8 @@
 {
     "DataType": "TimeData",
     "DataVersion": 0,
-    "GameVersion": "0.3.3f15",
-    "TimeOfDay": 400,
-    "ElapsedDays": 34,
-    "Playtime": 67447
+    "GameVersion": "0.3.4f4",
+    "TimeOfDay": 2337,
+    "ElapsedDays": 38,
+    "Playtime": 75901
 }

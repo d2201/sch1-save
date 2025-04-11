@@ -1,9 +1,9 @@
 {
     "DataType": "PotData",
     "DataVersion": 0,
-    "GameVersion": "0.3.3f15",
+    "GameVersion": "0.3.4f4",
     "GUID": "23b3576f-198d-454d-bca1-e319b3dfa352",
-    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.3f15\",\n    \"ID\": \"moisturepreservingpot\",\n    \"Quantity\": 1\n}",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.4f4\",\n    \"ID\": \"moisturepreservingpot\",\n    \"Quantity\": 1\n}",
     "LoadOrder": 0,
     "GridGUID": "21e9315e-5ed0-48b9-9ee5-57a78e1498e0",
     "OriginCoordinate": {
@@ -13,19 +13,17 @@
     "Rotation": 0,
     "SoilID": "extralonglifesoil",
     "SoilLevel": 20.0,
-    "RemainingSoilUses": 1,
-    "WaterLevel": 3.588534355163574,
-    "AppliedAdditives": [
-        "Growing/Fertilizer/Fertilizer_Additive"
-    ],
+    "RemainingSoilUses": 3,
+    "WaterLevel": 2.7812767028808595,
+    "AppliedAdditives": [],
     "PlantData": {
         "DataType": "PlantData",
         "DataVersion": 0,
-        "GameVersion": "0.3.3f15",
+        "GameVersion": "0.3.4f4",
         "SeedID": "cocaseed",
-        "GrowthProgress": 0.5582824349403381,
+        "GrowthProgress": 0.21456070244312287,
         "YieldLevel": 0.6000000238418579,
-        "QualityLevel": 0.800000011920929,
+        "QualityLevel": 0.5,
         "ActiveBuds": []
     }
 }

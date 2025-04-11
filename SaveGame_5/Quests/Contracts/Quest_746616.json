@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "74661646-afb7-4d93-aaa0-d4a20c6a57bf",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Trent",
+    "Description": "Trent has requested a delivery of 5x Granddaddy Purple in the west construction site for $405.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 39,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "5x Granddaddy Purple, Construction site",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "3d75cfaf-216e-4258-8d48-214837bbe1a5",
+    "Payment": 405.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "granddaddypurple",
+                "Quality": 1,
+                "Quantity": 5
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "38d1c80c-0173-49b6-9701-65bd08219ee6",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 38,
+        "Time": 2021
+    }
+}

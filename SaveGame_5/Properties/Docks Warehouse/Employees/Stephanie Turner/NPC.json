@@ -1,7 +1,7 @@
 {
     "DataType": "BotanistData",
     "DataVersion": 0,
-    "GameVersion": "0.3.3f15",
+    "GameVersion": "0.3.4f4",
     "ID": "stephanie_turner",
     "AssignedProperty": "dockswarehouse",
     "FirstName": "Stephanie",
@@ -9,22 +9,22 @@
     "IsMale": false,
     "AppearanceIndex": 2,
     "Position": {
-        "x": -75.31580352783203,
-        "y": -2.429999828338623,
-        "z": -65.24028778076172
+        "x": -94.85977172851563,
+        "y": -2.2300007343292238,
+        "z": -44.959720611572269
     },
     "Rotation": {
         "x": 0.0,
-        "y": 0.028968704864382745,
+        "y": 0.6087045073509216,
         "z": 0.0,
-        "w": 0.9995803236961365
+        "w": 0.793397068977356
     },
     "GUID": "4eb736cc-7803-40af-8f65-f680133d1a2d",
     "PaidForToday": true,
     "MoveItemData": {
-        "TemplateItemJSON": "",
-        "GrabbedItemQuantity": 0,
-        "SourceGUID": "",
-        "DestinationGUID": ""
+        "TemplateItemJSON": "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cocaleaf\",\"Quantity\":0,\"Quality\":\"Standard\"}",
+        "GrabbedItemQuantity": 9,
+        "SourceGUID": "2665e30d-8caf-4b07-b5f2-0b0930fff6ed",
+        "DestinationGUID": "c12eab94-a0c5-4754-a2bd-45fc1108b5a6"
     }
 }

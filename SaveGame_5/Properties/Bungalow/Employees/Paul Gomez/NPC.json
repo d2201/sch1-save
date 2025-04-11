@@ -1,7 +1,7 @@
 {
     "DataType": "CleanerData",
     "DataVersion": 0,
-    "GameVersion": "0.3.3f15",
+    "GameVersion": "0.3.4f4",
     "ID": "paul_gomez",
     "AssignedProperty": "bungalow",
     "FirstName": "Paul",
@@ -9,15 +9,15 @@
     "IsMale": true,
     "AppearanceIndex": 4,
     "Position": {
-        "x": -168.6435546875,
-        "y": -4.046846389770508,
-        "z": 110.67948913574219
+        "x": -164.52542114257813,
+        "y": -3.7100000381469728,
+        "z": 119.76642608642578
     },
     "Rotation": {
         "x": 0.0,
-        "y": 0.6941209435462952,
+        "y": 0.9195272922515869,
         "z": 0.0,
-        "w": 0.7198584079742432
+        "w": -0.3930262625217438
     },
     "GUID": "d3a6b221-7ae3-435c-b7a3-227ca9843218",
     "PaidForToday": true,

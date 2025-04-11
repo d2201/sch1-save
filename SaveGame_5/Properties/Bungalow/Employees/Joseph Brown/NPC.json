@@ -1,7 +1,7 @@
 {
     "DataType": "PackagerData",
     "DataVersion": 0,
-    "GameVersion": "0.3.3f15",
+    "GameVersion": "0.3.4f4",
     "ID": "joseph_brown",
     "AssignedProperty": "bungalow",
     "FirstName": "Joseph",
@@ -9,15 +9,15 @@
     "IsMale": true,
     "AppearanceIndex": 1,
     "Position": {
-        "x": -168.97909545898438,
-        "y": -3.9961493015289308,
-        "z": 111.9308853149414
+        "x": -174.68328857421876,
+        "y": -3.7099997997283937,
+        "z": 116.59051513671875
     },
     "Rotation": {
         "x": 0.0,
-        "y": 0.667593240737915,
+        "y": -0.7071067094802856,
         "z": 0.0,
-        "w": 0.744526207447052
+        "w": 0.7071069478988648
     },
     "GUID": "ba10efb6-1f3b-4122-807f-d11ec3dcc716",
     "PaidForToday": true,

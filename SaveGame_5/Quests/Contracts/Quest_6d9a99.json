@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "6d9a990d-9158-4e76-a755-765b5f7e0261",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Beth",
+    "Description": "Beth has requested a delivery of 2x Cocaine in front of the motel for $395.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 39,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "2x Cocaine, In front of motel",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "eac0d826-3a72-43a5-83bb-f54fa4c4b5dc",
+    "Payment": 395.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 1,
+                "Quantity": 2
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "42b11b9f-8460-45fc-a677-a6ff29dd8561",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 38,
+        "Time": 1953
+    }
+}

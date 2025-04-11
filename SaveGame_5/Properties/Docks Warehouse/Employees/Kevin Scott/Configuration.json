@@ -1,7 +1,7 @@
 {
     "DataType": "PackagerConfigurationData",
     "DataVersion": 0,
-    "GameVersion": "0.3.3f15",
+    "GameVersion": "0.3.4f4",
     "Bed": {
         "ObjectGUID": "25c17c0d-dcf8-428c-8ef9-bb0edf820b56"
     },
@@ -26,6 +26,18 @@
             },
             {
                 "SourceGUID": "a24f1691-0eaa-45b8-81d4-4fe92500c1fd",
+                "DestinationGUID": "0116a092-01e9-4608-8c87-482a817e2d1e",
+                "FilterMode": 1,
+                "FilterItemIDs": []
+            },
+            {
+                "SourceGUID": "c12eab94-a0c5-4754-a2bd-45fc1108b5a6",
+                "DestinationGUID": "",
+                "FilterMode": 1,
+                "FilterItemIDs": []
+            },
+            {
+                "SourceGUID": "2f3990a8-850b-4042-b684-3124fe388917",
                 "DestinationGUID": "0116a092-01e9-4608-8c87-482a817e2d1e",
                 "FilterMode": 1,
                 "FilterItemIDs": []

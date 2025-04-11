@@ -1,7 +1,7 @@
 {
     "DataType": "PackagerData",
     "DataVersion": 0,
-    "GameVersion": "0.3.3f15",
+    "GameVersion": "0.3.4f4",
     "ID": "kevin_scott",
     "AssignedProperty": "dockswarehouse",
     "FirstName": "Kevin",
@@ -9,9 +9,9 @@
     "IsMale": true,
     "AppearanceIndex": 5,
     "Position": {
-        "x": -72.96127319335938,
+        "x": -72.95882415771485,
         "y": -2.429999828338623,
-        "z": -62.783302307128909
+        "z": -62.79710388183594
     },
     "Rotation": {
         "x": 0.0,

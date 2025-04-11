@@ -1,9 +1,9 @@
 {
     "DataType": "ToggleableItemData",
     "DataVersion": 0,
-    "GameVersion": "0.3.3f15",
+    "GameVersion": "0.3.4f4",
     "GUID": "1ee5e79c-c1ac-4423-b932-6b831d484ee5",
-    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.3f15\",\n    \"ID\": \"floorlamp\",\n    \"Quantity\": 1\n}",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.4f4\",\n    \"ID\": \"floorlamp\",\n    \"Quantity\": 1\n}",
     "LoadOrder": 0,
     "GridGUID": "efc3aaed-d40e-4075-8fc5-79664c851628",
     "OriginCoordinate": {

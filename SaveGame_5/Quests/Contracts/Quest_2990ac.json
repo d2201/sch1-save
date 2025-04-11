@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "2990aca1-38ca-4520-b0ed-a7b980278100",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Philip",
+    "Description": "Philip has requested a delivery of 10x Granddaddy Purple on the wharf near the french restaurant for $625.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 39,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "10x Granddaddy Purple, Wharf near french restaurant",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "3c17038c-e7fe-47ca-8e5b-0c0c4ae5b391",
+    "Payment": 625.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "granddaddypurple",
+                "Quality": 2,
+                "Quantity": 10
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "44a13b39-9939-4004-87b6-d596e726ef3b",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 38,
+        "Time": 2222
+    }
+}
