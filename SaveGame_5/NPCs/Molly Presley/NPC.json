@@ -13,10 +13,8 @@
         "jerry_montero",
         "mac_cooper"
     ],
-    "ActiveContractGUIDs": [
-        "1c6d8d89-883b-44f9-aabd-72b7267b8d0d"
-    ],
-    "Cash": 3114.39990234375,
+    "ActiveContractGUIDs": [],
+    "Cash": 2744.800048828125,
     "OverflowItems": {
         "Items": [
             "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}",

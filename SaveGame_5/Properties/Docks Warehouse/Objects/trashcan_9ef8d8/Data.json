@@ -12,7 +12,11 @@
     },
     "Rotation": 90,
     "ContentData": {
-        "TrashIDs": [],
-        "TrashQuantities": []
+        "TrashIDs": [
+            "m1911mag"
+        ],
+        "TrashQuantities": [
+            1
+        ]
     }
 }

@@ -2,27 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 13,
+    "ConversationIndex": 9,
     "Read": true,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": 1540995178,
-            "Text": "Ay bro you got 8x Granddaddy Purple? I'll pay <color=#46CB4F>$510</color> for it",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": -1542714858,
-            "Text": "How about 10x Granddaddy Purple for $610?",
-            "EndOfChain": false
-        },
-        {
-            "Sender": 1,
-            "MessageID": -1317179182,
-            "Text": "Aight homie. What time you wanna meet?",
-            "EndOfChain": true
-        },
         {
             "Sender": 0,
             "MessageID": -1949863510,
@@ -63,6 +45,24 @@
             "Sender": 1,
             "MessageID": 1259292736,
             "Text": "Sweet as homie, I'll meet you <b>behind the casino</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -799755570,
+            "Text": "Ay bro you got 2x Cocaine? I'll pay <color=#46CB4F>$400</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -586964898,
+            "Text": "Deal",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 605431186,
+            "Text": "Sick as, I'll meet you <b>in the central canal near the car wash</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         }
     ],

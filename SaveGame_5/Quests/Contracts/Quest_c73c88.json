@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "c73c88ea-a2c4-4186-a6ce-196486067f03",
+    "State": 1,
+    "IsTracked": false,
+    "Title": "Deal for Donna",
+    "Description": "Donna has requested a delivery of 5x Granddaddy Purple at the skatepark for $305.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 43,
+        "Time": 2400
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "5x Granddaddy Purple, Skatepark",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "971246ff-7483-45ea-8d43-7fc6dbb5c23c",
+    "Payment": 305.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "granddaddypurple",
+                "Quality": 1,
+                "Quantity": 5
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "dfef5a22-ac4d-4081-954f-5c6b79a41d58",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 1800,
+        "WindowEndTime": 2400
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 43,
+        "Time": 2000
+    }
+}

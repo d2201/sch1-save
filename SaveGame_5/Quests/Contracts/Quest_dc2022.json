@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "dc202284-fd4b-4ea2-8e1b-29a57fc2c906",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Chris",
+    "Description": "Chris has requested a delivery of 5x Cocaine at the residential park for $995.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 44,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "5x Cocaine, Residential park",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "32f710fc-2812-48fb-beec-e81b30c14f43",
+    "Payment": 995.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 3,
+                "Quantity": 5
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "00198638-3ee0-439f-9b6d-d88835923889",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 43,
+        "Time": 1025
+    }
+}

@@ -26,12 +26,12 @@
             },
             {
                 "SourceGUID": "c12eab94-a0c5-4754-a2bd-45fc1108b5a6",
-                "DestinationGUID": "54956d5e-9566-4920-8599-a443385112f6",
+                "DestinationGUID": "200a6316-2031-47d6-8700-82dabb9618f2",
                 "FilterMode": 1,
                 "FilterItemIDs": []
             },
             {
-                "SourceGUID": "c12eab94-a0c5-4754-a2bd-45fc1108b5a6",
+                "SourceGUID": "748eed3a-b7b0-4285-8ecf-75aa77d94459",
                 "DestinationGUID": "200a6316-2031-47d6-8700-82dabb9618f2",
                 "FilterMode": 1,
                 "FilterItemIDs": []

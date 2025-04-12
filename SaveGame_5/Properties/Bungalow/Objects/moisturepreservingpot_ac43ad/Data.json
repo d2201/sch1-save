@@ -20,10 +20,23 @@
         "DataType": "PlantData",
         "DataVersion": 0,
         "GameVersion": "0.3.4f4",
-        "SeedID": "",
-        "GrowthProgress": 0.0,
-        "YieldLevel": 0.0,
-        "QualityLevel": 0.0,
-        "ActiveBuds": []
+        "SeedID": "granddaddypurpleseed",
+        "GrowthProgress": 1.0,
+        "YieldLevel": 1.0,
+        "QualityLevel": 0.5,
+        "ActiveBuds": [
+            8,
+            11,
+            7,
+            6,
+            0,
+            9,
+            2,
+            12,
+            4,
+            13,
+            14,
+            15
+        ]
     }
 }

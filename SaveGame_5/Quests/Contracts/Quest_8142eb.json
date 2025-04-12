@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "8142eb64-935c-431f-884f-b83b8236867b",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Jeff",
+    "Description": "Jeff has requested a delivery of 2x Cocaine in the central canal near the car wash for $400.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 44,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "2x Cocaine, Central canal",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "1d29f3d1-655e-4504-8a4c-1d8216db609e",
+    "Payment": 400.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 2,
+                "Quantity": 2
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "23b689f9-628c-455e-bf81-111680a94150",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 43,
+        "Time": 736
+    }
+}

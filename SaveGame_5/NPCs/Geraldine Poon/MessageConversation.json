@@ -2,67 +2,67 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 19,
+    "ConversationIndex": 3,
     "Read": true,
     "MessageHistory": [
         {
             "Sender": 1,
-            "MessageID": 115526373,
-            "Text": "U got 12x Granddaddy Purple??? I'll pay <color=#46CB4F>$770</color> for it. DEAL?",
+            "MessageID": -1468375410,
+            "Text": "I'm after 3x Cocaine. I can pay <color=#46CB4F>$645</color> for it Deal??",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": -1488582371,
-            "Text": "How about 15x Granddaddy Purple for $800?",
+            "MessageID": -1825588392,
+            "Text": "How about 5x Cocaine for $845?",
             "EndOfChain": false
         },
         {
             "Sender": 1,
-            "MessageID": -399971000,
+            "MessageID": 1320713557,
             "Text": "hmmmmm FINE. When?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": -831624367,
+            "MessageID": -2085453390,
             "Text": "Late Night",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -778399887,
+            "MessageID": 1855048416,
             "Text": "Good!! I'll see u <b>at the north waterfront</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -2009837864,
-            "Text": "You got 3x Cocaine? I'll pay <color=#46CB4F>$635</color> for it",
+            "MessageID": 138488521,
+            "Text": "I NEED 3x Cocaine. I GOT <color=#46CB4F>$650</color>. DEAL?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": 799634973,
-            "Text": "How about 4x Cocaine for $835?",
+            "MessageID": 1045486102,
+            "Text": "How about 5x Cocaine for $850?",
             "EndOfChain": false
         },
         {
             "Sender": 1,
-            "MessageID": 138270976,
-            "Text": "Arghh fine. What time?",
+            "MessageID": -1758976673,
+            "Text": "Ok whatever. What time?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": 377826924,
+            "MessageID": -1837889916,
             "Text": "Late Night",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 1857899781,
-            "Text": "Good!! I'll see u <b>at the skatepark</b> between 12:00 AM and 6:00 AM.",
+            "MessageID": -2041768959,
+            "Text": "Good!! I'll see u <b>behind taco ticklers</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         }
     ],

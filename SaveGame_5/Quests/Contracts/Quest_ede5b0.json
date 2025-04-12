@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "ede5b00b-fe3d-43eb-b82b-fe7732178f8b",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Geraldine",
+    "Description": "Geraldine has requested a delivery of 5x Cocaine behind taco ticklers for $850.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 44,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "5x Cocaine, Behind Taco Ticklers",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "18acf346-c4da-410c-9ed9-12c1101fb26d",
+    "Payment": 850.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 0,
+                "Quantity": 5
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "b7ab2bad-0f54-49c4-9a98-47f87c0a2700",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 43,
+        "Time": 1432
+    }
+}

@@ -2,27 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 32,
+    "ConversationIndex": 14,
     "Read": true,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": -1477297859,
-            "Text": "Whats up bro, I'm after 8x Granddaddy Purple. I can pay <color=#46CB4F>$485</color> for it.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 598553336,
-            "Text": "How about 10x Granddaddy Purple for $585?",
-            "EndOfChain": false
-        },
-        {
-            "Sender": 1,
-            "MessageID": 798822672,
-            "Text": "Ok bro. What time?",
-            "EndOfChain": true
-        },
         {
             "Sender": 0,
             "MessageID": 1040720675,
@@ -63,6 +45,24 @@
             "Sender": 1,
             "MessageID": -1166560090,
             "Text": "Sweet as homie, I'll meet you <b>next to Bud's bar</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 543621302,
+            "Text": "Ay bro you got 2x Cocaine? I'll pay <color=#46CB4F>$380</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -628293627,
+            "Text": "Sure thing",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -540269955,
+            "Text": "Cheers bro, I'll meet you <b>behind Hyland gun range</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         }
     ],
