@@ -2,21 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 8,
-    "Read": true,
+    "ConversationIndex": 19,
+    "Read": false,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": 128411285,
-            "Text": "Copy. I'll message you when it's ready in about 4 hours.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 2034823963,
-            "Text": "I've received $1,440 cash from you. Your debt is now paid off.",
-            "EndOfChain": true
-        },
         {
             "Sender": 1,
             "MessageID": -1190840856,
@@ -63,6 +51,18 @@
             "Sender": 1,
             "MessageID": -342864391,
             "Text": "Okay. I'll be under the north end of the overpass for the next 6 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1005001426,
+            "Text": "Okay. I'll be next to the mayor's house for the next 6 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1992177502,
+            "Text": "Okay. I'll be in the west construction site for the next 6 hours.",
             "EndOfChain": true
         }
     ],

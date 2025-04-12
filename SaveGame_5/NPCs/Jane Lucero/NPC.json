@@ -12,8 +12,10 @@
         "philip_wentworth",
         "chloe_bowers"
     ],
-    "ActiveContractGUIDs": [],
-    "Cash": 5734.7998046875,
+    "ActiveContractGUIDs": [
+        "f22c0892-68a5-415d-8414-483cf1e1643f"
+    ],
+    "Cash": 0.0,
     "OverflowItems": {
         "Items": [
             "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}",

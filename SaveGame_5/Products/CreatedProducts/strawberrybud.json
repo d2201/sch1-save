@@ -1,0 +1,28 @@
+{
+    "DataType": "CocaineProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Strawberry Bud",
+    "ID": "strawberrybud",
+    "DrugType": 2,
+    "Properties": [
+        "foggy",
+        "electrifying",
+        "giraffying",
+        "cyclopean"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 224,
+            "g": 224,
+            "b": 224,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 215,
+            "g": 184,
+            "b": 146,
+            "a": 255
+        }
+    }
+}

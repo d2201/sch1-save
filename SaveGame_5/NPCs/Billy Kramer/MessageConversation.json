@@ -2,21 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 12,
+    "ConversationIndex": 6,
     "Read": true,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": -216718361,
-            "Text": "You got 6x Cocaine? I'll pay <color=#46CB4F>$1,305</color> for it",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": -218597969,
-            "Text": "Sure thing",
-            "EndOfChain": true
-        },
         {
             "Sender": 1,
             "MessageID": -1534813854,
@@ -39,6 +27,42 @@
             "Sender": 1,
             "MessageID": -53312334,
             "Text": "Ok, I'll meet you <b>outside the brick warehouse at the docks</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 510883365,
+            "Text": "Hello, I'm after 1x Strawberry Bud. I can pay <color=#46CB4F>$550</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 566285875,
+            "Text": "How about 2x Strawberry Bud for $950?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1217070682,
+            "Text": "I don't think so. Nevermind",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 214096058,
+            "Text": "Hey, I need 2x Strawberry Bud. I'll pay <color=#46CB4F>$1,100</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1302378195,
+            "Text": "Yep",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 795290598,
+            "Text": "Ok, I'll meet you <b>Behind Randy's bait & tackle</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         }
     ],

@@ -3,8 +3,16 @@
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
     "PropertyCode": "carwash",
-    "IsOwned": false,
+    "IsOwned": true,
     "SwitchStates": [],
     "ToggleableStates": [],
-    "LaunderingOperations": []
+    "LaunderingOperations": [
+        {
+            "DataType": "LaunderOperationData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Amount": 6000.0,
+            "MinutesSinceStarted": 637
+        }
+    ]
 }

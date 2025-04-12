@@ -12,7 +12,13 @@
     },
     "Rotation": -90,
     "ContentData": {
-        "TrashIDs": [],
-        "TrashQuantities": []
+        "TrashIDs": [
+            "soilbag3",
+            "gasoline"
+        ],
+        "TrashQuantities": [
+            1,
+            1
+        ]
     }
 }

@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "f22c0892-68a5-415d-8414-483cf1e1643f",
+    "State": 1,
+    "IsTracked": false,
+    "Title": "Deal for Philip",
+    "Description": "Philip has requested a delivery of 8x Granddaddy Purple behind the Crimson Canary for $485.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 47,
+        "Time": 1200
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "8x Granddaddy Purple, Behind the Crimson Canary",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "3c17038c-e7fe-47ca-8e5b-0c0c4ae5b391",
+    "Payment": 485.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "granddaddypurple",
+                "Quality": 2,
+                "Quantity": 8
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "ed913f7e-ccde-4f03-8958-fa39c9f8e812",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 600,
+        "WindowEndTime": 1200
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 47,
+        "Time": 400
+    }
+}

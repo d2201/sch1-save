@@ -2,70 +2,83 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 15,
-    "Read": true,
+    "ConversationIndex": 1,
+    "Read": false,
     "MessageHistory": [
         {
-            "Sender": 1,
-            "MessageID": 297151297,
-            "Text": "U got 9x Granddaddy Purple??? I'll pay <color=#46CB4F>$545</color> for it. DEAL?",
-            "EndOfChain": true
-        },
-        {
             "Sender": 0,
-            "MessageID": -1940824656,
-            "Text": "How about 10x Granddaddy Purple for $645?",
+            "MessageID": -284697393,
+            "Text": "How about 1x Strawberry Bud for $700?",
             "EndOfChain": false
         },
         {
             "Sender": 1,
-            "MessageID": 1967278532,
-            "Text": "hmmmmm FINE. When?",
+            "MessageID": 1601332231,
+            "Text": "Arghh fine. What time?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": 876034007,
+            "MessageID": 1932575820,
             "Text": "Late Night",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 1775293237,
+            "MessageID": -145126328,
+            "Text": "Good!! I'll see u <b>underneath the south end of the overpass</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1608010735,
+            "Text": "U got 2x Cocaine??? I'll pay <color=#46CB4F>$440</color> for it. DEAL?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1271929781,
+            "Text": "How about 3x Cocaine for $640?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 225168847,
+            "Text": "hmmmmm FINE. When?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1807934197,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -145998518,
             "Text": "Good!! I'll see u <b>Behind Randy's bait & tackle</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -1550213063,
-            "Text": "Need me 9x Granddaddy Purple! I'll pay <color=#46CB4F>$545</color> yeah??",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -1228530029,
-            "Text": "nvm",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -1284238896,
-            "Text": "I'm after 2x Cocaine. I can pay <color=#46CB4F>$410</color> for it Deal??",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": -130052608,
-            "Text": "Yes",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 1063795598,
-            "Text": "Good!! I'll see u <b>underneath the south end of the overpass</b> between 12:00 AM and 6:00 AM.",
+            "MessageID": -322904224,
+            "Text": "I'm after 1x Strawberry Bud. I can pay <color=#46CB4F>$515</color> for it Deal??",
             "EndOfChain": true
         }
     ],
-    "ActiveResponses": [],
+    "ActiveResponses": [
+        {
+            "Text": "Deal",
+            "Label": "ACCEPT_CONTRACT"
+        },
+        {
+            "Text": "[Counter-offer]",
+            "Label": "COUNTEROFFER"
+        },
+        {
+            "Text": "Not right now",
+            "Label": "REJECT_CONTRACT"
+        }
+    ],
     "IsHidden": false
 }

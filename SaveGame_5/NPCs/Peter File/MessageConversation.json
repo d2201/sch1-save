@@ -2,67 +2,67 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 6,
+    "ConversationIndex": 13,
     "Read": true,
     "MessageHistory": [
         {
             "Sender": 0,
-            "MessageID": 196467654,
-            "Text": "How about 3x Cocaine for $650?",
+            "MessageID": -1615986678,
+            "Text": "How about 2x Strawberry Bud for $935?",
             "EndOfChain": false
         },
         {
             "Sender": 1,
-            "MessageID": 1957960340,
-            "Text": "Hmm ok. What time?",
+            "MessageID": 849282554,
+            "Text": "Ok fine. What time?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": -1796425219,
+            "MessageID": 360956828,
             "Text": "Late Night",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 1664151924,
-            "Text": "Great, I'll meet you <b>behind taco ticklers</b> between 12:00 AM and 6:00 AM.",
+            "MessageID": -1619000303,
+            "Text": "Great, I'll meet you <b>behind Thompson construction and demolition</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 641622593,
-            "Text": "Hello, I'm after 2x Cocaine. I can pay <color=#46CB4F>$455</color> for it.",
+            "MessageID": 1186035724,
+            "Text": "Hey, can I get 1x Strawberry Bud? I'll pay <color=#46CB4F>$535</color>",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": -161220838,
-            "Text": "Yep",
+            "MessageID": 789117132,
+            "Text": "Yes",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 1122628149,
+            "MessageID": 1361689854,
             "Text": "Great, I'll meet you <b>behind Sauerkraut Supreme pizzeria</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -332954276,
-            "Text": "Hello, I'm after 2x Cocaine. I can pay <color=#46CB4F>$460</color> for it.",
+            "MessageID": -742050671,
+            "Text": "Hey, if you got 2x Cocaine I'll pay <color=#46CB4F>$460</color> for it. Deal?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": -238237879,
-            "Text": "Sure thing",
+            "MessageID": -2116707486,
+            "Text": "Deal",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -2060365604,
-            "Text": "Great, I'll meet you <b>behind Thompson construction and demolition</b> between 12:00 AM and 6:00 AM.",
+            "MessageID": 894968385,
+            "Text": "Great, I'll meet you <b>at the skatepark</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         }
     ],

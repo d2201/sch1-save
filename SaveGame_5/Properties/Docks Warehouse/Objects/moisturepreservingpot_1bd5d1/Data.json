@@ -11,10 +11,10 @@
         "y": 24.0
     },
     "Rotation": 90,
-    "SoilID": "extralonglifesoil",
-    "SoilLevel": 20.0,
-    "RemainingSoilUses": 1,
-    "WaterLevel": 2.966170310974121,
+    "SoilID": "",
+    "SoilLevel": 0.0,
+    "RemainingSoilUses": 0,
+    "WaterLevel": 0.0,
     "AppliedAdditives": [],
     "PlantData": {
         "DataType": "PlantData",

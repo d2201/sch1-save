@@ -39,10 +39,15 @@
         "ultraslime",
         "whitedick",
         "meth",
-        "cocaine"
+        "cocaine",
+        "icecreamsmegma",
+        "californiacum",
+        "granddaddymclovin",
+        "strawberrybud"
     ],
     "ListedProducts": [
-        "cocaine"
+        "cocaine",
+        "strawberrybud"
     ],
     "ActiveMixOperation": {
         "ProductID": "",
@@ -51,159 +56,179 @@
     "IsMixComplete": false,
     "MixRecipes": [
         {
-            "Product": "paracetamol",
-            "Mixer": "sourdiesel",
+            "Product": "sourdiesel",
+            "Mixer": "paracetamol",
             "Output": "ultraslime"
         },
         {
-            "Product": "viagra",
-            "Mixer": "ultraslime",
+            "Product": "ultraslime",
+            "Mixer": "viagra",
             "Output": "aspendeath"
         },
         {
-            "Product": "mouthwash",
-            "Mixer": "aspendeath",
+            "Product": "aspendeath",
+            "Mixer": "mouthwash",
             "Output": "californiadurkle"
         },
         {
-            "Product": "cuke",
-            "Mixer": "californiadurkle",
+            "Product": "californiadurkle",
+            "Mixer": "cuke",
             "Output": "stinkycrack"
         },
         {
-            "Product": "donut",
-            "Mixer": "stinkycrack",
+            "Product": "stinkycrack",
+            "Mixer": "donut",
             "Output": "icecreammonkey"
         },
         {
-            "Product": "banana",
-            "Mixer": "icecreammonkey",
+            "Product": "icecreammonkey",
+            "Mixer": "banana",
             "Output": "megamclovin"
         },
         {
-            "Product": "mouthwash",
-            "Mixer": "sourdiesel",
+            "Product": "sourdiesel",
+            "Mixer": "mouthwash",
             "Output": "extremepunch"
         },
         {
-            "Product": "cuke",
-            "Mixer": "extremepunch",
+            "Product": "extremepunch",
+            "Mixer": "cuke",
             "Output": "extremerhino"
         },
         {
-            "Product": "paracetamol",
-            "Mixer": "extremerhino",
+            "Product": "extremerhino",
+            "Mixer": "paracetamol",
             "Output": "granddaddydurkle"
         },
         {
-            "Product": "banana",
-            "Mixer": "granddaddydurkle",
+            "Product": "granddaddydurkle",
+            "Mixer": "banana",
             "Output": "biomonkey"
         },
         {
-            "Product": "donut",
-            "Mixer": "biomonkey",
+            "Product": "biomonkey",
+            "Mixer": "donut",
             "Output": "darkpiss"
         },
         {
-            "Product": "viagra",
-            "Mixer": "darkpiss",
+            "Product": "darkpiss",
+            "Mixer": "viagra",
             "Output": "icecreamcake"
         },
         {
-            "Product": "horsesemen",
-            "Mixer": "sourdiesel",
+            "Product": "sourdiesel",
+            "Mixer": "horsesemen",
             "Output": "girlscoutbud"
         },
         {
-            "Product": "viagra",
-            "Mixer": "girlscoutbud",
+            "Product": "girlscoutbud",
+            "Mixer": "viagra",
             "Output": "stinkysmegma"
         },
         {
-            "Product": "paracetamol",
-            "Mixer": "meth",
+            "Product": "meth",
+            "Mixer": "paracetamol",
             "Output": "fruityslime"
         },
         {
-            "Product": "cuke",
-            "Mixer": "fruityslime",
+            "Product": "fruityslime",
+            "Mixer": "cuke",
             "Output": "bananaurkle"
         },
         {
-            "Product": "banana",
-            "Mixer": "bananaurkle",
+            "Product": "bananaurkle",
+            "Mixer": "banana",
             "Output": "dreamdiesel"
         },
         {
-            "Product": "mouthwash",
-            "Mixer": "dreamdiesel",
+            "Product": "dreamdiesel",
+            "Mixer": "mouthwash",
             "Output": "icecreamhaze"
         },
         {
-            "Product": "donut",
-            "Mixer": "meth",
+            "Product": "meth",
+            "Mixer": "donut",
             "Output": "shinyslime"
         },
         {
-            "Product": "viagra",
-            "Mixer": "shinyslime",
+            "Product": "shinyslime",
+            "Mixer": "viagra",
             "Output": "miraclepuke"
         },
         {
-            "Product": "mouthwash",
-            "Mixer": "miraclepuke",
+            "Product": "miraclepuke",
+            "Mixer": "mouthwash",
             "Output": "sexycake"
         },
         {
-            "Product": "granddaddypurple",
-            "Mixer": "cuke",
+            "Product": "cuke",
+            "Mixer": "granddaddypurple",
             "Output": "aspensmegma"
         },
         {
-            "Product": "energydrink",
-            "Mixer": "granddaddypurple",
+            "Product": "granddaddypurple",
+            "Mixer": "energydrink",
             "Output": "strawberryshart"
         },
         {
-            "Product": "megabean",
-            "Mixer": "strawberryshart",
+            "Product": "strawberryshart",
+            "Mixer": "megabean",
             "Output": "ogcrack"
         },
         {
-            "Product": "motoroil",
-            "Mixer": "ogcrack",
+            "Product": "ogcrack",
+            "Mixer": "motoroil",
             "Output": "extrememclovin"
         },
         {
-            "Product": "banana",
-            "Mixer": "aspensmegma",
+            "Product": "aspensmegma",
+            "Mixer": "banana",
             "Output": "fatrhino"
         },
         {
-            "Product": "horsesemen",
-            "Mixer": "fatrhino",
+            "Product": "fatrhino",
+            "Mixer": "horsesemen",
             "Output": "whitedick"
         },
         {
-            "Product": "gasoline",
-            "Mixer": "whitedick",
+            "Product": "whitedick",
+            "Mixer": "gasoline",
             "Output": "ogthunderfuck"
         },
         {
-            "Product": "banana",
-            "Mixer": "ogthunderfuck",
+            "Product": "ogthunderfuck",
+            "Mixer": "banana",
             "Output": "extremeurkle"
         },
         {
-            "Product": "chili",
-            "Mixer": "extremeurkle",
+            "Product": "extremeurkle",
+            "Mixer": "chili",
             "Output": "tokyoghost"
         },
         {
-            "Product": "paracetamol",
-            "Mixer": "strawberryshart",
+            "Product": "strawberryshart",
+            "Mixer": "paracetamol",
             "Output": "granddaddyfuel"
+        },
+        {
+            "Product": "banana",
+            "Mixer": "cocaine",
+            "Output": "icecreamsmegma"
+        },
+        {
+            "Product": "cuke",
+            "Mixer": "icecreamsmegma",
+            "Output": "californiacum"
+        },
+        {
+            "Product": "horsesemen",
+            "Mixer": "californiacum",
+            "Output": "granddaddymclovin"
+        },
+        {
+            "Product": "megabean",
+            "Mixer": "granddaddymclovin",
+            "Output": "strawberrybud"
         }
     ],
     "ProductPrices": [
@@ -354,6 +379,22 @@
         {
             "String": "whitedick",
             "Int": 85
+        },
+        {
+            "String": "icecreamsmegma",
+            "Int": 180
+        },
+        {
+            "String": "californiacum",
+            "Int": 249
+        },
+        {
+            "String": "granddaddymclovin",
+            "Int": 336
+        },
+        {
+            "String": "strawberrybud",
+            "Int": 441
         }
     ],
     "FavouritedProducts": []

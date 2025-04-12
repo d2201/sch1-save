@@ -2,67 +2,67 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 0,
+    "ConversationIndex": 5,
     "Read": true,
     "MessageHistory": [
         {
             "Sender": 1,
-            "MessageID": 449165036,
-            "Text": "Hey, have you got 3x Cocaine? I'll pay <color=#46CB4F>$620</color> for it",
+            "MessageID": 1178640511,
+            "Text": "Hey, I need 1x Strawberry Bud. I'll pay <color=#46CB4F>$495</color>. Deal?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": -88006854,
-            "Text": "How about 5x Cocaine for $880?",
+            "MessageID": 1874458913,
+            "Text": "How about 1x Strawberry Bud for $605?",
             "EndOfChain": false
         },
         {
             "Sender": 1,
-            "MessageID": -2011884981,
-            "Text": "Ok fine. What time?",
+            "MessageID": -70309827,
+            "Text": "Alright then. What time?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": 800383945,
+            "MessageID": -269879679,
             "Text": "Late Night",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -749734489,
-            "Text": "Great, I'll meet you <b>behind the pawn shop</b> between 12:00 AM and 6:00 AM.",
+            "MessageID": 443699696,
+            "Text": "Great, I'll meet you <b>behind the western Gas Mart</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -861051450,
-            "Text": "Hey, have you got 3x Cocaine? I'll pay <color=#46CB4F>$630</color> for it",
+            "MessageID": -144146275,
+            "Text": "Hey, I need 1x Strawberry Bud. I'll pay <color=#46CB4F>$505</color>. Deal?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": -1936438630,
-            "Text": "How about 5x Cocaine for $890?",
+            "MessageID": 468735878,
+            "Text": "How about 1x Strawberry Bud for $605?",
             "EndOfChain": false
         },
         {
             "Sender": 1,
-            "MessageID": 2089053313,
+            "MessageID": -1173957523,
             "Text": "Hmm ok. What time?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": 423377767,
+            "MessageID": -979481034,
             "Text": "Late Night",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -463265933,
-            "Text": "Great, I'll meet you <b>behind the western Gas Mart</b> between 12:00 AM and 6:00 AM.",
+            "MessageID": -707697635,
+            "Text": "Great, I'll meet you <b>behind the pawn shop</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         }
     ],
