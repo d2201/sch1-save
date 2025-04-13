@@ -3,66 +3,66 @@
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
     "ConversationIndex": 27,
-    "Read": true,
+    "Read": false,
     "MessageHistory": [
         {
-            "Sender": 1,
-            "MessageID": 985556886,
-            "Text": "You got 2x Cocaine? I'll pay <color=#46CB4F>$385</color> for it",
-            "EndOfChain": true
-        },
-        {
             "Sender": 0,
-            "MessageID": -1962498783,
-            "Text": "How about 2x Cocaine for $485?",
+            "MessageID": 856241485,
+            "Text": "How about 2x Strawberry Bud for $875?",
             "EndOfChain": false
         },
         {
             "Sender": 1,
-            "MessageID": -1204335967,
-            "Text": "hmmmmm FINE. When?",
+            "MessageID": 1563035325,
+            "Text": "Arghh fine. What time?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": 824740067,
+            "MessageID": 1471418297,
             "Text": "Late Night",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 590905552,
+            "MessageID": 1562431572,
             "Text": "Good!! I'll see u <b>in the parking garage next to the casino</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 95369521,
-            "Text": "I NEED 7x Granddaddy Purple. I GOT <color=#46CB4F>$425</color>. DEAL?",
+            "MessageID": 951385418,
+            "Text": "I NEED 1x Strawberry Bud. I GOT <color=#46CB4F>$485</color>. DEAL?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": 315361318,
-            "Text": "How about 10x Granddaddy Purple for $625?",
-            "EndOfChain": false
+            "MessageID": -30060924,
+            "Text": "Sure thing",
+            "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 1398643980,
-            "Text": "hmmmmm FINE. When?",
+            "MessageID": 2075874336,
+            "Text": "Good!! I'll see u <b>on the wharf near the french restaurant</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 195846906,
+            "Text": "I NEED 1x Strawberry Bud. I GOT <color=#46CB4F>$495</color>. DEAL?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": 119045553,
-            "Text": "Late Night",
+            "MessageID": -442517247,
+            "Text": "Yes",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 806906779,
-            "Text": "Good!! I'll see u <b>behind the diner</b> between 12:00 AM and 6:00 AM.",
+            "MessageID": 1113477361,
+            "Text": "Good!! I'll see u <b>behind the auto shop</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         }
     ],

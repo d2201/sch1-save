@@ -1,0 +1,42 @@
+{
+    "DataType": "CustomerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Dependence": 0.9375,
+    "PurchaseableProducts": [
+        "strawberrybud"
+    ],
+    "ProductAffinities": [
+        0.8820000290870667,
+        -0.5910000205039978,
+        1.0
+    ],
+    "TimeSinceLastDealCompleted": 735,
+    "TimeSinceLastDealOffered": 1407,
+    "OfferedDeals": 5,
+    "CompletedDeals": 5,
+    "IsContractOffered": false,
+    "OfferedContract": {
+        "Payment": 0.0,
+        "Products": {
+            "entries": []
+        },
+        "DeliveryLocationGUID": "",
+        "DeliveryWindow": {
+            "IsEnabled": false,
+            "WindowStartTime": 1200,
+            "WindowEndTime": 1800
+        },
+        "Expires": false,
+        "ExpiresAfter": 0,
+        "PickupScheduleIndex": 0,
+        "IsCounterOffer": false
+    },
+    "OfferedContractTime": {
+        "elapsedDays": 52,
+        "time": 1417
+    },
+    "TimeSincePlayerApproached": 1013724,
+    "TimeSinceInstantDealOffered": 1013724,
+    "HasBeenRecommended": false
+}

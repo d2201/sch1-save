@@ -2,33 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 10,
-    "Read": true,
+    "ConversationIndex": 46,
+    "Read": false,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": -1580411658,
-            "Text": "I guess that's fine. When?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 408043418,
-            "Text": "Late Night",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 1656434741,
-            "Text": "Alright cool, I'll meet you <b>behind Thompson construction and demolition</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -2068386287,
-            "Text": "Hey, can I get 1x Cocaine? I'll pay <color=#46CB4F>$215</color>",
-            "EndOfChain": true
-        },
         {
             "Sender": 0,
             "MessageID": 80840795,
@@ -62,6 +38,30 @@
         {
             "Sender": 1,
             "MessageID": 1267491646,
+            "Text": "Hello?? Nevermind then",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -964356993,
+            "Text": "Hey, if you got 1x Strawberry Bud I'll pay <color=#46CB4F>$535</color> for it. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1238647194,
+            "Text": "How about 2x Strawberry Bud for $935?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -2074132848,
+            "Text": "Nope - nevermind",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1242974874,
             "Text": "Hello?? Nevermind then",
             "EndOfChain": true
         }

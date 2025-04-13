@@ -2,67 +2,67 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 21,
-    "Read": true,
+    "ConversationIndex": 8,
+    "Read": false,
     "MessageHistory": [
         {
             "Sender": 1,
-            "MessageID": -927665220,
-            "Text": "Ok. What time you wanna meet?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 1824905931,
-            "Text": "Late Night",
+            "MessageID": 1804245023,
+            "Text": "Nevermind",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -1501723240,
-            "Text": "Great, I'll meet you <b>in front of the motel</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -779273080,
-            "Text": "Hey, can I get 1x Cocaine? I'll pay <color=#46CB4F>$195</color>",
+            "MessageID": 1709341706,
+            "Text": "You got 1x Strawberry Bud? I'll pay <color=#46CB4F>$485</color> for it",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": -769190640,
-            "Text": "How about 2x Cocaine for $305?",
+            "MessageID": -1083387866,
+            "Text": "How about 2x Strawberry Bud for $985?",
             "EndOfChain": false
         },
         {
             "Sender": 1,
-            "MessageID": 540904066,
-            "Text": "Ok. What time you wanna meet?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 926673327,
-            "Text": "Late Night",
+            "MessageID": 144144688,
+            "Text": "Not gonna happen. I'll get it somewhere else",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 2088523873,
+            "MessageID": -1530733131,
+            "Text": "Hey, can I get 1x Strawberry Bud? I'll pay <color=#46CB4F>$485</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 609863999,
+            "Text": "Yes",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 670536375,
             "Text": "Great, I'll meet you <b>behind Sauerkraut Supreme pizzeria</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 947366259,
-            "Text": "Hey, if you got 1x Cocaine I'll pay <color=#46CB4F>$200</color> for it. Deal?",
+            "MessageID": -1070821935,
+            "Text": "Hey, I need 1x Strawberry Bud. I'll pay <color=#46CB4F>$495</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1038526927,
+            "Text": "Yes",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 1804245023,
-            "Text": "Nevermind",
+            "MessageID": -46355180,
+            "Text": "Great, I'll meet you <b>at the skatepark</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         }
     ],

@@ -2,33 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 30,
-    "Read": true,
+    "ConversationIndex": 50,
+    "Read": false,
     "MessageHistory": [
-        {
-            "Sender": 0,
-            "MessageID": 840395027,
-            "Text": "How about 5x Granddaddy Purple for $340?",
-            "EndOfChain": false
-        },
-        {
-            "Sender": 1,
-            "MessageID": -1514941692,
-            "Text": "Not gonna happen. I'll get it somewhere else",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -323688267,
-            "Text": "Hello, I'm after 5x Granddaddy Purple. I can pay <color=#46CB4F>$305</color> for it.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": -2042671413,
-            "Text": "Yep",
-            "EndOfChain": true
-        },
         {
             "Sender": 1,
             "MessageID": 1471896830,
@@ -63,6 +39,30 @@
             "Sender": 1,
             "MessageID": 1063677081,
             "Text": "Great, I'll meet you <b>next to the statue in the west park</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1187990515,
+            "Text": "Hey, if you got 1x Strawberry Bud I'll pay <color=#46CB4F>$440</color> for it. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1420884410,
+            "Text": "How about 2x Strawberry Bud for $840?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 100347667,
+            "Text": "No thanks. I'll just look elsewhere",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1856051919,
+            "Text": "Nvm",
             "EndOfChain": true
         }
     ],

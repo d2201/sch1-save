@@ -2,48 +2,41 @@
     "DataType": "CustomerData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "Dependence": 0.9149999618530273,
+    "Dependence": 1.0,
     "PurchaseableProducts": [
-        "cocaine",
         "strawberrybud"
     ],
     "ProductAffinities": [
         1.0,
         1.0,
-        0.7400000095367432
+        1.0
     ],
-    "TimeSinceLastDealCompleted": 748,
-    "TimeSinceLastDealOffered": 8,
-    "OfferedDeals": 27,
-    "CompletedDeals": 22,
-    "IsContractOffered": true,
+    "TimeSinceLastDealCompleted": 430,
+    "TimeSinceLastDealOffered": 674,
+    "OfferedDeals": 34,
+    "CompletedDeals": 28,
+    "IsContractOffered": false,
     "OfferedContract": {
-        "Payment": 515.0,
+        "Payment": 0.0,
         "Products": {
-            "entries": [
-                {
-                    "ProductID": "strawberrybud",
-                    "Quality": 2,
-                    "Quantity": 1
-                }
-            ]
+            "entries": []
         },
-        "DeliveryLocationGUID": "4cbdc267-5898-406f-a5bc-cfce0aec8c2b",
+        "DeliveryLocationGUID": "",
         "DeliveryWindow": {
-            "IsEnabled": true,
-            "WindowStartTime": 0,
-            "WindowEndTime": 0
+            "IsEnabled": false,
+            "WindowStartTime": 1200,
+            "WindowEndTime": 1800
         },
-        "Expires": true,
-        "ExpiresAfter": 1,
+        "Expires": false,
+        "ExpiresAfter": 0,
         "PickupScheduleIndex": 0,
         "IsCounterOffer": false
     },
     "OfferedContractTime": {
-        "elapsedDays": 47,
-        "time": 400
+        "elapsedDays": 53,
+        "time": 230
     },
-    "TimeSincePlayerApproached": 10686,
-    "TimeSinceInstantDealOffered": 29774,
+    "TimeSincePlayerApproached": 24410,
+    "TimeSinceInstantDealOffered": 43498,
     "HasBeenRecommended": false
 }

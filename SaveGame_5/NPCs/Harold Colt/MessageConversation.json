@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ConversationIndex": 44,
+    "Read": false,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": -1169743908,
+            "Text": "Hey, can I get 3x Strawberry Bud? I'll pay <color=#46CB4F>$1,400</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 2128864874,
+            "Text": "How about 3x Strawberry Bud for $1,500?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1114941933,
+            "Text": "Alright then. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1055910045,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1500326639,
+            "Text": "Great, I'll meet you <b>behind the post office</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1154497607,
+            "Text": "Hey, can I get 2x Strawberry Bud? I'll pay <color=#46CB4F>$955</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1794685673,
+            "Text": "How about 3x Strawberry Bud for $1,355?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 2031157195,
+            "Text": "Ok. What time you wanna meet?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1101815599,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 75294007,
+            "Text": "Great, I'll meet you <b>behind the bus stop in the suburbs</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

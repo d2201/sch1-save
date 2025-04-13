@@ -2,67 +2,67 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 16,
-    "Read": true,
+    "ConversationIndex": 36,
+    "Read": false,
     "MessageHistory": [
         {
+            "Sender": 0,
+            "MessageID": -583998746,
+            "Text": "Deal",
+            "EndOfChain": true
+        },
+        {
             "Sender": 1,
-            "MessageID": 1493177938,
-            "Text": "Ay bro you got 2x Cocaine? I'll pay <color=#46CB4F>$400</color> for it",
+            "MessageID": -643181189,
+            "Text": "Hell yeah my friend, I'll meet you <b>in the parking garage next to the casino</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -563578907,
+            "Text": "Hey dog, I need 1x Strawberry Bud. I'll pay <color=#46CB4F>$550</color>. Deal?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": -1944671741,
-            "Text": "How about 3x Cocaine for $600?",
+            "MessageID": -2011573550,
+            "Text": "How about 2x Strawberry Bud for $850?",
             "EndOfChain": false
         },
         {
             "Sender": 1,
-            "MessageID": -1666451245,
+            "MessageID": 2099612010,
             "Text": "Aight homie. What time you wanna meet?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": -635823828,
+            "MessageID": -795059269,
             "Text": "Late Night",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -1132677416,
-            "Text": "Sweet as homie, I'll meet you <b>behind the casino</b> between 12:00 AM and 6:00 AM.",
+            "MessageID": 355128378,
+            "Text": "Hell yeah my friend, I'll meet you <b>behind the Crimson Canary</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -947749945,
-            "Text": "Hey dog, I need 2x Cocaine. I'll pay <color=#46CB4F>$405</color>. Deal?",
+            "MessageID": -1353792274,
+            "Text": "Hey dog, I need 1x Strawberry Bud. I'll pay <color=#46CB4F>$560</color>. Deal?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": 1037575547,
-            "Text": "How about 3x Cocaine for $705?",
-            "EndOfChain": false
-        },
-        {
-            "Sender": 1,
-            "MessageID": 1129927424,
-            "Text": "Aight homie. What time you wanna meet?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": -717202094,
-            "Text": "Late Night",
+            "MessageID": -1626596269,
+            "Text": "Yep",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 1211041312,
-            "Text": "Sick as, I'll meet you <b>behind the Crimson Canary</b> between 12:00 AM and 6:00 AM.",
+            "MessageID": -1279886158,
+            "Text": "Sweet as homie, I'll meet you <b>on the wharf near the french restaurant</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         }
     ],

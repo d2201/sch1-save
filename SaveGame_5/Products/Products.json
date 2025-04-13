@@ -11,6 +11,7 @@
         "aspensmegma",
         "bananaurkle",
         "biomonkey",
+        "californiacum",
         "californiadurkle",
         "darkpiss",
         "dreamdiesel",
@@ -23,9 +24,11 @@
         "girlscoutbud",
         "granddaddydurkle",
         "granddaddyfuel",
+        "granddaddymclovin",
         "icecreamcake",
         "icecreamhaze",
         "icecreammonkey",
+        "icecreamsmegma",
         "megamclovin",
         "miraclepuke",
         "ogcrack",
@@ -34,19 +37,15 @@
         "shinyslime",
         "stinkycrack",
         "stinkysmegma",
+        "strawberrybud",
         "strawberryshart",
         "tokyoghost",
         "ultraslime",
         "whitedick",
         "meth",
-        "cocaine",
-        "icecreamsmegma",
-        "californiacum",
-        "granddaddymclovin",
-        "strawberrybud"
+        "cocaine"
     ],
     "ListedProducts": [
-        "cocaine",
         "strawberrybud"
     ],
     "ActiveMixOperation": {
@@ -273,6 +272,10 @@
             "Int": 80
         },
         {
+            "String": "californiacum",
+            "Int": 249
+        },
+        {
             "String": "californiadurkle",
             "Int": 75
         },
@@ -321,6 +324,10 @@
             "Int": 74
         },
         {
+            "String": "granddaddymclovin",
+            "Int": 336
+        },
+        {
             "String": "icecreamcake",
             "Int": 106
         },
@@ -331,6 +338,10 @@
         {
             "String": "icecreammonkey",
             "Int": 82
+        },
+        {
+            "String": "icecreamsmegma",
+            "Int": 180
         },
         {
             "String": "megamclovin",
@@ -365,6 +376,10 @@
             "Int": 74
         },
         {
+            "String": "strawberrybud",
+            "Int": 460
+        },
+        {
             "String": "strawberryshart",
             "Int": 50
         },
@@ -379,22 +394,6 @@
         {
             "String": "whitedick",
             "Int": 85
-        },
-        {
-            "String": "icecreamsmegma",
-            "Int": 180
-        },
-        {
-            "String": "californiacum",
-            "Int": 249
-        },
-        {
-            "String": "granddaddymclovin",
-            "Int": 336
-        },
-        {
-            "String": "strawberrybud",
-            "Int": 441
         }
     ],
     "FavouritedProducts": []

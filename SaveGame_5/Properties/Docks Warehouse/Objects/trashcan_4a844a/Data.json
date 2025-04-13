@@ -13,9 +13,11 @@
     "Rotation": 180,
     "ContentData": {
         "TrashIDs": [
-            "fertilizer"
+            "fertilizer",
+            "soilbag3"
         ],
         "TrashQuantities": [
+            1,
             1
         ]
     }

@@ -2,27 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 37,
-    "Read": true,
+    "ConversationIndex": 40,
+    "Read": false,
     "MessageHistory": [
-        {
-            "Sender": 0,
-            "MessageID": 1514634780,
-            "Text": "Yep",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -315608759,
-            "Text": "Great, I'll meet you <b>behind the shipping containers at the docks</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 1932134596,
-            "Text": "Hey, if you got 11x Granddaddy Purple I'll pay <color=#46CB4F>$575</color> for it. Deal?",
-            "EndOfChain": true
-        },
         {
             "Sender": 0,
             "MessageID": -106472009,
@@ -63,6 +45,24 @@
             "Sender": 1,
             "MessageID": 1173593047,
             "Text": "Great, I'll meet you <b>outside the brick warehouse at the docks</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1874172169,
+            "Text": "Hey, I need 1x Strawberry Bud. I'll pay <color=#46CB4F>$525</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -764535311,
+            "Text": "Deal",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1396643634,
+            "Text": "Great, I'll meet you <b>behind the shipping containers at the docks</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         }
     ],

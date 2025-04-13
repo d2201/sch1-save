@@ -2,15 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 18,
-    "Read": false,
+    "ConversationIndex": 10,
+    "Read": true,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": 80876382,
-            "Text": "Agreed. I'll be in the west construction site for the next 6 hours.",
-            "EndOfChain": true
-        },
         {
             "Sender": 1,
             "MessageID": -948004139,
@@ -62,6 +56,12 @@
         {
             "Sender": 1,
             "MessageID": -379616343,
+            "Text": "Agreed. I'll be under the west bridge for the next 6 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1519715821,
             "Text": "Agreed. I'll be under the west bridge for the next 6 hours.",
             "EndOfChain": true
         }

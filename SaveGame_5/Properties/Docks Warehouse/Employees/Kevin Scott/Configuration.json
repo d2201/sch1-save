@@ -6,33 +6,19 @@
         "ObjectGUID": "25c17c0d-dcf8-428c-8ef9-bb0edf820b56"
     },
     "Stations": {
-        "ObjectGUIDs": [
-            "0116a092-01e9-4608-8c87-482a817e2d1e"
-        ]
+        "ObjectGUIDs": []
     },
     "Routes": {
         "Routes": [
             {
-                "SourceGUID": "a24f1691-0eaa-45b8-81d4-4fe92500c1fd",
-                "DestinationGUID": "0116a092-01e9-4608-8c87-482a817e2d1e",
-                "FilterMode": 1,
-                "FilterItemIDs": []
-            },
-            {
-                "SourceGUID": "2f3990a8-850b-4042-b684-3124fe388917",
-                "DestinationGUID": "0116a092-01e9-4608-8c87-482a817e2d1e",
-                "FilterMode": 1,
-                "FilterItemIDs": []
-            },
-            {
-                "SourceGUID": "c12eab94-a0c5-4754-a2bd-45fc1108b5a6",
-                "DestinationGUID": "200a6316-2031-47d6-8700-82dabb9618f2",
+                "SourceGUID": "748eed3a-b7b0-4285-8ecf-75aa77d94459",
+                "DestinationGUID": "54c7787c-d678-4543-86de-15e3abbe9835",
                 "FilterMode": 1,
                 "FilterItemIDs": []
             },
             {
                 "SourceGUID": "748eed3a-b7b0-4285-8ecf-75aa77d94459",
-                "DestinationGUID": "200a6316-2031-47d6-8700-82dabb9618f2",
+                "DestinationGUID": "a860dc15-e751-4787-9a06-ff5150191f18",
                 "FilterMode": 1,
                 "FilterItemIDs": []
             }

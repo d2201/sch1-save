@@ -2,19 +2,19 @@
     "DataType": "CustomerData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "Dependence": 0.25,
+    "Dependence": 0.5874999761581421,
     "PurchaseableProducts": [
-        "granddaddypurple"
+        "strawberrybud"
     ],
     "ProductAffinities": [
         1.0,
         0.22599999606609345,
         1.0
     ],
-    "TimeSinceLastDealCompleted": 1113,
-    "TimeSinceLastDealOffered": 1165,
-    "OfferedDeals": 41,
-    "CompletedDeals": 38,
+    "TimeSinceLastDealCompleted": 489,
+    "TimeSinceLastDealOffered": 1049,
+    "OfferedDeals": 47,
+    "CompletedDeals": 43,
     "IsContractOffered": false,
     "OfferedContract": {
         "Payment": 0.0,
@@ -33,10 +33,10 @@
         "IsCounterOffer": false
     },
     "OfferedContractTime": {
-        "elapsedDays": 46,
+        "elapsedDays": 52,
         "time": 2015
     },
-    "TimeSincePlayerApproached": 1085631,
-    "TimeSinceInstantDealOffered": 1085631,
+    "TimeSincePlayerApproached": 1099354,
+    "TimeSinceInstantDealOffered": 1099354,
     "HasBeenRecommended": false
 }

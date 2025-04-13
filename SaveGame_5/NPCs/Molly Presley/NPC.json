@@ -4,15 +4,7 @@
     "GameVersion": "0.3.4f4",
     "ID": "molly_presley",
     "Recruited": true,
-    "AssignedCustomerIDs": [
-        "doris_lubbin",
-        "joyce_ball",
-        "meg_cooley",
-        "trent_sherman",
-        "marco_baron",
-        "jerry_montero",
-        "mac_cooper"
-    ],
+    "AssignedCustomerIDs": [],
     "ActiveContractGUIDs": [],
     "Cash": 0.0,
     "OverflowItems": {

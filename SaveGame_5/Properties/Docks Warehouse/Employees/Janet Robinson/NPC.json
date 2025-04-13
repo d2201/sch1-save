@@ -1,0 +1,30 @@
+{
+    "DataType": "PackagerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "janet_robinson",
+    "AssignedProperty": "dockswarehouse",
+    "FirstName": "Janet",
+    "LastName": "Robinson",
+    "IsMale": false,
+    "AppearanceIndex": 3,
+    "Position": {
+        "x": -72.98571014404297,
+        "y": -2.429999828338623,
+        "z": -62.82319259643555
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": -0.5855227708816528,
+        "z": 0.0,
+        "w": 0.810655951499939
+    },
+    "GUID": "bf13b2c6-066e-4764-8d98-2ff15701aafb",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

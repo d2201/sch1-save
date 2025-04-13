@@ -2,20 +2,19 @@
     "DataType": "CustomerData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "Dependence": 0.20000000298023225,
+    "Dependence": 0.550000011920929,
     "PurchaseableProducts": [
-        "cocaine",
         "strawberrybud"
     ],
     "ProductAffinities": [
         0.08743894100189209,
         -0.6264557838439941,
-        0.9307523965835571
+        1.0
     ],
-    "TimeSinceLastDealCompleted": 949,
-    "TimeSinceLastDealOffered": 1225,
-    "OfferedDeals": 4,
-    "CompletedDeals": 3,
+    "TimeSinceLastDealCompleted": 2731,
+    "TimeSinceLastDealOffered": 2768,
+    "OfferedDeals": 7,
+    "CompletedDeals": 6,
     "IsContractOffered": false,
     "OfferedContract": {
         "Payment": 0.0,
@@ -34,10 +33,10 @@
         "IsCounterOffer": false
     },
     "OfferedContractTime": {
-        "elapsedDays": 46,
-        "time": 1915
+        "elapsedDays": 51,
+        "time": 2005
     },
-    "TimeSincePlayerApproached": 1085634,
-    "TimeSinceInstantDealOffered": 1085634,
+    "TimeSincePlayerApproached": 1099358,
+    "TimeSinceInstantDealOffered": 1099358,
     "HasBeenRecommended": false
 }

@@ -2,57 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 40,
-    "Read": true,
+    "ConversationIndex": 31,
+    "Read": false,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": -904875628,
-            "Text": "Hey, if you got 7x Granddaddy Purple I'll pay <color=#46CB4F>$440</color> for it. Deal?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": -1098796315,
-            "Text": "How about 10x Granddaddy Purple for $540?",
-            "EndOfChain": false
-        },
-        {
-            "Sender": 1,
-            "MessageID": -660566755,
-            "Text": "Ok. What time you wanna meet?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 2015209242,
-            "Text": "Late Night",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 1889173621,
-            "Text": "Great, I'll meet you <b>behind Thrifty threads</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 474199101,
-            "Text": "Hello, I'm after 8x Granddaddy Purple. I can pay <color=#46CB4F>$510</color> for it.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 1434618571,
-            "Text": "How about 10x Granddaddy Purple for $610?",
-            "EndOfChain": false
-        },
-        {
-            "Sender": 1,
-            "MessageID": -645990102,
-            "Text": "Alright then. What time?",
-            "EndOfChain": true
-        },
         {
             "Sender": 0,
             "MessageID": -330944502,
@@ -62,6 +14,54 @@
         {
             "Sender": 1,
             "MessageID": 1804489027,
+            "Text": "Great, I'll meet you <b>behind Thrifty threads</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1360714117,
+            "Text": "Hey, I need 1x Strawberry Bud. I'll pay <color=#46CB4F>$515</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1167534555,
+            "Text": "How about 2x Strawberry Bud for $915?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -480611914,
+            "Text": "Ok fine. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -378727870,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 21707611,
+            "Text": "Great, I'll meet you <b>on the wharf near the french restaurant</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1096693977,
+            "Text": "Hey, can I get 1x Strawberry Bud? I'll pay <color=#46CB4F>$525</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1649994898,
+            "Text": "Sure thing",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -172007111,
             "Text": "Great, I'll meet you <b>behind Thrifty threads</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         }
