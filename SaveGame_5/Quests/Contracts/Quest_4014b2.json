@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "4014b28e-a5a4-47c6-96d1-fe821c93f37d",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Mac",
+    "Description": "Mac has requested a delivery of 1x Strawberry Bud outside the brick warehouse at the docks for $845.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 56,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "1x Strawberry Bud, Brick warehouse at the docks",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "1c496fee-d2f7-47f2-9796-0e06c82d0880",
+    "Payment": 845.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "strawberrybud",
+                "Quality": 2,
+                "Quantity": 1
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "f4b9a4ef-2f22-437c-be9c-afb1a0fc583b",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 55,
+        "Time": 1753
+    }
+}

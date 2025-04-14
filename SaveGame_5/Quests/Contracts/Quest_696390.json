@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "696390c6-bc81-4456-944b-971e7d567c4b",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Kyle",
+    "Description": "Kyle has requested a delivery of 1x Strawberry Bud next to the barbershop for $800.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 56,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "1x Strawberry Bud, Next to barbershop",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "e8e4e974-86b8-49cd-8252-a43b76f14708",
+    "Payment": 800.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "strawberrybud",
+                "Quality": 1,
+                "Quantity": 1
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "40ffadb0-0dfb-408c-a940-f3dd81f04c89",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 55,
+        "Time": 1335
+    }
+}

@@ -2,15 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 1,
+    "ConversationIndex": 20,
     "Read": true,
     "MessageHistory": [
-        {
-            "Sender": 0,
-            "MessageID": 490416327,
-            "Text": "I need a dead drop:\n10x Coca Seed",
-            "EndOfChain": false
-        },
         {
             "Sender": 1,
             "MessageID": 1916747483,
@@ -63,6 +57,12 @@
             "Sender": 1,
             "MessageID": 150967375,
             "Text": "Okay. I'll be next to the mayor's house for the next 6 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1337793267,
+            "Text": "Okay. I'll be under the west bridge for the next 6 hours.",
             "EndOfChain": true
         }
     ],

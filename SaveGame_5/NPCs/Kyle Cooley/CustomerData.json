@@ -9,12 +9,12 @@
     "ProductAffinities": [
         1.0,
         0.7049999833106995,
-        0.8669999837875366
+        1.0
     ],
-    "TimeSinceLastDealCompleted": 393,
-    "TimeSinceLastDealOffered": 1634,
-    "OfferedDeals": 44,
-    "CompletedDeals": 45,
+    "TimeSinceLastDealCompleted": 1391,
+    "TimeSinceLastDealOffered": 691,
+    "OfferedDeals": 47,
+    "CompletedDeals": 47,
     "IsContractOffered": false,
     "OfferedContract": {
         "Payment": 0.0,
@@ -33,10 +33,10 @@
         "IsCounterOffer": false
     },
     "OfferedContractTime": {
-        "elapsedDays": 52,
-        "time": 1030
+        "elapsedDays": 55,
+        "time": 1130
     },
-    "TimeSincePlayerApproached": 6801,
-    "TimeSinceInstantDealOffered": 99363,
+    "TimeSincePlayerApproached": 11744,
+    "TimeSinceInstantDealOffered": 104306,
     "HasBeenRecommended": false
 }

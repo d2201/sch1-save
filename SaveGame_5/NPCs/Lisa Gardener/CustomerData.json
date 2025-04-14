@@ -2,7 +2,7 @@
     "DataType": "CustomerData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "Dependence": 0.2750000059604645,
+    "Dependence": 0.15000000596046449,
     "PurchaseableProducts": [
         "strawberrybud"
     ],
@@ -11,8 +11,8 @@
         -0.3561795949935913,
         0.1285478174686432
     ],
-    "TimeSinceLastDealCompleted": 711,
-    "TimeSinceLastDealOffered": 1559,
+    "TimeSinceLastDealCompleted": 5654,
+    "TimeSinceLastDealOffered": 6502,
     "OfferedDeals": 25,
     "CompletedDeals": 22,
     "IsContractOffered": false,
@@ -33,10 +33,10 @@
         "IsCounterOffer": false
     },
     "OfferedContractTime": {
-        "elapsedDays": 52,
-        "time": 1145
+        "elapsedDays": 0,
+        "time": 0
     },
-    "TimeSincePlayerApproached": 1099360,
-    "TimeSinceInstantDealOffered": 1099360,
+    "TimeSincePlayerApproached": 1104303,
+    "TimeSinceInstantDealOffered": 1104303,
     "HasBeenRecommended": false
 }

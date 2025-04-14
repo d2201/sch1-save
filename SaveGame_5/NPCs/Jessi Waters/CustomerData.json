@@ -11,32 +11,38 @@
         1.0,
         1.0
     ],
-    "TimeSinceLastDealCompleted": 590,
-    "TimeSinceLastDealOffered": 914,
-    "OfferedDeals": 46,
-    "CompletedDeals": 35,
-    "IsContractOffered": false,
+    "TimeSinceLastDealCompleted": 1422,
+    "TimeSinceLastDealOffered": 30,
+    "OfferedDeals": 49,
+    "CompletedDeals": 37,
+    "IsContractOffered": true,
     "OfferedContract": {
-        "Payment": 0.0,
+        "Payment": 800.0,
         "Products": {
-            "entries": []
+            "entries": [
+                {
+                    "ProductID": "strawberrybud",
+                    "Quality": 0,
+                    "Quantity": 1
+                }
+            ]
         },
-        "DeliveryLocationGUID": "",
+        "DeliveryLocationGUID": "b7ab2bad-0f54-49c4-9a98-47f87c0a2700",
         "DeliveryWindow": {
-            "IsEnabled": false,
-            "WindowStartTime": 1200,
-            "WindowEndTime": 1800
+            "IsEnabled": true,
+            "WindowStartTime": 0,
+            "WindowEndTime": 0
         },
-        "Expires": false,
-        "ExpiresAfter": 0,
+        "Expires": true,
+        "ExpiresAfter": 1,
         "PickupScheduleIndex": 0,
         "IsCounterOffer": false
     },
     "OfferedContractTime": {
-        "elapsedDays": 52,
+        "elapsedDays": 55,
         "time": 2230
     },
-    "TimeSincePlayerApproached": 9068,
-    "TimeSinceInstantDealOffered": 2759,
+    "TimeSincePlayerApproached": 14011,
+    "TimeSinceInstantDealOffered": 7702,
     "HasBeenRecommended": false
 }

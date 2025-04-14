@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "170236ae-7701-4c27-9e36-ab4e8590c8e4",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Jeremy",
+    "Description": "Jeremy has requested a delivery of 1x Strawberry Bud behind the dealership for $800.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 56,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "1x Strawberry Bud, Behind the dealership",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "fce04052-6571-4ff2-9b4e-ee6835006c6c",
+    "Payment": 800.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "strawberrybud",
+                "Quality": 3,
+                "Quantity": 1
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "9cf32715-1ec5-4dd2-94a9-0bf418f00161",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 55,
+        "Time": 2105
+    }
+}

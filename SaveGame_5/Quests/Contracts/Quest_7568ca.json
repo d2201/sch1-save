@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "7568ca93-2994-4e2a-a767-d035480fb84f",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Jerry",
+    "Description": "Jerry has requested a delivery of 1x Strawberry Bud outside room #2 of the brown apartment block for $800.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 56,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "1x Strawberry Bud, Outside brown apartment block room #2",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "56d2b6f3-53d4-49a9-a09d-dd5a768ff222",
+    "Payment": 800.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "strawberrybud",
+                "Quality": 1,
+                "Quantity": 1
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "71a56a7a-9b3a-4b59-98ce-2e29448f33ba",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 55,
+        "Time": 1757
+    }
+}

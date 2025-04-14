@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "feb257d7-cc0b-4f62-bcd7-152f55a3d48d",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Hank",
+    "Description": "Hank has requested a delivery of 1x Strawberry Bud behind the bus stop in the suburbs for $765.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 56,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "1x Strawberry Bud, Behind the suburbs bus stop",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "df3536a8-be0d-4935-a8b2-6ead38e3b1d3",
+    "Payment": 765.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "strawberrybud",
+                "Quality": 3,
+                "Quantity": 1
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "bd2e7438-88d2-491a-95b8-2976a803eb9e",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 55,
+        "Time": 1341
+    }
+}

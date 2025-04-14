@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "f15faecc-eedd-41c6-bcf9-50f1a82294ba",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Lucy",
+    "Description": "Lucy has requested a delivery of 1x Strawberry Bud behind the auto shop for $800.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 56,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "1x Strawberry Bud, Behind the auto shop",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "c02c3b55-c89e-4280-9005-38a8b5aedd85",
+    "Payment": 800.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "strawberrybud",
+                "Quality": 2,
+                "Quantity": 1
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "11538f47-051e-4c88-b488-e273010e2213",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 55,
+        "Time": 1351
+    }
+}

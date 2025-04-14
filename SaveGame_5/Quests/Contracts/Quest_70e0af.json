@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "70e0afec-1e0b-44d3-8a48-e7b13274016f",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Dean",
+    "Description": "Dean has requested a delivery of 1x Strawberry Bud behind the pawn shop for $800.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 56,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "1x Strawberry Bud, Behind pawn shop",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "3d4f4e03-506a-4fa9-b49c-3365802acf88",
+    "Payment": 800.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "strawberrybud",
+                "Quality": 1,
+                "Quantity": 1
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "9a9cb8f4-dc87-47de-890b-6d654deeecf9",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 55,
+        "Time": 2055
+    }
+}

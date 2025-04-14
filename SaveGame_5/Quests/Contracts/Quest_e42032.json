@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "e420321f-74f9-4842-ae92-a82bdf8f7c84",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Eugene",
+    "Description": "Eugene has requested a delivery of 1x Strawberry Bud on the wharf near the french restaurant for $800.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 56,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "1x Strawberry Bud, Wharf near french restaurant",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "4a353a06-75b9-4e28-837f-43c484d2c868",
+    "Payment": 800.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "strawberrybud",
+                "Quality": 2,
+                "Quantity": 1
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "44a13b39-9939-4004-87b6-d596e726ef3b",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 55,
+        "Time": 1349
+    }
+}

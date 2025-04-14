@@ -2,45 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 32,
-    "Read": false,
+    "ConversationIndex": 1,
+    "Read": true,
     "MessageHistory": [
-        {
-            "Sender": 0,
-            "MessageID": -1279194028,
-            "Text": "How about 3x Strawberry Bud for $1,480?",
-            "EndOfChain": false
-        },
-        {
-            "Sender": 1,
-            "MessageID": 32765240,
-            "Text": "Alright then. What time?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": -250035575,
-            "Text": "Late Night",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -430835980,
-            "Text": "Great, I'll meet you <b>behind the bus stop in the suburbs</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 1906944815,
-            "Text": "Hello, I'm after 1x Strawberry Bud. I can pay <color=#46CB4F>$590</color> for it.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 254507884,
-            "Text": "How about 2x Strawberry Bud for $1,090?",
-            "EndOfChain": false
-        },
         {
             "Sender": 1,
             "MessageID": -600824432,
@@ -63,6 +27,42 @@
             "Sender": 1,
             "MessageID": 1405187862,
             "Text": "Great, I'll meet you <b>rehind Ray's Realty</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -953411990,
+            "Text": "Hey, I need 1x Strawberry Bud. I'll pay <color=#46CB4F>$845</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 655999879,
+            "Text": "Yes",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 886402629,
+            "Text": "Great, I'll meet you <b>underneath the south end of the overpass</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1902798187,
+            "Text": "Hey, I need 1x Strawberry Bud. I'll pay <color=#46CB4F>$845</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 887555130,
+            "Text": "Sure thing",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1472003496,
+            "Text": "Great, I'll meet you <b>behind the post office</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         }
     ],

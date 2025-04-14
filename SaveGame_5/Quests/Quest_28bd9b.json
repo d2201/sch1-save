@@ -1,0 +1,28 @@
+{
+    "DataType": "DeaddropQuestData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "28bd9bab-79df-4022-8e2d-bdd410f82cb1",
+    "State": 2,
+    "IsTracked": true,
+    "Title": "Collect Dead Drop",
+    "Description": "Collect the dead drop behind the fire station",
+    "Expires": false,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 0,
+        "Time": 0
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "Behind fire station",
+            "State": 2
+        }
+    ],
+    "DeaddropGUID": "86835825-f5f8-454d-9c74-c31e257f9cc2"
+}

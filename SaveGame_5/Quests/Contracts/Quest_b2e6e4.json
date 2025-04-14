@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "b2e6e471-7bcf-45f9-821b-49228e919e79",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Jeff",
+    "Description": "Jeff has requested a delivery of 1x Strawberry Bud in the parking garage next to the casino for $845.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 56,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "1x Strawberry Bud, Next to parking garage",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "1d29f3d1-655e-4504-8a4c-1d8216db609e",
+    "Payment": 845.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "strawberrybud",
+                "Quality": 2,
+                "Quantity": 1
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "84e64355-61b5-4054-a9e1-f562b95e429e",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 55,
+        "Time": 931
+    }
+}

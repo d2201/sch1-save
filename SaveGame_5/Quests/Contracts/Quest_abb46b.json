@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "abb46b44-66aa-420d-8a51-2793b2d7dc52",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Trent",
+    "Description": "Trent has requested a delivery of 1x Strawberry Bud behind the construction site for $800.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 56,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "1x Strawberry Bud, Behind the construction site",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "3d75cfaf-216e-4258-8d48-214837bbe1a5",
+    "Payment": 800.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "strawberrybud",
+                "Quality": 1,
+                "Quantity": 1
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "1c42956b-05ac-474d-9077-a6c8c1e6b8b8",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 55,
+        "Time": 2033
+    }
+}

@@ -6,48 +6,6 @@
     "Read": false,
     "MessageHistory": [
         {
-            "Sender": 0,
-            "MessageID": -294841878,
-            "Text": "Late Night",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -1775490972,
-            "Text": "Good!! I'll see u <b>in front of the motel</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -963504816,
-            "Text": "You got 1x Strawberry Bud? I'll pay <color=#46CB4F>$555</color> for it",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 1561302078,
-            "Text": "How about 2x Strawberry Bud for $955?",
-            "EndOfChain": false
-        },
-        {
-            "Sender": 1,
-            "MessageID": 973755975,
-            "Text": "Damn it fine. What time?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 238890886,
-            "Text": "Late Night",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -697182407,
-            "Text": "Good!! I'll see u <b>behind Hyland gun range</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
-        {
             "Sender": 1,
             "MessageID": 313709949,
             "Text": "U got 1x Strawberry Bud??? I'll pay <color=#46CB4F>$555</color> for it. DEAL?",
@@ -64,8 +22,63 @@
             "MessageID": -2095580310,
             "Text": "Good!! I'll see u <b>next to the barbershop</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 277192839,
+            "Text": "You got 1x Strawberry Bud? I'll pay <color=#46CB4F>$800</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1145205843,
+            "Text": "Deal",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1431857723,
+            "Text": "Good!! I'll see u <b>behind Hyland gun range</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1072301663,
+            "Text": "You got 1x Strawberry Bud? I'll pay <color=#46CB4F>$800</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -675074712,
+            "Text": "Deal",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 764245882,
+            "Text": "Good!! I'll see u <b>in front of the motel</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1475786664,
+            "Text": "I NEED 1x Strawberry Bud. I GOT <color=#46CB4F>$800</color>. DEAL?",
+            "EndOfChain": true
         }
     ],
-    "ActiveResponses": [],
+    "ActiveResponses": [
+        {
+            "Text": "Yes",
+            "Label": "ACCEPT_CONTRACT"
+        },
+        {
+            "Text": "[Counter-offer]",
+            "Label": "COUNTEROFFER"
+        },
+        {
+            "Text": "No",
+            "Label": "REJECT_CONTRACT"
+        }
+    ],
     "IsHidden": false
 }

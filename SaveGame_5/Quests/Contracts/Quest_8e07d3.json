@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "8e07d3c3-d23d-48d5-8b3b-0041c5c099cb",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Peggy",
+    "Description": "Peggy has requested a delivery of 1x Strawberry Bud behind Hyland gun range for $800.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 56,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "1x Strawberry Bud, Behind Hyland Range",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "bd6cb42c-9379-4358-b3c7-acfc9c628710",
+    "Payment": 800.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "strawberrybud",
+                "Quality": 1,
+                "Quantity": 1
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "fb907ba0-f9d9-4491-9e44-8a8237b58fc3",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 55,
+        "Time": 1746
+    }
+}

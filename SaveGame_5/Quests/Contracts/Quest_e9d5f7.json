@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "e9d5f7eb-3763-459f-a691-4515cd71415a",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Louis",
+    "Description": "Louis has requested a delivery of 1x Strawberry Bud behind the casino for $775.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 56,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "1x Strawberry Bud, Behind the casino",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "38a57b2c-92e6-4f9c-b26e-18081faf57c0",
+    "Payment": 775.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "strawberrybud",
+                "Quality": 2,
+                "Quantity": 1
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "410ecf80-02ba-4d83-b9a4-1be350ff9fc8",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 55,
+        "Time": 1104
+    }
+}

@@ -2,21 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 43,
-    "Read": false,
+    "ConversationIndex": 20,
+    "Read": true,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": -162331262,
-            "Text": "Hey, can I get 3x Strawberry Bud? I'll pay <color=#46CB4F>$1,500</color>",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 1573667688,
-            "Text": "Yes",
-            "EndOfChain": true
-        },
         {
             "Sender": 1,
             "MessageID": -590675978,
@@ -39,6 +27,42 @@
             "Sender": 1,
             "MessageID": -1478266728,
             "Text": "Great, I'll meet you <b>rehind Ray's Realty</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1978326017,
+            "Text": "Hey, I need 1x Strawberry Bud. I'll pay <color=#46CB4F>$750</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1732745594,
+            "Text": "Deal",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 2088251170,
+            "Text": "Great, I'll meet you <b>rehind Ray's Realty</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1590863083,
+            "Text": "Hey, I need 1x Strawberry Bud. I'll pay <color=#46CB4F>$765</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1847476841,
+            "Text": "Deal",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 717456665,
+            "Text": "Great, I'll meet you <b>behind the bus stop in the suburbs</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         }
     ],

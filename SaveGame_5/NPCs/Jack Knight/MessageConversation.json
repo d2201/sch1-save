@@ -2,8 +2,8 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 19,
-    "Read": false,
+    "ConversationIndex": 45,
+    "Read": true,
     "MessageHistory": [
         {
             "Sender": 0,

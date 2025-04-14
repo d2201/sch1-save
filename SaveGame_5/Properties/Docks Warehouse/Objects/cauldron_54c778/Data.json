@@ -14,21 +14,21 @@
     "Ingredients": {
         "Items": [
             "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cocaleaf\",\"Quantity\":20,\"Quality\":\"Premium\"}",
+            "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cocaleaf\",\"Quantity\":20,\"Quality\":\"Standard\"}",
             "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cocaleaf\",\"Quantity\":20,\"Quality\":\"Premium\"}",
-            "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cocaleaf\",\"Quantity\":18,\"Quality\":\"Premium\"}",
-            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}"
+            "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cocaleaf\",\"Quantity\":9,\"Quality\":\"Premium\"}"
         ]
     },
     "Liquid": {
         "Items": [
-            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"gasoline\",\"Quantity\":10}"
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"gasoline\",\"Quantity\":20}"
         ]
     },
     "Output": {
         "Items": [
-            "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cocainebase\",\"Quantity\":10,\"Quality\":\"Premium\"}"
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}"
         ]
     },
-    "RemainingCookTime": 0,
+    "RemainingCookTime": 263,
     "InputQuality": 3
 }

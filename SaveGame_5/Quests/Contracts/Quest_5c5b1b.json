@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "5c5b1bf0-c80d-4ee1-927f-a8c71897d6b1",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Chris",
+    "Description": "Chris has requested a delivery of 1x Strawberry Bud behind the post office for $845.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 56,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "1x Strawberry Bud, Behind the Post Office",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "32f710fc-2812-48fb-beec-e81b30c14f43",
+    "Payment": 845.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "strawberrybud",
+                "Quality": 3,
+                "Quantity": 1
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "67324b45-c8d8-4e70-8d60-0de7ba0749f7",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 55,
+        "Time": 1108
+    }
+}

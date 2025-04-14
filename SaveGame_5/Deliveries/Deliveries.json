@@ -2,5 +2,32 @@
     "DataType": "DeliveriesData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ActiveDeliveries": []
+    "ActiveDeliveries": [
+        {
+            "DeliveryID": "3f76a80c-1283-4080-84be-da0cfcd365cc",
+            "StoreName": "Gas-Mart (West)",
+            "DestinationCode": "dockswarehouse",
+            "LoadingDockIndex": 0,
+            "Items": [
+                {
+                    "String": "banana",
+                    "Int": 80
+                },
+                {
+                    "String": "cuke",
+                    "Int": 80
+                },
+                {
+                    "String": "horsesemen",
+                    "Int": 80
+                },
+                {
+                    "String": "megabean",
+                    "Int": 80
+                }
+            ],
+            "Status": 0,
+            "TimeUntilArrival": 126
+        }
+    ]
 }

@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "2eb6be22-ee61-4726-8048-c83f9187c01b",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Genghis",
+    "Description": "Genghis has requested a delivery of 1x Strawberry Bud underneath the south end of the overpass for $845.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 56,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "1x Strawberry Bud, South Overpass",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "76d514d5-e4b3-4297-aaec-8d35d5d5403b",
+    "Payment": 845.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "strawberrybud",
+                "Quality": 0,
+                "Quantity": 1
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "4cbdc267-5898-406f-a5bc-cfce0aec8c2b",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 55,
+        "Time": 1347
+    }
+}

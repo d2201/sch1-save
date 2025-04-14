@@ -1,6 +1,6 @@
 {
     "Items": [
-        "{\"DataType\":\"CocaineData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cocaine\",\"Quantity\":16,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
+        "{\"DataType\":\"CocaineData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cocaine\",\"Quantity\":10,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
         "{\"DataType\":\"CocaineData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cocaine\",\"Quantity\":20,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
         "{\"DataType\":\"CocaineData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cocaine\",\"Quantity\":20,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
         "{\"DataType\":\"CocaineData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cocaine\",\"Quantity\":20,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",

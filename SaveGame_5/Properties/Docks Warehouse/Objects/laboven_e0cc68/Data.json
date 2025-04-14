@@ -13,7 +13,7 @@
     "Rotation": 0,
     "InputContents": {
         "Items": [
-            "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cocainebase\",\"Quantity\":10,\"Quality\":\"Premium\"}"
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}"
         ]
     },
     "OutputContents": {
@@ -25,5 +25,5 @@
     "CurrentIngredientQuantity": 10,
     "CurrentIngredientQuality": 3,
     "CurrentProductID": "cocaine",
-    "CurrentCookProgress": 803
+    "CurrentCookProgress": 29
 }

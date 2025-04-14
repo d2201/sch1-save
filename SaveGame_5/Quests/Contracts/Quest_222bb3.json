@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "222bb340-5df6-429f-bd20-24570bc5f195",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Keith",
+    "Description": "Keith has requested a delivery of 1x Strawberry Bud behind the western Gas Mart for $800.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 56,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "1x Strawberry Bud, Behind the western Gas Mart",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "ad0ec19f-ac46-4bf6-8425-7bde5b36767f",
+    "Payment": 800.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "strawberrybud",
+                "Quality": 0,
+                "Quantity": 1
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "aecd84fe-d0bf-41e7-859d-7c3cd1e99a40",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 55,
+        "Time": 926
+    }
+}

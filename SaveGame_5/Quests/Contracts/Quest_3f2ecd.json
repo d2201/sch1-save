@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "3f2ecded-096d-42a6-b11b-84d6d16bed46",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Jackie",
+    "Description": "Jackie has requested a delivery of 1x Strawberry Bud at the residential park for $800.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 56,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "1x Strawberry Bud, Residential park",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "184784cc-08fc-4d3e-a631-d29d9e8d52de",
+    "Payment": 800.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "strawberrybud",
+                "Quality": 3,
+                "Quantity": 1
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "00198638-3ee0-439f-9b6d-d88835923889",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 55,
+        "Time": 1339
+    }
+}
